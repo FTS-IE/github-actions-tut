@@ -25,10 +25,10 @@ jobs:
           python-version: '3.12'
 
       - name: Install scraper
-        run: pipx install warn-scraper
+        run: pip install warn-scraper
 
       - name: Scrape
-        run: warn-scraper ${{ matrix.state }} --data-dir ./data/
+        run: python -m warn ${{ matrix.state }} --data-dir ./data/
 
       - name: upload-artifact
         uses: actions/upload-artifact@v4
