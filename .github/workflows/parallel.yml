@@ -28,7 +28,8 @@ jobs:
         run: pip install warn-scraper
 
       - name: Scrape
-        run: warn-scraper ${{ matrix.state }} --data-dir ./data/
+        # Use 'python -m' to invoke the installed package
+        run: python -m warn_scraper ${{ matrix.state }} --data-dir ./data/
 
       - name: upload-artifact
         uses: actions/upload-artifact@v4
