@@ -42,8 +42,9 @@ jobs:
       - name: Run Scraper
         run: |
           mkdir -p data
-          python -m warn ${{ matrix.state }} --data-dir ./data/
-
+          # Try running via the internal CLI hook
+          python -c "from warn.cli import main; import sys; sys.argv=['warn-scraper', '${{ matrix.state }}', '--data-dir', './data/']; main()"
+          
       - name: Commit and Push
         run: |
           git config user.name "GitHub Actions"
