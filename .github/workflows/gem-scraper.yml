@@ -15,6 +15,7 @@ jobs:
     continue-on-error: true
     strategy:
       fail-fast: false
+      max-parallel: 20 # Limit parallelism to prevent GitHub from throttling
       matrix:
         # TEST TIP: Use [ca, ny, ia] for your first run
         # state: [ny, ia]
@@ -27,11 +28,13 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+          cache: 'pip' # Speeds up the run significantly
 
       - name: Install scraper
         run: pip install warn-scraper
 
       - name: Scrape
+        timeout-minutes: 10 # Prevents a single state from hanging the whole run
         run: |
           mkdir -p ./data/
           python -c "from warn.cli import main; import sys; sys.argv=['warn-scraper', '${{ matrix.state }}', '--data-dir', './data/']; main()"
@@ -56,6 +59,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+          cache: 'pip'
 
       - name: Install Dependencies
         run: pip install pandas requests
@@ -81,21 +85,38 @@ jobs:
           import glob
           import os
           from datetime import datetime, timedelta
+
           threshold = datetime.now() - timedelta(days=30)
           all_dfs = []
-          for f in glob.glob("./data/*.csv"):
+          
+          for f in sorted(glob.glob("./data/*.csv")):
               if "recent_notices.csv" in f: continue
               try:
                   df = pd.read_csv(f)
+                  
+                  # Find relevant columns
                   d_col = next((c for c in df.columns if 'date' in c.lower()), None)
+                  c_col = next((c for c in df.columns if any(x in c.lower() for x in ['company', 'employer'])), None)
+                  
                   if d_col:
                       df[d_col] = pd.to_datetime(df[d_col], errors='coerce')
-                      all_dfs.append(df[df[d_col] >= threshold])
-              except Exception as e:
-                  print(f"Skipping {f} due to error: {e}")
+                      # Filter 1: Date is within 30 days
+                      df = df[df[d_col] >= threshold]
+                      
+                  if c_col:
+                      # Filter 2: Company is not Unknown or empty
+                      df = df[df[c_col].notna()]
+                      df = df[~df[c_col].astype(str).str.lower().isin(['unknown', 'nan', 'n/a', ''])]
+                  
+                  all_dfs.append(df)
+              except Exception:
                   continue
+                  
           if all_dfs:
-              pd.concat(all_dfs).sort_values(by=d_col, ascending=False).to_csv("./data/recent_notices.csv", index=False)
+              final_recent = pd.concat(all_dfs)
+              # Final sort so the newest stuff is always at the top
+              final_recent.sort_values(by=d_col, ascending=False, inplace=True)
+              final_recent.to_csv("./data/recent_notices.csv", index=False)
 
       - name: Send Slack Alerts
         env:
@@ -106,17 +127,13 @@ jobs:
           import requests
           import os
           import glob
+          from datetime import datetime
 
-          # Mapping states to their official WARN portals
           URL_MAP = {
-              "NY": "https://dol.ny.gov/warn-dashboard",
+              "NY": "https://dol.ny.gov/warn-notices",
               "CA": "https://edd.ca.gov/en/Jobs_and_Training/Layoff_Services_WARN",
-              "IA": "https://workforce.iowa.gov/employers/resources/warn/notices",
-              "TX": "https://www.twc.texas.gov/data-reports/warn-notice",
-              "FL": "https://www.floridajobs.org/office-directory/division-of-workforce-services/workforce-programs/reemployment-and-emergency-assistance-coordination-team-react/warn-notices",
-              "PA": "https://www.pa.gov/agencies/dli/programs-services/workforce-development-home/warn-requirements/warn-notices",
-              "NJ": "https://www.nj.gov/labor/business-services/layoffs-and-closing/file-warn-notice/",
-              "OH": "https://jfs.ohio.gov/job-services-and-unemployment/job-services/job-programs-and-services/submit-a-warn-notice/current-public-notices-of-layoffs-and-closures-sa/current-public-notices-of-layoffs-and-closures"
+              "IA": "https://www.iowaworkforcedevelopment.gov/worker-adjustment-and-retraining-notification-warn-notices",
+              "TX": "https://www.twc.texas.gov/biz/warn/warn-notices.html"
           }
 
           webhook_url = os.environ.get('SLACK_WEBHOOK_URL')
@@ -125,7 +142,6 @@ jobs:
 
           for new_file in glob.glob("./data/*.csv"):
               if "recent_notices.csv" in new_file: continue
-              
               state_code = os.path.basename(new_file).replace('.csv', '').upper()
               old_file = new_file.replace('./data/', './old_data/')
               state_url = URL_MAP.get(state_code, f"https://www.google.com/search?q={state_code}+WARN+notices")
@@ -133,50 +149,51 @@ jobs:
               try:
                   df_new = pd.read_csv(new_file)
                   
+                  # 1. Identify New Records
                   if os.path.exists(old_file):
                       df_old = pd.read_csv(old_file)
-                      # Identify truly new records
                       merged = df_new.merge(df_old, how='outer', indicator=True)
                       new_records = merged[merged['_merge'] == 'left_only'].drop('_merge', axis=1)
                   else:
-                      new_records = df_new.head(1) # Alert on just 1 for a brand new state
-
-                  print(f"Found {len(new_records)} new records for {state_code}")
+                      new_records = df_new.head(5)
 
                   for _, row in new_records.iterrows():
-                      co = next((row[c] for c in df_new.columns if 'company' in c.lower()), "Unknown Company")
-                      jobs = next((row[c] for c in df_new.columns if 'job' in c.lower() or 'worker' in c.lower() or 'count' in c.lower()), "N/A")
-                      date = next((row[c] for c in df_new.columns if 'date' in c.lower()), "N/A")
+                      # 2. Advanced Column Mapping
+                      # Company Name
+                      co = next((str(row[c]) for c in df_new.columns if any(x in c.lower() for x in ['company', 'employer', 'organization'])), "Unknown")
                       
-                      # Formatting the Slack message with a "View Official Page" button link
+                      # Jobs Affected (Added 'layoff', 'worker', 'total' to search)
+                      jobs = next((str(row[c]) for c in df_new.columns if any(x in c.lower() for x in ['job', 'worker', 'affected', 'layoff', 'count', 'number', 'total'])), "N/A")
+                      
+                      # Notice Date
+                      date_val = next((row[c] for c in df_new.columns if 'notice' in c.lower() and 'date' in c.lower()), None)
+                      if not date_val:
+                          date_val = next((row[c] for c in df_new.columns if 'date' in c.lower()), "N/A")
+
+                      # 3. APPLY FILTERS (The "Guardrails")
+                      
+                      # Skip if Company is unknown or missing
+                      if not co or co.lower() in ['unknown', 'nan', 'n/a', '']:
+                          continue
+
+                      # Skip if date is not in 2026 (Fixes the 2003/2025 issue)
+                      try:
+                          parsed_date = pd.to_datetime(date_val, errors='coerce')
+                          if parsed_date.year != 2026:
+                              continue
+                      except:
+                          continue # Skip if date is unparseable
+
+                      # 4. SEND ALERT
                       payload = {
                           "blocks": [
-                              {
-                                  "type": "section",
-                                  "text": {
-                                      "type": "mrkdwn",
-                                      "text": f"🚨 *New WARN Notice: {state_code}*\n*Company:* {co}\n*Jobs affected:* {jobs}\n*Notice Date:* {date}"
-                                  }
-                              },
-                              {
-                                  "type": "actions",
-                                  "elements": [
-                                      {
-                                          "type": "button",
-                                          "text": {
-                                              "type": "plain_text",
-                                              "text": "🔗 View Official State Page"
-                                          },
-                                          "url": state_url
-                                      }
-                                  ]
-                              }
+                              {"type": "section", "text": {"type": "mrkdwn", "text": f"*New WARN Notice: {state_code}*\n*Company:* {co}\n*Jobs:* {jobs}\n*Notice Date:* {date_val}"}},
+                              {"type": "actions", "elements": [{"type": "button", "text": {"type": "plain_text", "text": "🔗 View State Page"}, "url": state_url}]}
                           ]
                       }
                       requests.post(webhook_url, json=payload)
               except Exception as e:
                   print(f"Error alerting for {state_code}: {e}")
-                  continue
 
       - name: Update Index Page
         shell: python
