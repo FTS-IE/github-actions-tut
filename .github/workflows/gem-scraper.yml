@@ -1,8 +1,8 @@
-name: Daily WARN scrape
+name: Matrix WARN Scraper with Slack Alerts
 
 on:
   schedule:
-    - cron: '0 15 * * *' # 10:00 AM EST (15:00 UTC)
+    - cron: '0 15 * * *' # 10:00 AM EST
   workflow_dispatch:
 
 permissions:
@@ -16,10 +16,9 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        # TEST TIP: Replace the list below with [ca, ia, ny] to test quickly
-        state: [ia, ny]
+        # TEST TIP: Use [ca, ny, ia] for your first run
+        state: [ny, ia]
         # state: [al, ak, az, ar, ca, co, ct, de, fl, ga, hi, id, il, in, ia, ks, ky, la, me, md, ma, mi, mn, ms, mo, mt, ne, nv, nh, nj, nm, ny, nc, nd, oh, ok, or, pa, ri, sc, sd, tn, tx, ut, vt, va, wa, wv, wi, wy]
-    
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -33,7 +32,6 @@ jobs:
         run: pip install warn-scraper
 
       - name: Scrape
-        # Using the direct python execution fix to avoid Exit Code 127
         run: |
           mkdir -p ./data/
           python -c "from warn.cli import main; import sys; sys.argv=['warn-scraper', '${{ matrix.state }}', '--data-dir', './data/']; main()"
@@ -45,12 +43,22 @@ jobs:
           path: ./data/${{ matrix.state }}.csv
 
   commit:
-    name: Commit
+    name: Commit and Alert
     runs-on: ubuntu-latest
     needs: scrape
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 2 # Necessary to compare today's data with yesterday's
+
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Dependencies
+        run: pip install pandas requests
 
       - name: Download artifact
         uses: actions/download-artifact@v4
@@ -58,10 +66,12 @@ jobs:
           pattern: '*'
           path: artifacts/
 
-      - name: Move
+      - name: Move and Prepare
         run: |
           mkdir -p data
-          # This moves all CSVs from their individual artifact folders into /data
+          # We store the 'old' version of the files before overwriting them
+          mkdir -p old_data
+          cp data/*.csv old_data/ 2>/dev/null || true
           mv artifacts/**/*.csv data/
 
       - name: Create Rolling 30-Day Window
@@ -70,33 +80,66 @@ jobs:
           import pandas as pd
           import glob
           from datetime import datetime, timedelta
+          threshold = datetime.now() - timedelta(days=30)
+          all_dfs = []
+          for f in glob.glob("./data/*.csv"):
+              if "recent_notices.csv" in f: continue
+              try:
+                  df = pd.read_csv(f)
+                  d_col = next((c for c in df.columns if 'date' in c.lower()), None)
+                  if d_col:
+                      df[d_col] = pd.to_datetime(df[d_col], errors='coerce')
+                      all_dfs.append(df[df[d_col] >= threshold])
+              except: continue
+          if all_dfs:
+              pd.concat(all_dfs).sort_values(by=d_col, ascending=False).to_csv("./data/recent_notices.csv", index=False)
 
-          # Define the window (e.g., 30 days)
-          threshold_date = datetime.now() - timedelta(days=30)
-          all_data = []
+      - name: Send Slack Alerts
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        shell: python
+        run: |
+          import pandas as pd
+          import requests
+          import os
+          import glob
 
-          # Loop through all state CSVs we just moved
-          for file in glob.glob("./data/*.csv"):
-              if "recent_notices" in file: continue # Skip the output file itself
+          webhook_url = os.environ.get('SLACK_WEBHOOK_URL')
+          if not webhook_url:
+              print("No Webhook URL found. Skipping alerts.")
+              exit(0)
+
+          for new_file in glob.glob("./data/*.csv"):
+              if "recent_notices.csv" in new_file: continue
+              state_code = os.path.basename(new_file).replace('.csv', '').upper()
+              old_file = new_file.replace('./data/', './old_data/')
               
-              df = pd.read_csv(file)
-              # Standardize date column (find column with 'date' in name)
-              date_col = next((c for c in df.columns if 'date' in c.lower()), None)
-              
-              if date_col:
-                  df[date_col] = pd.to_datetime(df[date_col], errors='coerce')
-                  # Filter for records newer than the threshold
-                  recent = df[df[date_col] >= threshold_date]
-                  all_data.append(recent)
+              try:
+                  df_new = pd.read_csv(new_file)
+                  # If we have an old version, find only rows that are actually new
+                  if os.path.exists(old_file):
+                      df_old = pd.read_csv(old_file)
+                      # Identify new rows by checking what is in New but not in Old
+                      # We use a merge trick to find unique rows
+                      new_records = df_new[~df_new.apply(tuple,1).isin(df_old.apply(tuple,1))]
+                  else:
+                      # If it's a brand new state file, just alert on the top 3 rows so we don't spam
+                      new_records = df_new.head(3)
 
-          # Combine all states into one "Recent" file for journalists
-          if all_data:
-              final_df = pd.concat(all_data)
-              final_df.sort_values(by=date_col, ascending=False, inplace=True)
-              final_df.to_csv("./data/recent_notices.csv", index=False)
+                  for _, row in new_records.iterrows():
+                      # Find column names dynamically since states differ
+                      co = next((row[c] for c in df_new.columns if 'company' in c.lower()), "Unknown Company")
+                      jobs = next((row[c] for c in df_new.columns if 'job' in c.lower() or 'worker' in c.lower() or 'count' in c.lower()), "N/A")
+                      date = next((row[c] for c in df_new.columns if 'date' in c.lower()), "N/A")
+                      
+                      payload = {
+                          "text": f"🚨 *New WARN Notice: {state_code}*\n*Company:* {co}\n*Jobs:* {jobs}\n*Notice Date:* {date}"
+                      }
+                      requests.post(webhook_url, json=payload)
+              except Exception as e:
+                  print(f"Error processing {state_code}: {e}")
 
       - name: Save datestamp
-        # Per the tutorial, this logs the time and ensures the commit isn't empty
         run: date > ./data/latest-scrape.txt
 
       - name: Commit and push
@@ -104,4 +147,4 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@users.noreply.github.com"
           git add ./data/
-          git commit -m "Latest data" && git push || true
+          git commit -m "Update WARN data and recent_notices" && git push || true
