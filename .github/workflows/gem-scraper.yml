@@ -1,54 +1,76 @@
-name: Daily WARN Scrape
+name: Daily WARN scrape
 
 on:
   schedule:
-    # 10:00 AM EST is 15:00 UTC. 
-    # (Note: If you are in Daylight Savings, this would be 14:00 UTC)
-    - cron: '0 15 * * *'
+    - cron: '0 15 * * *' # 10:00 AM EST (15:00 UTC)
   workflow_dispatch:
-    inputs:
-      test_run:
-        description: 'Run only test states (ca, ny)?'
-        required: true
-        default: 'false'
-        type: boolean
 
 permissions:
   contents: write
 
 jobs:
-  scrape-and-commit:
+  scrape:
+    name: Scrape
     runs-on: ubuntu-latest
-    
+    continue-on-error: true
     strategy:
       fail-fast: false
       matrix:
-        # TO TEST: Comment out the long list and just leave [ca, ny]
-        state: [ca, ny]
+        # TEST TIP: Replace the list below with [ca, ia, ny] to test quickly
+        state: [ia, ny]
         # state: [al, ak, az, ar, ca, co, ct, de, fl, ga, hi, id, il, in, ia, ks, ky, la, me, md, ma, mi, mn, ms, mo, mt, ne, nv, nh, nj, nm, ny, nc, nd, oh, ok, or, pa, ri, sc, sd, tn, tx, ut, vt, va, wa, wv, wi, wy]
-
+    
     steps:
-      - name: Checkout Code
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Install Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      - name: Install Scraper
+      - name: Install scraper
         run: pip install warn-scraper
 
-      - name: Run Scraper
+      - name: Scrape
+        # Using the direct python execution fix to avoid Exit Code 127
+        run: |
+          mkdir -p ./data/
+          python -c "from warn.cli import main; import sys; sys.argv=['warn-scraper', '${{ matrix.state }}', '--data-dir', './data/']; main()"
+
+      - name: upload-artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.state }}
+          path: ./data/${{ matrix.state }}.csv
+
+  commit:
+    name: Commit
+    runs-on: ubuntu-latest
+    needs: scrape
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          pattern: '*'
+          path: artifacts/
+
+      - name: Move
         run: |
           mkdir -p data
-          # Try running via the internal CLI hook
-          python -c "from warn.cli import main; import sys; sys.argv=['warn-scraper', '${{ matrix.state }}', '--data-dir', './data/']; main()"
-          
-      - name: Commit and Push
+          # This moves all CSVs from their individual artifact folders into /data
+          mv artifacts/**/*.csv data/
+
+      - name: Save datestamp
+        # Per the tutorial, this logs the time and ensures the commit isn't empty
+        run: date > ./data/latest-scrape.txt
+
+      - name: Commit and push
         run: |
           git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add data/
-          # This sequence handles potential conflicts if multiple matrix jobs push at once
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update ${{ matrix.state }} data" && git pull --rebase origin main && git push origin main)
+          git config user.email "actions@users.noreply.github.com"
+          git add ./data/
+          git commit -m "Latest data" && git push || true
