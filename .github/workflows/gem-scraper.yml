@@ -94,13 +94,6 @@ jobs:
           if all_dfs:
               pd.concat(all_dfs).sort_values(by=d_col, ascending=False).to_csv("./data/recent_notices.csv", index=False)
 
-      - name: Slack Connection Test
-        env:
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-        run: |
-          curl -X POST -H 'Content-type: application/json' \
-          --data '{"text":"✅ GitHub Action connected to Slack successfully!"}' \
-          $SLACK_WEBHOOK_URL
 
       - name: Send Slack Alerts
         env:
@@ -113,35 +106,66 @@ jobs:
           import glob
 
           webhook_url = os.environ.get('SLACK_WEBHOOK_URL')
-          if not webhook_url:
-              print("No Webhook URL found. Skipping alerts.")
-              exit(0)
+          
+          # Mapping states to their official WARN portals
+          URL_MAP = {
+              "NY": "https://dol.ny.gov/warn-notices",
+              "CA": "https://edd.ca.gov/en/Jobs_and_Training/Layoff_Services_WARN",
+              "IA": "https://www.iowaworkforcedevelopment.gov/worker-adjustment-and-retraining-notification-warn-notices",
+              "TX": "https://www.twc.texas.gov/biz/warn/warn-notices.html",
+              "FL": "https://reactweb.floridajobs.org/Warnnotices/Search"
+              # Add other states here as needed
+          }
 
           for new_file in glob.glob("./data/*.csv"):
               if "recent_notices.csv" in new_file: continue
+              
               state_code = os.path.basename(new_file).replace('.csv', '').upper()
               old_file = new_file.replace('./data/', './old_data/')
+              state_url = URL_MAP.get(state_code, "https://www.google.com/search?q=" + state_code + "+WARN+notices")
               
               try:
                   df_new = pd.read_csv(new_file)
-                  # If we have an old version, find only rows that are actually new
+                  
                   if os.path.exists(old_file):
                       df_old = pd.read_csv(old_file)
-                      # Identify new rows by checking what is in New but not in Old
-                      # We use a merge trick to find unique rows
-                      new_records = df_new[~df_new.apply(tuple,1).isin(df_old.apply(tuple,1))]
+                      # Identify truly new records
+                      merged = df_new.merge(df_old, how='outer', indicator=True)
+                      new_records = merged[merged['_merge'] == 'left_only'].drop('_merge', axis=1)
                   else:
-                      # If it's a brand new state file, just alert on the top 3 rows so we don't spam
-                      new_records = df_new.head(3)
+                      new_records = df_new.head(1) # Alert on just 1 for a brand new state
+
+                  print(f"Found {len(new_records)} new records for {state_code}")
 
                   for _, row in new_records.iterrows():
-                      # Find column names dynamically since states differ
                       co = next((row[c] for c in df_new.columns if 'company' in c.lower()), "Unknown Company")
                       jobs = next((row[c] for c in df_new.columns if 'job' in c.lower() or 'worker' in c.lower() or 'count' in c.lower()), "N/A")
                       date = next((row[c] for c in df_new.columns if 'date' in c.lower()), "N/A")
                       
+                      # Formatting the Slack message with a "View Official Page" button link
                       payload = {
-                          "text": f"🚨 *New WARN Notice: {state_code}*\n*Company:* {co}\n*Jobs:* {jobs}\n*Notice Date:* {date}"
+                          "blocks": [
+                              {
+                                  "type": "section",
+                                  "text": {
+                                      "type": "mrkdwn",
+                                      "text": f"🚨 *New WARN Notice: {state_code}*\n*Company:* {co}\n*Jobs affected:* {jobs}\n*Notice Date:* {date}"
+                                  }
+                              },
+                              {
+                                  "type": "actions",
+                                  "elements": [
+                                      {
+                                          "type": "button",
+                                          "text": {
+                                              "type": "plain_text",
+                                              "text": "🔗 View Official State Page"
+                                          },
+                                          "url": state_url
+                                      }
+                                  ]
+                              }
+                          ]
                       }
                       requests.post(webhook_url, json=payload)
               except Exception as e:
@@ -149,6 +173,41 @@ jobs:
 
       - name: Save datestamp
         run: date > ./data/latest-scrape.txt
+
+      - name: Update Index Page
+        shell: python
+        run: |
+          import glob
+          import os
+          from datetime import datetime
+
+          # Same URL map used in Slack for consistency
+          URL_MAP = {
+              "NY": "https://dol.ny.gov/warn-notices",
+              "CA": "https://edd.ca.gov/en/Jobs_and_Training/Layoff_Services_WARN",
+              "IA": "https://www.iowaworkforcedevelopment.gov/worker-adjustment-and-retraining-notification-warn-notices",
+              "TX": "https://www.twc.texas.gov/biz/warn/warn-notices.html"
+          }
+
+          content = "# 📢 WARN Act Data Portal\n\n"
+          content += "Automated tracking of layoff notices across the U.S. Updated daily at 10:00 AM EST.\n\n"
+          content += "### 🕒 Latest Global Update: " + datetime.now().strftime("%Y-%m-%d %H:%M") + " UTC\n\n"
+          content += "| State | Data Download | Official Source |\n"
+          content += "| :--- | :--- | :--- |\n"
+          content += "| **All States** | [Download Combined 30-Day CSV](./data/recent_notices.csv) | - |\n"
+
+          # Loop through state files to build the table
+          for f in sorted(glob.glob("./data/*.csv")):
+              if "recent_notices" in f: continue
+              state = os.path.basename(f).replace('.csv', '').upper()
+              source = URL_MAP.get(state, "Search Google")
+              content += f"| {state} | [Download CSV](./data/{state.lower()}.csv) | [Link]({source}) |\n"
+
+          content += "\n\n---\n*This page is automatically updated by GitHub Actions.*"
+
+          with open("README.md", "w") as f:
+              f.write(content)
+
 
       - name: Commit and push
         run: |
