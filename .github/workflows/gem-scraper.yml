@@ -18,7 +18,7 @@ jobs:
       matrix:
         # TEST TIP: Use [ca, ny, ia] for your first run
         state: [ny, ia]
-        # state: [al, ak, az, ar, ca, co, ct, de, fl, ga, hi, id, il, in, ia, ks, ky, la, me, md, ma, mi, mn, ms, mo, mt, ne, nv, nh, nj, nm, ny, nc, nd, oh, ok, or, pa, ri, sc, sd, tn, tx, ut, vt, va, wa, wv, wi, wy]
+        # state: [al, ak, az, ar, ca, co, ct, de, fl, ga, hi, id, il, in, ia, ks, ky, la, me, md, mi, mo, mt, ne, nj, nm, ny, oh, ok, or, pa, ri, sc, sd, tn, tx, ut, vt, va, wa, wi]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -109,12 +109,14 @@ jobs:
           
           # Mapping states to their official WARN portals
           URL_MAP = {
-              "NY": "https://dol.ny.gov/warn-notices",
+              "NY": "https://dol.ny.gov/warn-dashboard",
               "CA": "https://edd.ca.gov/en/Jobs_and_Training/Layoff_Services_WARN",
-              "IA": "https://www.iowaworkforcedevelopment.gov/worker-adjustment-and-retraining-notification-warn-notices",
-              "TX": "https://www.twc.texas.gov/biz/warn/warn-notices.html",
-              "FL": "https://reactweb.floridajobs.org/Warnnotices/Search"
-              # Add other states here as needed
+              "IA": "https://workforce.iowa.gov/employers/resources/warn/notices",
+              "TX": "https://www.twc.texas.gov/data-reports/warn-notice",
+              "FL": "https://www.floridajobs.org/office-directory/division-of-workforce-services/workforce-programs/reemployment-and-emergency-assistance-coordination-team-react/warn-notices",
+              "PA": "https://www.pa.gov/agencies/dli/programs-services/workforce-development-home/warn-requirements/warn-notices",
+              "NJ": "https://www.nj.gov/labor/business-services/layoffs-and-closing/file-warn-notice/",
+              "OH": "https://jfs.ohio.gov/job-services-and-unemployment/job-services/job-programs-and-services/submit-a-warn-notice/current-public-notices-of-layoffs-and-closures-sa/current-public-notices-of-layoffs-and-closures"
           }
 
           for new_file in glob.glob("./data/*.csv"):
@@ -181,29 +183,43 @@ jobs:
           import os
           from datetime import datetime
 
-          # Same URL map used in Slack for consistency
+          # Professional URL Map
           URL_MAP = {
-              "NY": "https://dol.ny.gov/warn-notices",
+              "NY": "https://dol.ny.gov/warn-dashboard",
               "CA": "https://edd.ca.gov/en/Jobs_and_Training/Layoff_Services_WARN",
-              "IA": "https://www.iowaworkforcedevelopment.gov/worker-adjustment-and-retraining-notification-warn-notices",
-              "TX": "https://www.twc.texas.gov/biz/warn/warn-notices.html"
+              "IA": "https://workforce.iowa.gov/employers/resources/warn/notices",
+              "TX": "https://www.twc.texas.gov/data-reports/warn-notice",
+              "FL": "https://www.floridajobs.org/office-directory/division-of-workforce-services/workforce-programs/reemployment-and-emergency-assistance-coordination-team-react/warn-notices",
+              "PA": "https://www.pa.gov/agencies/dli/programs-services/workforce-development-home/warn-requirements/warn-notices",
+              "NJ": "https://www.nj.gov/labor/business-services/layoffs-and-closing/file-warn-notice/",
+              "OH": "https://jfs.ohio.gov/job-services-and-unemployment/job-services/job-programs-and-services/submit-a-warn-notice/current-public-notices-of-layoffs-and-closures-sa/current-public-notices-of-layoffs-and-closures"
           }
 
+          # Keep the professional intro and global timestamp
           content = "# 📢 WARN Act Data Portal\n\n"
           content += "Automated tracking of layoff notices across the U.S. Updated daily at 10:00 AM EST.\n\n"
           content += "### 🕒 Latest Global Update: " + datetime.now().strftime("%Y-%m-%d %H:%M") + " UTC\n\n"
+          
           content += "| State | Data Download | Official Source |\n"
           content += "| :--- | :--- | :--- |\n"
-          content += "| **All States** | [Download Combined 30-Day CSV](./data/recent_notices.csv) | - |\n"
+          
+          # Include the combined 30-day file at the top of the table
+          if os.path.exists("./data/recent_notices.csv"):
+              content += "| **All States** | [Download Combined 30-Day CSV](./data/recent_notices.csv) | - |\n"
 
-          # Loop through state files to build the table
-          for f in sorted(glob.glob("./data/*.csv")):
-              if "recent_notices" in f: continue
-              state = os.path.basename(f).replace('.csv', '').upper()
-              source = URL_MAP.get(state, "Search Google")
-              content += f"| {state} | [Download CSV](./data/{state.lower()}.csv) | [Link]({source}) |\n"
+          # Dynamically add only the states that were successfully scraped
+          state_files = sorted(glob.glob("./data/*.csv"))
+          for f in state_files:
+              filename = os.path.basename(f)
+              if filename == "recent_notices.csv":
+                  continue
+              
+              state_code = filename.replace('.csv', '').upper()
+              source_url = URL_MAP.get(state_code, f"https://www.google.com/search?q={state_code}+official+WARN+notices")
+              
+              content += f"| {state_code} | [Download CSV](./data/{filename}) | [Official Source]({source_url}) |\n"
 
-          content += "\n\n---\n*This page is automatically updated by GitHub Actions.*"
+          content += "\n\n---\n*This page is automatically updated by GitHub Actions. Data provided by Big Local News.*"
 
           with open("README.md", "w") as f:
               f.write(content)
