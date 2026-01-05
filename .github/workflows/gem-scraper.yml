@@ -64,6 +64,37 @@ jobs:
           # This moves all CSVs from their individual artifact folders into /data
           mv artifacts/**/*.csv data/
 
+      - name: Create Rolling 30-Day Window
+        shell: python
+        run: |
+          import pandas as pd
+          import glob
+          from datetime import datetime, timedelta
+
+          # Define the window (e.g., 30 days)
+          threshold_date = datetime.now() - timedelta(days=30)
+          all_data = []
+
+          # Loop through all state CSVs we just moved
+          for file in glob.glob("./data/*.csv"):
+              if "recent_notices" in file: continue # Skip the output file itself
+              
+              df = pd.read_csv(file)
+              # Standardize date column (find column with 'date' in name)
+              date_col = next((c for c in df.columns if 'date' in c.lower()), None)
+              
+              if date_col:
+                  df[date_col] = pd.to_datetime(df[date_col], errors='coerce')
+                  # Filter for records newer than the threshold
+                  recent = df[df[date_col] >= threshold_date]
+                  all_data.append(recent)
+
+          # Combine all states into one "Recent" file for journalists
+          if all_data:
+              final_df = pd.concat(all_data)
+              final_df.sort_values(by=date_col, ascending=False, inplace=True)
+              final_df.to_csv("./data/recent_notices.csv", index=False)
+
       - name: Save datestamp
         # Per the tutorial, this logs the time and ensures the commit isn't empty
         run: date > ./data/latest-scrape.txt
