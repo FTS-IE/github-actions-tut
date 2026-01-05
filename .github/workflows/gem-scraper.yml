@@ -50,7 +50,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2 # Necessary to compare today's data with yesterday's
+          fetch-depth: 0 # Fetch all history so rebase works correctly
 
       - name: Install Python
         uses: actions/setup-python@v5
@@ -69,7 +69,7 @@ jobs:
       - name: Move and Prepare
         run: |
           mkdir -p data
-          # We store the 'old' version of the files before overwriting them
+          # Store the 'old' version of the files before overwriting them
           mkdir -p old_data
           cp data/*.csv old_data/ 2>/dev/null || true
           mv artifacts/**/*.csv data/
@@ -79,6 +79,7 @@ jobs:
         run: |
           import pandas as pd
           import glob
+          import os
           from datetime import datetime, timedelta
           threshold = datetime.now() - timedelta(days=30)
           all_dfs = []
@@ -105,8 +106,6 @@ jobs:
           import os
           import glob
 
-          webhook_url = os.environ.get('SLACK_WEBHOOK_URL')
-          
           # Mapping states to their official WARN portals
           URL_MAP = {
               "NY": "https://dol.ny.gov/warn-dashboard",
@@ -119,12 +118,16 @@ jobs:
               "OH": "https://jfs.ohio.gov/job-services-and-unemployment/job-services/job-programs-and-services/submit-a-warn-notice/current-public-notices-of-layoffs-and-closures-sa/current-public-notices-of-layoffs-and-closures"
           }
 
+          webhook_url = os.environ.get('SLACK_WEBHOOK_URL')
+          if not webhook_url:
+              exit(0)
+
           for new_file in glob.glob("./data/*.csv"):
               if "recent_notices.csv" in new_file: continue
               
               state_code = os.path.basename(new_file).replace('.csv', '').upper()
               old_file = new_file.replace('./data/', './old_data/')
-              state_url = URL_MAP.get(state_code, "https://www.google.com/search?q=" + state_code + "+WARN+notices")
+              state_url = URL_MAP.get(state_code, f"https://www.google.com/search?q={state_code}+WARN+notices")
               
               try:
                   df_new = pd.read_csv(new_file)
@@ -170,18 +173,12 @@ jobs:
                           ]
                       }
                       requests.post(webhook_url, json=payload)
-              except Exception as e:
-                  print(f"Error processing {state_code}: {e}")
-
-      - name: Save datestamp
-        run: date > ./data/latest-scrape.txt
+              except continue
 
       - name: Update Index Page
         shell: python
         run: |
-          import glob
-          import os
-          from datetime import datetime
+          import glob, os, datetime
 
           # Professional URL Map
           URL_MAP = {
@@ -196,9 +193,9 @@ jobs:
           }
 
           # Keep the professional intro and global timestamp
-          content = "# 📢 WARN Act Data Portal\n\n"
+          content = "# WARN Act Data Portal\n\n"
           content += "Automated tracking of layoff notices across the U.S. Updated daily at 10:00 AM EST.\n\n"
-          content += "### 🕒 Latest Global Update: " + datetime.now().strftime("%Y-%m-%d %H:%M") + " UTC\n\n"
+          content += "### Latest Global Update: " + datetime.now().strftime("%Y-%m-%d %H:%M") + " UTC\n\n"
           
           content += "| State | Data Download | Official Source |\n"
           content += "| :--- | :--- | :--- |\n"
@@ -224,10 +221,23 @@ jobs:
           with open("README.md", "w") as f:
               f.write(content)
 
+      - name: Save datestamp
+        run: date > ./data/latest-scrape.txt
 
       - name: Commit and push
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@users.noreply.github.com"
-          git add ./data/
-          git commit -m "Update WARN data and recent_notices" && git push || true
+          
+          # Add all data files and the updated README
+          git add ./data/ README.md
+          
+          # Only commit if there are actually changes to prevent "empty commit" errors
+          if git diff --staged --quiet; then
+            echo "No changes detected. Skipping commit."
+          else
+            git commit -m "Update WARN data and portal index [skip ci]"
+            # Use --rebase to handle potential sync issues if multiple jobs finish at once
+            git pull --rebase origin main
+            git push origin main
+          fi
