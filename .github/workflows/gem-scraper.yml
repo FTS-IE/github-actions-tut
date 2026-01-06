@@ -120,7 +120,8 @@ jobs:
 
       - name: Send Slack Alerts
         env:
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
         shell: python
         run: |
           import pandas as pd
@@ -129,71 +130,78 @@ jobs:
           import glob
           from datetime import datetime
 
-          URL_MAP = {
-              "NY": "https://dol.ny.gov/warn-notices",
-              "CA": "https://edd.ca.gov/en/Jobs_and_Training/Layoff_Services_WARN",
-              "IA": "https://www.iowaworkforcedevelopment.gov/worker-adjustment-and-retraining-notification-warn-notices",
-              "TX": "https://www.twc.texas.gov/biz/warn/warn-notices.html"
-          }
-
-          webhook_url = os.environ.get('SLACK_WEBHOOK_URL')
-          if not webhook_url:
+          token = os.environ.get('SLACK_BOT_TOKEN')
+          channel_id = os.environ.get('SLACK_CHANNEL_ID')
+          if not token or not channel_id:
+              print("Slack credentials missing.")
               exit(0)
 
+          # 1. First, collect all VALID new notices into a list
+          valid_notices = []
+          
           for new_file in glob.glob("./data/*.csv"):
               if "recent_notices.csv" in new_file: continue
               state_code = os.path.basename(new_file).replace('.csv', '').upper()
               old_file = new_file.replace('./data/', './old_data/')
-              state_url = URL_MAP.get(state_code, f"https://www.google.com/search?q={state_code}+WARN+notices")
               
               try:
                   df_new = pd.read_csv(new_file)
-                  
-                  # 1. Identify New Records
                   if os.path.exists(old_file):
                       df_old = pd.read_csv(old_file)
                       merged = df_new.merge(df_old, how='outer', indicator=True)
                       new_records = merged[merged['_merge'] == 'left_only'].drop('_merge', axis=1)
                   else:
-                      new_records = df_new.head(5)
+                      new_records = df_new.head(1)
 
                   for _, row in new_records.iterrows():
-                      # 2. Advanced Column Mapping
-                      # Company Name
-                      co = next((str(row[c]) for c in df_new.columns if any(x in c.lower() for x in ['company', 'employer', 'organization'])), "Unknown")
+                      # --- FILTER 1: COMPANY GUARD ---
+                      co = next((str(row[c]) for c in df_new.columns if any(x in c.lower() for x in ['company', 'employer'])), "Unknown")
+                      if not co or co.lower() in ['unknown', 'nan', 'n/a', '', 'none']:
+                          continue
                       
-                      # Jobs Affected (Added 'layoff', 'worker', 'total' to search)
-                      jobs = next((str(row[c]) for c in df_new.columns if any(x in c.lower() for x in ['job', 'worker', 'affected', 'layoff', 'count', 'number', 'total'])), "N/A")
-                      
-                      # Notice Date
+                      # --- FILTER 2: 2026 YEAR GUARD ---
                       date_val = next((row[c] for c in df_new.columns if 'notice' in c.lower() and 'date' in c.lower()), None)
                       if not date_val:
                           date_val = next((row[c] for c in df_new.columns if 'date' in c.lower()), "N/A")
-
-                      # 3. APPLY FILTERS (The "Guardrails")
                       
-                      # Skip if Company is unknown or missing
-                      if not co or co.lower() in ['unknown', 'nan', 'n/a', '']:
-                          continue
-
-                      # Skip if date is not in 2026 (Fixes the 2003/2025 issue)
                       try:
                           parsed_date = pd.to_datetime(date_val, errors='coerce')
                           if parsed_date.year != 2026:
-                              continue
+                              continue # Skip anything not from 2026
                       except:
-                          continue # Skip if date is unparseable
+                          continue # Skip if date can't be read
 
-                      # 4. SEND ALERT
-                      payload = {
-                          "blocks": [
-                              {"type": "section", "text": {"type": "mrkdwn", "text": f"*New WARN Notice: {state_code}*\n*Company:* {co}\n*Jobs:* {jobs}\n*Notice Date:* {date_val}"}},
-                              {"type": "actions", "elements": [{"type": "button", "text": {"type": "plain_text", "text": "🔗 View State Page"}, "url": state_url}]}
-                          ]
-                      }
-                      requests.post(webhook_url, json=payload)
-              except Exception as e:
-                  print(f"Error alerting for {state_code}: {e}")
+                      # If it passed both filters, prepare the data
+                      jobs = next((str(row[c]) for c in df_new.columns if any(x in c.lower() for x in ['job', 'worker', 'affected', 'total'])), "N/A")
+                      valid_notices.append({
+                          "state": state_code,
+                          "company": co,
+                          "jobs": jobs,
+                          "date": date_val
+                      })
+              except:
+                  continue
+
+          # 2. Post the Parent Header with the count of valid notices
+          count = len(valid_notices)
+          header_text = f"*Daily WARN Report: {datetime.now().strftime('%Y-%m-%d')}*\nFound *{count}* new 2026 notices."
+          
+          resp = requests.post(
+              "https://slack.com/api/chat.postMessage",
+              headers={"Authorization": f"Bearer {token}"},
+              json={"channel": channel_id, "text": header_text}
+          ).json()
+          
+          thread_ts = resp.get("ts")
+
+          # 3. Post each valid notice into the thread
+          for n in valid_notices:
+              msg = f" *{n['state']}*: {n['company']} — {n['jobs']} jobs (Notice: {n['date']})"
+              requests.post(
+                  "https://slack.com/api/chat.postMessage",
+                  headers={"Authorization": f"Bearer {token}"},
+                  json={"channel": channel_id, "thread_ts": thread_ts, "text": msg}
+              )
 
       - name: Update Index Page
         shell: python
