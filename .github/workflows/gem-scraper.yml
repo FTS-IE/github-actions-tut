@@ -17,9 +17,9 @@ jobs:
       fail-fast: false
       max-parallel: 15 # Speeds up execution by running more states at once
       matrix:
-        # TESTING: Use [ca, ny, ia] for your first run
-        state: [ny]
-        # state: [al, ak, az, ca, co, ct, de, fl, ga, hi, id, il, in, ia, ks, me, md, mo, mt, ne, nj, nm, ny, ok, or, pa, ri, sc, sd, tn, tx, ut, vt, va, wa, wi]
+        # TESTING: Missouri need to sign up for email. Use [ca, ny, ia] for your first run
+        # state: [ny]
+        state: [al, ak, az, ca, co, ct, de, fl, ga, hi, id, il, in, ia, ks, me, md, mo, mt, ne, nj, nm, ny, ok, or, pa, ri, sc, sd, tn, tx, ut, vt, va, wa, wi]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -94,12 +94,18 @@ jobs:
           threshold = now - timedelta(days=30)
           
           URL_MAP = {
-              "NY": "https://dol.ny.gov/warn-notices",
+              "NY": "https://dol.ny.gov/warn-dashboard",
               "CA": "https://edd.ca.gov/en/Jobs_and_Training/Layoff_Services_WARN",
-              "IA": "https://www.iowaworkforcedevelopment.gov/worker-adjustment-and-retraining-notification-warn-notices",
-              "TX": "https://www.twc.texas.gov/biz/warn/warn-notices.html",
-              "NJ": "https://www.nj.gov/labor/wagehour/jobloss/warn/warn_index.shtml",
-              "SC": "https://scworks.org/employer/employer-resources/warn-notices"
+              "IA": "https://workforce.iowa.gov/employers/resources/warn/notices",
+              "TX": "https://www.twc.texas.gov/data-reports/warn-notice",
+              "NJ": "https://www.nj.gov/labor/business-services/layoffs-and-closing/file-warn-notice/",
+              "SC": "https://scworks.org/employer/employer-resources/warn-notices",
+              "FL": "https://www.floridajobs.org/office-directory/division-of-workforce-services/workforce-programs/reemployment-and-emergency-assistance-coordination-team-react/warn-notices",
+              "CO": "https://cdle.colorado.gov/employers/layoff-separations/layoff-warn-list",
+              "IL": "https://dceo.illinois.gov/workforcedevelopment/warn.html",
+              "WI": "https://dwd.wisconsin.gov/dislocatedworker/warn/",
+              "PA": "https://www.pa.gov/agencies/dli/programs-services/workforce-development-home/warn-requirements/warn-notices"
+              
           }
 
           def get_col(df, keywords):
