@@ -2,7 +2,7 @@
 
 Automated tracking of layoff notices across the U.S. Updated daily at 10:00 AM EST.
 
-### Latest Global Update: 2026-01-06 15:42 UTC
+### Latest Global Update: 2026-01-06 15:55 UTC
 
 | State | Data Download | Official Source |
 | :--- | :--- | :--- |
