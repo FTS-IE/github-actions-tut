@@ -208,7 +208,7 @@ jobs:
           from datetime import datetime, timedelta
           # Convert UTC to EST (-5 hours)
           est_time = datetime.utcnow() - timedelta(hours=5)
-          content = "# WARN Act Data Portal\n\nAutomated tracking of layoff notices across the U.S.\n\n"
+          content = "# WARN Act Data Portal\n\nAutomated tracking of layoff notices across the U.S.\n\nDoes not include AR, KY, MA, MI, MN, MS, NV, NH, NC, ND, OH, WV, WY\n\n"
           content += f"### Latest Global Update: {est_time.strftime('%Y-%m-%d %I:%M %p')} EST\n\n"
           content += "| State | Data | Source |\n| :--- | :--- | :--- |\n"
           if os.path.exists("./data/recent_notices.csv"):
