@@ -2,7 +2,8 @@ name: Matrix WARN Scraper with Slack Alerts
 
 on:
   schedule:
-    - cron: '0 15 * * *' # 10:00 AM EST
+    # Runs at 15:00 and 20:00 UTC (10am and 3pm EST)
+    - cron: '0 15,20 * * *'
   workflow_dispatch:
 
 permissions:
