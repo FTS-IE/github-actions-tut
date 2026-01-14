@@ -8,28 +8,28 @@ NJ,SFC Global Supply Chain,2026-04-10,170
 PA,"The GIANT Company, LLC.",2026-04-03,105
 CT,PerkinElmer U.S. LLC,2026-04-01,N/A
 NY,Waste Harmonics Keter,2026-03-31,42
+NY,Waste Harmonics Keter,2026-03-31,42
+NY,Waste Harmonics Keter,2026-03-31,42
 NJ,International Real Estate Partners US Corp,2026-03-31,61
 NJ,Pioneer Credit Recovery,2026-03-31,180
-NY,Waste Harmonics Keter,2026-03-31,42
-NY,Waste Harmonics Keter,2026-03-31,42
 NY,"Clean Textile Systems, LP. D/B/A Clean Care",2026-03-20,69
 CT,Macys Store Delivery Center (SDS) and Customer Returns Center (CRD) Operations,2026-03-14,N/A
-CT,JeniusBank,2026-03-10,N/A
 SC,SMBC MANUBANK (JeniusBank),2026-03-10,3
+CT,JeniusBank,2026-03-10,N/A
 PA,"PrimeFlight Aviation Services, Inc.",2026-03-09,68
 SC,Saddle Creek Logistics Services,2026-03-05,130
 NJ,CMC Energy Services,2026-03-02,89
 NY,"Terphane, LLC.",2026-02-28,49
-NY,The French Connection,2026-02-28,1
 NY,"Terphane, LLC.",2026-02-28,49
 NY,"Terphane, LLC.",2026-02-28,49
-MO,Unknown,2026-02-28,3
 NY,The French Connection,2026-02-28,24
-SC,"WeDriveU, Inc.",2026-02-28,194
+MO,Unknown,2026-02-28,3
+NY,The French Connection,2026-02-28,1
 PA,DHL Supply Chain,2026-02-28,66
-NY,"AngioDynamics, Inc.",2026-02-27,51
+SC,"WeDriveU, Inc.",2026-02-28,194
 PA,"GIANT Company, LLC",2026-02-27,76
 NY,"AngioDynamics, Inc.",2026-02-27,2
+NY,"AngioDynamics, Inc.",2026-02-27,51
 SC,Railcrew Xpress,2026-02-27,58
 NY,"AngioDynamics, Inc.",2026-02-27,1
 UT,Nordstrom Card Services,2026-02-21,15
@@ -40,62 +40,57 @@ PA,"GIANT Company, LLC",2026-02-13,128
 NY,"Kimber Mfg., Inc.",2026-02-09,69
 NJ,Acme,2026-02-07,71
 PA,"Taste, Inc.",2026-02-05,10
-NJ,Optum Select Management,2026-02-02,11
 PA,"Great Dane, LLC",2026-02-02,164
-PA,"AVI Foodsystems, Inc.",2026-02-01,297
+NJ,Optum Select Management,2026-02-02,11
 PA,Crothall and Morrison Healthcare,2026-02-01,795
+PA,"AVI Foodsystems, Inc.",2026-02-01,297
 NY,"NIKE Retail Services, Inc.",2026-01-31,87
-SC,Sodexo (HCA Grand Strand Medical),2026-01-31,85
-MO,Unknown,2026-01-31,151
 NY,"DSV Air & Sea, Inc.",2026-01-31,31
 NY,"Spirit Airlines, LLC.",2026-01-31,304
+MO,Unknown,2026-01-31,151
+SC,Sodexo (HCA Grand Strand Medical),2026-01-31,85
 MO,Unknown,2026-01-30,93
 MO,Unknown,2026-01-30,213
 SC,"SC Industrial Holdings, LLC",2026-01-30,78
 NY,"Presbyterian Home for Central New York, Inc.",2026-01-28,128
 NY,Personio Corp.,2026-01-27,47
-NJ,Amazon,2026-01-26,72
-NJ,Audible,2026-01-26,67
-NJ,TTEC Government Solutions,2026-01-26,120
-NY,Amazon,2026-01-26,1
-NY,Amazon,2026-01-26,58
-NY,Amazon,2026-01-26,7
-NY,Amazon,2026-01-26,38
-NY,Amazon,2026-01-26,9
-NY,Amazon,2026-01-26,41
-NY,Amazon,2026-01-26,91
 NY,Amazon,2026-01-26,182
+NJ,Audible,2026-01-26,67
+NY,Amazon,2026-01-26,41
+NY,Amazon,2026-01-26,9
+NY,Amazon,2026-01-26,38
+NY,Amazon,2026-01-26,7
+NY,Amazon,2026-01-26,58
+NY,Amazon,2026-01-26,1
 NY,Amazon,2026-01-26,233
+NY,Amazon,2026-01-26,91
+NJ,Amazon,2026-01-26,72
+NJ,TTEC Government Solutions,2026-01-26,120
 NJ,Starbucks Coffee Company,2026-01-25,47
 PA,"Keen Transport, Inc.",2026-01-20,52
 SC,"Best Dressed Chicken, Inc.",2026-01-20,4
 NY,"H&M Fashion USA, Inc.",2026-01-19,31
 NY,"H&M Fashion USA, Inc.",2026-01-19,31
+NY,Paramount  Skydance Corporation,2026-01-15,67
 NY,"enDevelopment Logistics, LLC.",2026-01-15,42
 NY,Paramount  Skydance Corporation,2026-01-15,5
 NY,Paramount  Skydance Corporation,2026-01-15,3
 NY,Paramount  Skydance Corporation,2026-01-15,1
 NY,Paramount  Skydance Corporation,2026-01-15,28
 NY,Paramount  Skydance Corporation,2026-01-15,341
-NY,Paramount  Skydance Corporation,2026-01-15,67
-NJ,Jefferson Health,2026-01-13,108
 RI,EaglePicher,2026-01-13,38
 TN,Linamar Shelbyville,2026-01-13,N/A
+NJ,Jefferson Health,2026-01-13,108
 AL,Salon Centric  Inc,2026-01-13,79
 ME,SMBC-Sumitomo Mitsui Banking Corporation,2026-01-13,1
+AZ,JIT Service Inc.,2026-01-12,10
 TN,"Smoky Mountain Logistics, LLC",2026-01-12,N/A
 NY,White Coffee Corporation,2026-01-11,97
 CA,Cucina Enoteca Del Mar,2026-01-09,43
-CA,Local Initiative Health Authority for Los Angeles County dba L.A. Care Health Plan,2026-01-09,225
+TX,Unknown,2026-01-09,N/A
 CA,Macy's,2026-01-09,77
-FL,"SMBC MANUBANK 
-Jacksonville
-515 South Figueroa Street Los Angeles, CA 90071
-JACKSONVILLE, FL, 32099",2026-01-08,4
-FL,"SMBC MANUBANK 
-Bradenton
-515 South Figueroa Street Los Angeles, CA 90071
-BRADENTON, FL, 34207",2026-01-08,1
+CA,Local Initiative Health Authority for Los Angeles County dba L.A. Care Health Plan,2026-01-09,225
+HI,DFS Group L.P.,2026-01-08,N/A
 FL,"SMBC MANUBANK 
 Bonita Springs
 515 South Figueroa Street Los Angeles, CA 90071
@@ -105,10 +100,13 @@ Miami
 515 South Figueroa Street Los Angeles, CA 90071
 MIAMI, FL, 33101",2026-01-08,1
 FL,"SMBC MANUBANK 
+Bradenton
+515 South Figueroa Street Los Angeles, CA 90071
+BRADENTON, FL, 34207",2026-01-08,1
+FL,"SMBC MANUBANK 
 Indialantic
 515 South Figueroa Street Los Angeles, CA 90071
 INDIALANTIC, FL, 32903",2026-01-08,1
-HI,DFS Group L.P.,2026-01-08,N/A
 FL,"SMBC MANUBANK 
 Valrico
 515 South Figueroa Street Los Angeles, CA 90071
@@ -129,147 +127,160 @@ FL,"SMBC MANUBANK
 Land O Lakes
 515 South Figueroa Street Los Angeles, CA 90071
 LAND O LAKES, FL, 33599",2026-01-08,1
+FL,"SMBC MANUBANK 
+Jacksonville
+515 South Figueroa Street Los Angeles, CA 90071
+JACKSONVILLE, FL, 32099",2026-01-08,4
+WA,SMBC Manubank,2026-01-08,N/A
 OR,Oregon - Remote Employees,2026-01-08,N/A
+AZ,SMBC Group - JeniusBank,2026-01-08,N/A
+VA,SMBC Manubank,2026-01-08,6
 FL,"SMBC MANUBANK 
 Ponte Vedra
 515 South Figueroa Street Los Angeles, CA 90071
 PONTE VEDRA BEACH, FL, 32082",2026-01-08,1
-AZ,SMBC Group - JeniusBank,2026-01-08,33
-VA,SMBC Manubank,2026-01-08,6
-WA,SMBC Manubank,2026-01-08,N/A
-TX,Unknown,2026-01-07,N/A
-TX,Unknown,2026-01-07,N/A
 AZ,Avelo Airlines,2026-01-07,97
+TX,Unknown,2026-01-07,N/A
+TX,Unknown,2026-01-07,N/A
 AZ,GNC Distribution Center,2026-01-07,66
-CA,Alameda Health System - Wilma Chan Highland Hospital,2026-01-06,128
-CA,"FormFactor, Inc.",2026-01-06,113
-CA,"FormFactor, Inc.",2026-01-06,107
-CA,Alameda Health System - System Support Center,2026-01-06,18
-WA,Swedish Health Services,2026-01-06,N/A
-CA,Alameda Health System - Park Bridge,2026-01-06,3
-CA,Alameda Health System - Fairmont Rehabilitation and Wellness,2026-01-06,44
 CO,Tessera Therapeutics,2026-01-06,1
-CO,Alan Ritchey,2026-01-06,729
+CA,Alameda Health System - Park Bridge,2026-01-06,3
 CA,Alameda Health System - Alameda Hospital,2026-01-06,9
+CO,Alan Ritchey,2026-01-06,729
+CA,"FormFactor, Inc.",2026-01-06,113
+WA,Swedish Health Services,2026-01-06,N/A
+CA,Alameda Health System - System Support Center,2026-01-06,18
+WA,Tessera,2026-01-06,N/A
 CA,Alameda Health System - John George Hospital,2026-01-06,16
 CA,Alameda Health System - San Leandro Hospital,2026-01-06,22
-WA,Tessera,2026-01-06,N/A
-CA,"Advanced Uniform Dust Control & Linen, LLC",2026-01-05,89
+CA,Alameda Health System - Wilma Chan Highland Hospital,2026-01-06,128
+CA,Alameda Health System - Fairmont Rehabilitation and Wellness,2026-01-06,44
+CA,"FormFactor, Inc.",2026-01-06,107
 CA,"Advanced Uniform Dust Control & Linen, LLC",2026-01-05,4
+IN,Wabash,2026-01-05,144
 FL,"Chemours 
 Starke Site 5222 Treat Road
 
 STARKE, FL, 32091",2026-01-05,12
+NY,"SDH Education West, LLC d/b/a Sodexo - Univ at Albany Campus",2026-01-05,179
 FL,"Chemours 
 Trail Ridge South Mine 5222 Treat Road,
 
 STARKE, FL, 32063",2026-01-05,44
-IN,Wabash,2026-01-05,144
-NY,"SDH Education West, LLC d/b/a Sodexo - Univ at Albany Campus",2026-01-05,179
 FL,"Chemours 
 7775 South CR 228
 
 MACCLENNY, FL, 32063",2026-01-05,19
+CA,"Advanced Uniform Dust Control & Linen, LLC",2026-01-05,89
 MD,"BAE Systems, Inc.",2026-01-02,N/A
 CO,TIAA,2026-01-02,101
-NY,Wabtec Corporation,2026-01-01,36
 PA,Pottstown Hospital,2026-01-01,131
+NY,Wabtec Corporation,2026-01-01,36
 NJ,Harrison Sportservice Inc.,2026-01-01,467
-NY,DAC GROUP NEW YORK INC.,2025-12-31,58
-NY,"The Child Center of NY, Inc.",2025-12-31,5
-NY,The Children's Village,2025-12-31,114
+PA,"Travel + Leisure Resort Development, Inc.",2025-12-31,124
+NY,"The Child Center of NY, Inc.",2025-12-31,9
+NJ,BASF,2025-12-31,66
 NY,DAC GROUP NEW YORK INC.,2025-12-31,43
 NY,"The Child Center of NY, Inc.",2025-12-31,11
-PA,"Travel + Leisure Resort Development, Inc.",2025-12-31,124
 PA,Oak View Group,2025-12-31,N/A
-NY,"The Child Center of NY, Inc.",2025-12-31,2
-NY,"The Child Center of NY, Inc.",2025-12-31,1
+NY,DAC GROUP NEW YORK INC.,2025-12-31,58
 NY,"The Child Center of NY, Inc.",2025-12-31,9
+NY,"The Child Center of NY, Inc.",2025-12-31,2
 NY,"The Child Center of NY, Inc.",2025-12-31,7
-NJ,BASF,2025-12-31,66
-NY,"Saks & Company, LLC.",2025-12-31,33
 NY,"The Child Center of NY, Inc.",2025-12-31,5
-NY,"The Child Center of NY, Inc.",2025-12-31,2
-NY,"The Child Center of NY, Inc.",2025-12-31,9
-NJ,Novo Nordisk,2025-12-31,811
 NY,"The Child Center of NY, Inc.",2025-12-31,1
-CO,Nordstrom Credit Bank,2025-12-30,48
-PA,Chick-fil-A,2025-12-30,49
-CA,"Mare Island Dry Dock, LLC",2025-12-30,84
+NY,"The Child Center of NY, Inc.",2025-12-31,2
+NY,"The Child Center of NY, Inc.",2025-12-31,5
+NY,"The Child Center of NY, Inc.",2025-12-31,1
+NY,The Children's Village,2025-12-31,114
+NJ,Novo Nordisk,2025-12-31,811
+NY,"Saks & Company, LLC.",2025-12-31,33
 TN,"US Endodontics, LLC",2025-12-30,N/A
+CO,Nordstrom Credit Bank,2025-12-30,48
+CA,"Mare Island Dry Dock, LLC",2025-12-30,84
 NY,"ABM Aviation, Inc.",2025-12-30,83
+PA,Chick-fil-A,2025-12-30,49
+OR,Vacuum Technique LLC,2025-12-29,N/A
+WA,Doosan GridTech,2025-12-29,N/A
 CA,"Bonduelle Americas dba Ready Pac Foods, Inc.",2025-12-29,62
 IN,Dalton Corporation,2025-12-29,257
 TX,Unknown,2025-12-29,N/A
 TX,Unknown,2025-12-29,N/A
 MD,"Crockett & Sons Concrete, Inc.",2025-12-29,N/A
-OR,Vacuum Technique LLC,2025-12-29,N/A
-WA,Doosan GridTech,2025-12-29,N/A
-NY,Eisler Capital (US) LLC.,2025-12-28,79
 CT,Macys South Windsor Distribution Center,2025-12-28,N/A
-TX,Unknown,2025-12-26,N/A
+NY,Eisler Capital (US) LLC.,2025-12-28,79
 PA,Allen Distribution,2025-12-26,70
 TX,Unknown,2025-12-26,N/A
+TX,Unknown,2025-12-26,N/A
 CA,Fullstack Modular LLC,2025-12-24,200
-OR,"Solgen Power, LLC dba Purelight Power",2025-12-23,N/A
-AL,Montgomery UPS,2025-12-23,128
 OR,Oregon - Remote Employees,2025-12-23,N/A
 OR,Administrative Office,2025-12-23,N/A
-IN,AAR Aircraft Services,2025-12-23,329
+AL,Montgomery UPS,2025-12-23,128
 CA,Collins Pine Company,2025-12-23,79
-FL,"Railcrew Xpress 
-1718-1 North McDuff Avenue
-
-JACKSONVILLE, FL, 32254",2025-12-22,34
-FL,"Railcrew Xpress 
-450 Seaboard Road
-
-MULBERRY, FL, 33860",2025-12-22,24
-FL,"Railcrew Xpress 
-415 East Landstreet Road
-
-ORLANDO, FL, 32824",2025-12-22,7
+IN,AAR Aircraft Services,2025-12-23,329
+OR,"Solgen Power, LLC dba Purelight Power",2025-12-23,N/A
+CA,"Illumina, Inc.",2025-12-22,1
 FL,"Ideal Image 
 1 N. Dale Mabry Highway
 Suite 1200
 TAMPA, FL, 33609",2025-12-22,255
-CA,"Illumina, Inc.",2025-12-22,1
+VA,Railcrew Xpress (RCX),2025-12-22,29
+VA,Railcrew Xpress (RCX),2025-12-22,26
+FL,"Railcrew Xpress 
+5656 East Adamo Drive
+
+TAMPA, FL, 33619",2025-12-22,10
+FL,"Railcrew Xpress 
+415 East Landstreet Road
+
+ORLANDO, FL, 32824",2025-12-22,7
+TX,Unknown,2025-12-22,N/A
+FL,"Railcrew Xpress 
+450 Seaboard Road
+
+MULBERRY, FL, 33860",2025-12-22,24
+TX,Unknown,2025-12-22,N/A
 FL,"Railcrew Xpress 
 9400 NW 37th Avenue
 
 MIAMI, FL, 33147",2025-12-22,4
 FL,"Railcrew Xpress 
-5656 East Adamo Drive
+1718-1 North McDuff Avenue
 
-TAMPA, FL, 33619",2025-12-22,10
-TX,Unknown,2025-12-22,N/A
-VA,Railcrew Xpress (RCX),2025-12-22,29
-VA,Railcrew Xpress (RCX),2025-12-22,26
-TX,Unknown,2025-12-22,N/A
+JACKSONVILLE, FL, 32254",2025-12-22,34
 SC,Santee Print Works,2025-12-20,140
-NY,"ARB Gaming, LLC.",2025-12-19,33
-VA,AeroFarms,2025-12-19,173
+NY,"Aramark Services, Inc.",2025-12-19,67
 MD,"Value Village Thrift Stores, Inc.",2025-12-19,N/A
+MD,"Value Village Thrift Stores, Inc.",2025-12-19,N/A
+MD,"Value Village Thrift Stores, Inc.",2025-12-19,N/A
+NY,"ARB Gaming, LLC.",2025-12-19,33
 MD,"Thrift Stores of Washington, D. C. (under Value Village Thrift Stores, Inc.)",2025-12-19,N/A
 MD,"Value Village Thrift Stores, Inc.",2025-12-19,N/A
-MD,"Value Village Thrift Stores, Inc.",2025-12-19,N/A
+VA,AeroFarms,2025-12-19,173
 TN,Archer Daniels Midland Company,2025-12-19,N/A
-MD,"Value Village Thrift Stores, Inc.",2025-12-19,N/A
-NY,"Aramark Services, Inc.",2025-12-19,67
 NJ,OceanFirst Bank,2025-12-18,114
 MD,The Charleston Senior Community,2025-12-17,N/A
 CA,Warner Music Inc.,2025-12-17,5
+MD,General Dynamics Information Technology,2025-12-16,N/A
+NY,"Pinnacle City Living, LLC.",2025-12-16,1
 NY,"Pinnacle City Living, LLC.",2025-12-16,9
-NY,"Pinnacle City Living, LLC.",2025-12-16,3
 NY,"Pinnacle City Living, LLC.",2025-12-16,1
 NY,"Pinnacle City Living, LLC.",2025-12-16,7
-NY,"Pinnacle City Living, LLC.",2025-12-16,13
 NY,"Pinnacle City Living, LLC.",2025-12-16,3
+NY,"Pinnacle City Living, LLC.",2025-12-16,13
+NY,"Pinnacle City Living, LLC.",2025-12-16,8
+NY,"Pinnacle City Living, LLC.",2025-12-16,3
+NY,"Pinnacle City Living, LLC.",2025-12-16,1
+NY,"Pinnacle City Living, LLC.",2025-12-16,1
+NY,"Pinnacle City Living, LLC.",2025-12-16,2
+NY,"Pinnacle City Living, LLC.",2025-12-16,3
+NY,"Pinnacle City Living, LLC.",2025-12-16,2
 NY,"Pinnacle City Living, LLC.",2025-12-16,6
-NY,"Pinnacle City Living, LLC.",2025-12-16,1
-NY,"Pinnacle City Living, LLC.",2025-12-16,1
+NY,"Ebates Performance Marketing, Inc.",2025-12-16,29
+NY,"Pinnacle City Living, LLC.",2025-12-16,3
 NY,"Pinnacle City Living, LLC.",2025-12-16,3
 NY,"Pinnacle City Living, LLC.",2025-12-16,13
+NY,"Pinnacle City Living, LLC.",2025-12-16,1
 NY,"Pinnacle Northeast Union, LLC",2025-12-16,5
 NY,"Pinnacle City Living, LLC.",2025-12-16,2
 NY,"Pinnacle City Living, LLC.",2025-12-16,2
@@ -277,17 +288,8 @@ NY,"Pinnacle City Living, LLC.",2025-12-16,1
 NY,"Pinnacle City Living, LLC.",2025-12-16,35
 NY,"Pinnacle City Living, LLC.",2025-12-16,2
 NY,"Pinnacle City Living, LLC.",2025-12-16,1
-NY,"Pinnacle City Living, LLC.",2025-12-16,2
-NY,"Pinnacle City Living, LLC.",2025-12-16,1
-MD,General Dynamics Information Technology,2025-12-16,N/A
-NY,"Pinnacle City Living, LLC.",2025-12-16,3
-NY,"Ebates Performance Marketing, Inc.",2025-12-16,29
 NY,"Pinnacle City Living, LLC.",2025-12-16,5
-NY,"Pinnacle City Living, LLC.",2025-12-16,3
 NY,"Pinnacle City Living, LLC.",2025-12-16,5
 NY,"Pinnacle City Living, LLC.",2025-12-16,1
-NY,"Pinnacle City Living, LLC.",2025-12-16,2
 NY,"Pinnacle City Living, LLC.",2025-12-16,1
 NY,"Pinnacle City Living, LLC.",2025-12-16,3
-NY,"Pinnacle City Living, LLC.",2025-12-16,8
-NY,"Pinnacle City Living, LLC.",2025-12-16,1
