@@ -8,17 +8,18 @@ NJ,SFC Global Supply Chain,2026-04-10,170
 NY,Lincoln Hall,2026-04-06,123
 PA,"The GIANT Company, LLC.",2026-04-03,105
 CT,PerkinElmer U.S. LLC,2026-04-01,N/A
+NJ,Pioneer Credit Recovery,2026-03-31,180
+NY,Waste Harmonics Keter,2026-03-31,42
 NY,Waste Harmonics Keter,2026-03-31,42
 NY,Waste Harmonics Keter,2026-03-31,42
 NY,Waste Harmonics Keter,2026-03-31,42
 NY,Waste Harmonics Keter,2026-03-31,42
 NY,Waste Harmonics Keter,2026-03-31,42
 NJ,International Real Estate Partners US Corp,2026-03-31,61
-NJ,Pioneer Credit Recovery,2026-03-31,180
-NY,Waste Harmonics Keter,2026-03-31,42
 NY,"Clean Textile Systems, LP. D/B/A Clean Care",2026-03-20,69
 SC,James Hardie Building Products Inc.,2026-03-16,78
 PA,French Creek Recovery Center,2026-03-15,59
+PA,"ALPEK Polyester USA, LLC",2026-03-15,100
 CT,Macys Store Delivery Center (SDS) and Customer Returns Center (CRD) Operations,2026-03-14,N/A
 CT,JeniusBank,2026-03-10,N/A
 SC,SMBC MANUBANK (JeniusBank),2026-03-10,3
@@ -26,22 +27,21 @@ PA,"PrimeFlight Aviation Services, Inc.",2026-03-09,68
 SC,Saddle Creek Logistics Services,2026-03-05,130
 NJ,CMC Energy Services,2026-03-02,89
 NY,The French Connection,2026-02-28,24
-NY,"Terphane, LLC.",2026-02-28,49
-MO,Unknown,2026-02-28,3
-SC,"WeDriveU, Inc.",2026-02-28,194
-SC,"eREV Supply Chain, LLC",2026-02-28,133
-SC,DLH Solutions,2026-02-28,194
-NY,"Terphane, LLC.",2026-02-28,49
-NY,"Terphane, LLC.",2026-02-28,49
-PA,DHL Supply Chain,2026-02-28,66
-NY,"Terphane, LLC.",2026-02-28,49
-NY,"Terphane, LLC.",2026-02-28,49
 NY,The French Connection,2026-02-28,1
+SC,"WeDriveU, Inc.",2026-02-28,194
+PA,DHL Supply Chain,2026-02-28,66
+SC,"eREV Supply Chain, LLC",2026-02-28,133
+NY,"Terphane, LLC.",2026-02-28,49
+NY,"Terphane, LLC.",2026-02-28,49
+NY,"Terphane, LLC.",2026-02-28,49
+NY,"Terphane, LLC.",2026-02-28,49
+NY,"Terphane, LLC.",2026-02-28,49
+SC,DLH Solutions,2026-02-28,194
+SC,Railcrew Xpress,2026-02-27,58
 PA,"GIANT Company, LLC",2026-02-27,76
 NY,"AngioDynamics, Inc.",2026-02-27,51
 NY,"AngioDynamics, Inc.",2026-02-27,2
 NY,"AngioDynamics, Inc.",2026-02-27,1
-SC,Railcrew Xpress,2026-02-27,58
 UT,Nordstrom Card Services,2026-02-21,15
 NJ,Verizon,2026-02-20,1319
 NJ,Wonder Group,2026-02-19,121
@@ -54,81 +54,94 @@ NJ,Optum Select Management,2026-02-02,11
 PA,"Great Dane, LLC",2026-02-02,164
 PA,"AVI Foodsystems, Inc.",2026-02-01,297
 PA,Crothall and Morrison Healthcare,2026-02-01,795
+NY,"American Sugar Refining, Inc.",2026-01-31,231
+NY,"American Sugar Refining, Inc.",2026-01-31,231
+SC,Sodexo (HCA Grand Strand Medical),2026-01-31,85
 NY,"Spirit Airlines, LLC.",2026-01-31,304
 NY,"NIKE Retail Services, Inc.",2026-01-31,87
 NY,"DSV Air & Sea, Inc.",2026-01-31,31
-MO,Unknown,2026-01-31,151
-SC,Sodexo (HCA Grand Strand Medical),2026-01-31,85
-NY,"American Sugar Refining, Inc.",2026-01-31,231
-NY,"American Sugar Refining, Inc.",2026-01-31,231
 SC,"SC Industrial Holdings, LLC",2026-01-30,78
 SC,Santee Print Works,2026-01-30,140
-MO,Unknown,2026-01-30,213
-MO,Unknown,2026-01-30,93
 NY,"Presbyterian Home for Central New York, Inc.",2026-01-28,128
 NY,Personio Corp.,2026-01-27,47
+NY,Amazon,2026-01-26,38
+NY,Amazon,2026-01-26,233
+NY,Amazon,2026-01-26,182
+NY,Amazon,2026-01-26,91
+NY,Amazon,2026-01-26,41
 NY,Amazon,2026-01-26,58
+NY,Amazon,2026-01-26,7
+NY,Amazon,2026-01-26,9
 NY,Amazon,2026-01-26,1
 NJ,Audible,2026-01-26,67
-NY,Amazon,2026-01-26,7
-NY,Amazon,2026-01-26,38
-NY,Amazon,2026-01-26,9
-NY,Amazon,2026-01-26,41
-NY,Amazon,2026-01-26,182
-NY,Amazon,2026-01-26,233
 NJ,TTEC Government Solutions,2026-01-26,120
 NJ,Amazon,2026-01-26,72
-NY,Amazon,2026-01-26,91
 NJ,Starbucks Coffee Company,2026-01-25,47
-SC,"Best Dressed Chicken, Inc.",2026-01-20,4
 PA,"Keen Transport, Inc.",2026-01-20,52
+SC,"Best Dressed Chicken, Inc.",2026-01-20,4
+IN,"Inari Agriculture, Inc.",2026-01-20,64
 NY,"H&M Fashion USA, Inc.",2026-01-19,31
 NY,"H&M Fashion USA, Inc.",2026-01-19,31
-WA,Food Service Slicing LLC dba Crunch Pak,2026-01-15,N/A
-NY,Paramount  Skydance Corporation,2026-01-15,28
-NY,Paramount  Skydance Corporation,2026-01-15,1
-NY,Paramount  Skydance Corporation,2026-01-15,341
-NY,Paramount  Skydance Corporation,2026-01-15,67
-MD,Weis Store #291,2026-01-15,N/A
+FL,"TelaForce, LLC 
+73 Eglin Parkway, Suite 303
+
+FORT WALTON BEACH, FL, 32548",2026-01-19,59
+CA,"Lakeshore Learning Materials, LLC",2026-01-16,163
+CA,Albertsons Companies LLC,2026-01-16,75
+CA,GCOM Software LLC dba Voyatek,2026-01-16,8
+CA,Best Buy,2026-01-16,46
+CA,The Vons Companies Inc.,2026-01-16,70
+FL,"Host International, Inc. 
+1 Jeff Fuqua Blvd
+
+ORLANDO, FL, 32827",2026-01-16,92
+CA,Best Buy,2026-01-16,60
+CA,"Nationstar Mortgage, LLC d/b/a Mr. Cooper",2026-01-15,110
+NY,Paramount  Skydance Corporation,2026-01-15,5
+CA,DHL Supply Chain,2026-01-15,74
 CO,EPTAM West LLC dba Precision Metals,2026-01-15,134
 CO,Battelle,2026-01-15,1
+WA,Food Service Slicing LLC dba Crunch Pak,2026-01-15,N/A
+NY,Paramount  Skydance Corporation,2026-01-15,1
 NY,Paramount  Skydance Corporation,2026-01-15,3
-NY,Paramount  Skydance Corporation,2026-01-15,5
+NY,Paramount  Skydance Corporation,2026-01-15,67
+CA,James Hardie Fontana Manufacturing,2026-01-15,94
+NY,Paramount  Skydance Corporation,2026-01-15,341
 NY,"enDevelopment Logistics, LLC.",2026-01-15,42
+MD,Weis Store #291,2026-01-15,N/A
+NY,Paramount  Skydance Corporation,2026-01-15,28
+CA,UKG Inc.,2026-01-15,209
+VA,AeroFarms,2026-01-14,127
+CA,Amy's Drive-Thru,2026-01-14,55
+CA,RR Donnelley,2026-01-14,70
 MD,Peraton,2026-01-14,N/A
 MD,Home Depot Design Center,2026-01-14,N/A
-VA,AeroFarms,2026-01-14,127
 RI,EaglePicher,2026-01-13,38
 AL,Salon Centric  Inc,2026-01-13,79
-TN,Linamar Shelbyville,2026-01-13,N/A
+NJ,Jefferson Health,2026-01-13,108
+CA,Valero Refining Company,2026-01-13,237
 ME,Pride Manufacturing -gathr Outdoors,2026-01-13,115
 ME,SMBC-Sumitomo Mitsui Banking Corporation,2026-01-13,1
-NJ,Jefferson Health,2026-01-13,108
 IN,Margaret Mary Community Hospital (dba Margaret Mary Health),2026-01-13,55
-CA,Informatica LLC,2026-01-12,35
-AZ,JIT Service Inc.,2026-01-12,10
+TN,Linamar Shelbyville,2026-01-13,N/A
 CA,"Nestle USA, Inc. Mira Loma Distribution Center",2026-01-12,88
 HI,Kauai Coffee Company. LLC,2026-01-12,N/A
 TN,"Smoky Mountain Logistics, LLC",2026-01-12,N/A
+CA,Informatica LLC,2026-01-12,35
 NY,White Coffee Corporation,2026-01-11,97
 CA,Hupp Draft Services,2026-01-11,75
-TX,Unknown,2026-01-09,N/A
-CA,Local Initiative Health Authority for Los Angeles County dba L.A. Care Health Plan,2026-01-09,225
-CA,Macy's,2026-01-09,77
 CA,Cucina Enoteca Del Mar,2026-01-09,43
+TX,Unknown,2026-01-09,N/A
+CA,Macy's,2026-01-09,77
+CA,Local Initiative Health Authority for Los Angeles County dba L.A. Care Health Plan,2026-01-09,225
 FL,"SMBC MANUBANK 
-Fort Myers
+Marco Island
 515 South Figueroa Street Los Angeles, CA 90071
-FORT MYERS, FL, 33901",2026-01-08,1
+MARCO ISLAND, FL, 34145",2026-01-08,1
 OR,Oregon - Remote Employees,2026-01-08,N/A
-WA,SMBC Manubank,2026-01-08,N/A
-AZ,SMBC Group - JeniusBank,2026-01-08,33
+CA,Sealed Air Corporation,2026-01-08,51
 VA,SMBC Manubank,2026-01-08,6
 UT,SMBC Manubank,2026-01-08,1
-FL,"SMBC MANUBANK 
-Ponte Vedra
-515 South Figueroa Street Los Angeles, CA 90071
-PONTE VEDRA BEACH, FL, 32082",2026-01-08,1
 FL,"SMBC MANUBANK 
 Jacksonville
 515 South Figueroa Street Los Angeles, CA 90071
@@ -138,9 +151,13 @@ Land O Lakes
 515 South Figueroa Street Los Angeles, CA 90071
 LAND O LAKES, FL, 33599",2026-01-08,1
 FL,"SMBC MANUBANK 
-Marco Island
+Fort Myers
 515 South Figueroa Street Los Angeles, CA 90071
-MARCO ISLAND, FL, 34145",2026-01-08,1
+FORT MYERS, FL, 33901",2026-01-08,1
+FL,"SMBC MANUBANK 
+Ponte Vedra
+515 South Figueroa Street Los Angeles, CA 90071
+PONTE VEDRA BEACH, FL, 32082",2026-01-08,1
 FL,"SMBC MANUBANK 
 Orlando
 515 South Figueroa Street Los Angeles, CA 9007
@@ -161,31 +178,39 @@ FL,"SMBC MANUBANK
 Miami
 515 South Figueroa Street Los Angeles, CA 90071
 MIAMI, FL, 33101",2026-01-08,1
+WA,SMBC Manubank,2026-01-08,N/A
 HI,DFS Group L.P.,2026-01-08,N/A
+AZ,SMBC Group - JeniusBank,2026-01-08,33
 FL,"SMBC MANUBANK 
 Bonita Springs
 515 South Figueroa Street Los Angeles, CA 90071
 BONITA SPRINGS, FL, 33931",2026-01-08,1
-AZ,Avelo Airlines,2026-01-07,97
 CA,Pomona Hospital Medical Center (1601),2026-01-07,1
-CA,Pomona Hospital Medical Center (300),2026-01-07,4
-AZ,GNC Distribution Center,2026-01-07,66
 CA,Pomona Hospital Medical Center (1798),2026-01-07,108
+CA,Pomona Hospital Medical Center (300),2026-01-07,4
+AZ,Avelo Airlines,2026-01-07,97
 TX,Unknown,2026-01-07,N/A
 TX,Unknown,2026-01-07,N/A
-WA,Tessera,2026-01-06,N/A
-CA,"FormFactor, Inc.",2026-01-06,113
-CA,Alameda Health System - John George Hospital,2026-01-06,16
-CA,Alameda Health System - San Leandro Hospital,2026-01-06,22
-CA,Alameda Health System - Wilma Chan Highland Hospital,2026-01-06,128
+AZ,GNC Distribution Center,2026-01-07,66
 WA,Swedish Health Services,2026-01-06,N/A
-CA,"FormFactor, Inc.",2026-01-06,107
-CA,Alameda Health System - Fairmont Rehabilitation and Wellness,2026-01-06,44
-CA,Alameda Health System - Alameda Hospital,2026-01-06,9
 CA,Alameda Health System - Park Bridge,2026-01-06,3
+CA,"FormFactor, Inc.",2026-01-06,113
+CA,"FormFactor, Inc.",2026-01-06,107
+WA,Tessera,2026-01-06,N/A
+CA,Alameda Health System - John George Hospital,2026-01-06,16
+CA,Alameda Health System - Alameda Hospital,2026-01-06,9
 CO,Alan Ritchey,2026-01-06,729
 CO,Tessera Therapeutics,2026-01-06,1
+CA,Alameda Health System - Fairmont Rehabilitation and Wellness,2026-01-06,44
 CA,Alameda Health System - System Support Center,2026-01-06,18
+CA,Alameda Health System - Wilma Chan Highland Hospital,2026-01-06,128
+CA,Alameda Health System - San Leandro Hospital,2026-01-06,22
+CA,"Advanced Uniform Dust Control & Linen, LLC",2026-01-05,89
+NY,"SDH Education West, LLC d/b/a Sodexo - Univ at Albany Campus",2026-01-05,179
+CA,Wabash National LP,2026-01-05,6
+CA,"Advanced Uniform Dust Control & Linen, LLC",2026-01-05,4
+CA,Wabash National LP,2026-01-05,94
+IN,Wabash,2026-01-05,144
 FL,"Chemours 
 Trail Ridge South Mine 5222 Treat Road,
 
@@ -198,28 +223,21 @@ FL,"Chemours
 7775 South CR 228
 
 MACCLENNY, FL, 32063",2026-01-05,19
-NY,"SDH Education West, LLC d/b/a Sodexo - Univ at Albany Campus",2026-01-05,179
-CA,"Advanced Uniform Dust Control & Linen, LLC",2026-01-05,89
 CA,"Copan Diagnostics, Inc.",2026-01-05,79
-CA,Wabash National LP,2026-01-05,94
-CA,Wabash National LP,2026-01-05,6
-CA,"Advanced Uniform Dust Control & Linen, LLC",2026-01-05,4
-IN,Wabash,2026-01-05,144
 MD,"BAE Systems, Inc.",2026-01-02,N/A
 CO,TIAA,2026-01-02,101
+NY,Wabtec Corporation,2026-01-01,36
 NJ,Harrison Sportservice Inc.,2026-01-01,467
 PA,Pottstown Hospital,2026-01-01,131
-NY,Wabtec Corporation,2026-01-01,36
-NY,"Klēn Space, Inc.",2025-12-31,3
-NY,"Klēn Space, Inc.",2025-12-31,3
 NY,"Klēn Space, Inc.",2025-12-31,3
 NY,"Klēn Space, Inc.",2025-12-31,3
 NY,"Klēn Space, Inc.",2025-12-31,4
 NY,"Klēn Space, Inc.",2025-12-31,4
 NY,"Klēn Space, Inc.",2025-12-31,4
-NY,"Klēn Space, Inc.",2025-12-31,4
-NY,"Klēn Space, Inc.",2025-12-31,4
 NY,"Klēn Space, Inc.",2025-12-31,3
+NY,"Klēn Space, Inc.",2025-12-31,3
+NY,"Klēn Space, Inc.",2025-12-31,3
+NY,"Klēn Space, Inc.",2025-12-31,4
 NY,"Klēn Space, Inc.",2025-12-31,1
 NY,"Saks & Company, LLC.",2025-12-31,33
 NY,"The Child Center of NY, Inc.",2025-12-31,11
@@ -235,27 +253,28 @@ NY,"The Child Center of NY, Inc.",2025-12-31,1
 NY,The Children's Village,2025-12-31,114
 PA,"Travel + Leisure Resort Development, Inc.",2025-12-31,124
 PA,Oak View Group,2025-12-31,N/A
-NY,"Klēn Space, Inc.",2025-12-31,1
-NY,"Klēn Space, Inc.",2025-12-31,3
-NY,"Klēn Space, Inc.",2025-12-31,1
-NY,"Klēn Space, Inc.",2025-12-31,3
-NY,"Klēn Space, Inc.",2025-12-31,2
-NY,"Klēn Space, Inc.",2025-12-31,2
-NY,"Klēn Space, Inc.",2025-12-31,1
-NY,"Klēn Space, Inc.",2025-12-31,2
-NY,"Klēn Space, Inc.",2025-12-31,2
-NY,"Klēn Space, Inc.",2025-12-31,2
-NY,"Klēn Space, Inc.",2025-12-31,3
-NY,"Klēn Space, Inc.",2025-12-31,1
-NY,"Klēn Space, Inc.",2025-12-31,3
-NY,"Klēn Space, Inc.",2025-12-31,3
 NY,"Klēn Space, Inc.",2025-12-31,4
-NY,"Klēn Space, Inc.",2025-12-31,4
-NY,"Klēn Space, Inc.",2025-12-31,4
-NY,"Klēn Space, Inc.",2025-12-31,4
-NY,"Klēn Space, Inc.",2025-12-31,1
+NY,"Klēn Space, Inc.",2025-12-31,2
 NY,"Klēn Space, Inc.",2025-12-31,1
 NY,"Klēn Space, Inc.",2025-12-31,10
+NY,"Klēn Space, Inc.",2025-12-31,2
+NY,"Klēn Space, Inc.",2025-12-31,2
+NY,"Klēn Space, Inc.",2025-12-31,2
+NY,"Klēn Space, Inc.",2025-12-31,1
+NY,"Klēn Space, Inc.",2025-12-31,2
+NY,"Klēn Space, Inc.",2025-12-31,3
+NY,"Klēn Space, Inc.",2025-12-31,3
+NY,"Klēn Space, Inc.",2025-12-31,3
+NY,"Klēn Space, Inc.",2025-12-31,3
+NY,"Klēn Space, Inc.",2025-12-31,3
+NY,"Klēn Space, Inc.",2025-12-31,4
+NY,"Klēn Space, Inc.",2025-12-31,4
+NY,"Klēn Space, Inc.",2025-12-31,4
+NY,"Klēn Space, Inc.",2025-12-31,4
+NY,"Klēn Space, Inc.",2025-12-31,10
+NY,"Klēn Space, Inc.",2025-12-31,1
+NY,"Klēn Space, Inc.",2025-12-31,1
+NY,"Klēn Space, Inc.",2025-12-31,1
 NY,"Klēn Space, Inc.",2025-12-31,1
 NJ,BASF,2025-12-31,66
 NY,DAC GROUP NEW YORK INC.,2025-12-31,58
@@ -274,45 +293,45 @@ NY,"Klēn Space, Inc.",2025-12-31,1
 NY,"Klēn Space, Inc.",2025-12-31,10
 NY,"Klēn Space, Inc.",2025-12-31,4
 NY,"Klēn Space, Inc.",2025-12-31,10
+NY,"Klēn Space, Inc.",2025-12-31,7
 NY,"Klēn Space, Inc.",2025-12-31,1
+NY,"Klēn Space, Inc.",2025-12-31,2
+NY,"Klēn Space, Inc.",2025-12-31,2
+NY,"Klēn Space, Inc.",2025-12-31,2
+NY,"Klēn Space, Inc.",2025-12-31,2
+NY,"Klēn Space, Inc.",2025-12-31,2
+NY,"Klēn Space, Inc.",2025-12-31,7
+NY,"Klēn Space, Inc.",2025-12-31,7
+NY,"Klēn Space, Inc.",2025-12-31,7
 NY,"Klēn Space, Inc.",2025-12-31,1
-NY,"Klēn Space, Inc.",2025-12-31,2
-NY,"Klēn Space, Inc.",2025-12-31,2
-NY,"Klēn Space, Inc.",2025-12-31,2
-NY,"Klēn Space, Inc.",2025-12-31,2
-NY,"Klēn Space, Inc.",2025-12-31,2
-NY,"Klēn Space, Inc.",2025-12-31,7
-NY,"Klēn Space, Inc.",2025-12-31,7
-NY,"Klēn Space, Inc.",2025-12-31,7
-NY,"Klēn Space, Inc.",2025-12-31,7
 NY,"Klēn Space, Inc.",2025-12-31,7
 NY,"Klēn Space, Inc.",2025-12-31,4
 NY,"Klēn Space, Inc.",2025-12-31,4
 NY,"Klēn Space, Inc.",2025-12-31,4
 NY,"Klēn Space, Inc.",2025-12-31,4
 NY,"Klēn Space, Inc.",2025-12-31,4
+NY,"Klēn Space, Inc.",2025-12-31,1
 NY,"Klēn Space, Inc.",2025-12-31,1
 NY,"Klēn Space, Inc.",2025-12-31,10
-NY,"Klēn Space, Inc.",2025-12-31,1
-NY,"Klēn Space, Inc.",2025-12-31,2
-NY,"Klēn Space, Inc.",2025-12-31,2
-NY,"Klēn Space, Inc.",2025-12-31,10
-NY,"Klēn Space, Inc.",2025-12-31,5
-NY,"Klēn Space, Inc.",2025-12-31,5
-NY,"Klēn Space, Inc.",2025-12-31,5
-NY,"Klēn Space, Inc.",2025-12-31,5
-NY,"Klēn Space, Inc.",2025-12-31,5
-NY,"Klēn Space, Inc.",2025-12-31,1
 NJ,Novo Nordisk,2025-12-31,811
 NY,"Klēn Space, Inc.",2025-12-31,2
+NY,"Klēn Space, Inc.",2025-12-31,5
+NY,"Klēn Space, Inc.",2025-12-31,1
+NY,"Klēn Space, Inc.",2025-12-31,5
+NY,"Klēn Space, Inc.",2025-12-31,1
+NY,"Klēn Space, Inc.",2025-12-31,5
+NY,"Klēn Space, Inc.",2025-12-31,2
 NY,"Klēn Space, Inc.",2025-12-31,2
 NY,"Klēn Space, Inc.",2025-12-31,2
 NY,"Klēn Space, Inc.",2025-12-31,1
+NY,"Klēn Space, Inc.",2025-12-31,2
+NY,"Klēn Space, Inc.",2025-12-31,5
+NY,"Klēn Space, Inc.",2025-12-31,5
+NY,"ABM Aviation, Inc.",2025-12-30,83
+TN,"US Endodontics, LLC",2025-12-30,N/A
+PA,Chick-fil-A,2025-12-30,49
 CA,"Mare Island Dry Dock, LLC",2025-12-30,84
 CO,Nordstrom Credit Bank,2025-12-30,48
-TN,"US Endodontics, LLC",2025-12-30,N/A
-NY,"ABM Aviation, Inc.",2025-12-30,83
-PA,Chick-fil-A,2025-12-30,49
 CA,"Bonduelle Americas dba Ready Pac Foods, Inc.",2025-12-29,62
 IN,Dalton Corporation,2025-12-29,257
 TX,Unknown,2025-12-29,N/A
