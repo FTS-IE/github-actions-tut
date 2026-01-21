@@ -92,8 +92,12 @@ jobs:
           token = os.environ.get('SLACK_BOT_TOKEN')
           channel_id = os.environ.get('SLACK_CHANNEL_ID')
           now = datetime.now()
-          threshold = now - timedelta(days=30)
           
+          # --- CONSTANTS ---
+          TARGET_YEAR = 2026
+          # Catch notices with a date within the last 60 days to find late-posted Dec 2025 items
+          SLACK_LOOKBACK_DAYS = 60
+                    
           URL_MAP = {
               "NY": "https://dol.ny.gov/warn-dashboard",
               "CA": "https://edd.ca.gov/en/Jobs_and_Training/Layoff_Services_WARN",
@@ -109,81 +113,83 @@ jobs:
               
           }
 
+          # --- HELPER FUNCTIONS ---
           def get_col(df, keywords):
               for col in df.columns:
-                  if any(k in col.lower() for k in keywords):
+                  if any(k in str(col).lower() for k in keywords):
                       return col
               return None
 
           def clean_jobs(val):
               try:
-                  num = float(str(val).replace(',', '').strip())
-                  # Reject if it looks like a date (e.g. 20260105)
+                  val_str = str(val).replace(',', '').split('.')[0].strip()
+                  num_str = ''.join(filter(str.isdigit, val_str))
+                  if not num_str: return "N/A"
+                  num = int(num_str)
                   if num > 1000000: return "N/A"
-                  return int(num)
+                  return num
               except:
                   return "N/A"
 
           def standardize_df(df, state_code):
-              # Prioritize specific "Notice" columns to avoid future layoff dates
-              notice_col = get_col(df, ['notice date', 'notice_date', 'date of notice', 'received date', 'date_received'])
+              # 1. Map columns
+              notice_col = get_col(df, ['notice date', 'notice_date', 'date of notice', 'received date', 'date_received', 'date of letter'])
               if not notice_col: notice_col = get_col(df, ['date'])
-              
-              co_col = get_col(df, ['company name', 'employer', 'business legal'])
-              if not co_col: co_col = get_col(df, ['company'])
-              
+              co_col = get_col(df, ['company name', 'employer', 'business legal', 'affected_company'])
+              if not co_col: co_col = get_col(df, ['company', 'name'])
               jobs_col = get_col(df, ['number of employees', 'num_employees', 'jobs affected', 'total layoff', 'workers affected'])
               if not jobs_col: jobs_col = get_col(df, ['jobs', 'affected'])
 
-              new_df = pd.DataFrame()
-              new_df['State'] = [state_code.upper()] * len(df)
-              new_df['Company'] = df[co_col].fillna("Unknown") if co_col else "Unknown"
-              new_df['Notice Date Raw'] = df[notice_col].fillna("N/A") if notice_col else "N/A"
-              new_df['Jobs Affected Raw'] = df[jobs_col].fillna("N/A") if jobs_col else "N/A"
+              # 2. Extract
+              std_df = pd.DataFrame()
+              std_df['State'] = [state_code.upper()] * len(df)
+              std_df['Company'] = df[co_col].fillna("Unknown") if co_col else "Unknown"
               
-              # Clean data
-              new_df['Jobs Affected'] = new_df['Jobs Affected Raw'].apply(clean_jobs)
-              new_df['Notice Date'] = pd.to_datetime(new_df['Notice Date Raw'], errors='coerce')
+              raw_dates = df[notice_col].fillna("N/A") if notice_col else pd.Series(["N/A"] * len(df))
+              std_df['Notice Date'] = pd.to_datetime(raw_dates, errors='coerce')
+              std_df['Notice Date Raw'] = raw_dates
+              std_df['Jobs Affected'] = df[jobs_col].apply(clean_jobs) if jobs_col else "N/A"
               
-              # Filter out obviously wrong dates (> 1 year in future or < 2010)
-              valid_date_mask = (new_df['Notice Date'].dt.year == 2026) | (new_df['Notice Date'].dt.year == 2025)
-              new_df.loc[~valid_date_mask, 'Notice Date'] = pd.NaT
-              
-              return new_df[['State', 'Company', 'Notice Date', 'Jobs Affected', 'Notice Date Raw']]
+              return std_df[['State', 'Company', 'Notice Date', 'Jobs Affected', 'Notice Date Raw']]
 
           all_standardized = []
           new_for_slack = []
+          slack_threshold = datetime.now() - timedelta(days=SLACK_LOOKBACK_DAYS)
 
           for f in sorted(glob.glob("./data/*.csv")):
               if "recent_notices.csv" in f: continue
               state = os.path.basename(f).split(".")[0].upper()
               try:
-                  df_raw = pd.read_csv(f)
-                  df_clean = standardize_df(df_raw, state)
+                  df_clean = standardize_df(pd.read_csv(f), state)
                   all_standardized.append(df_clean)
                   
-                  # Alerting logic
+                  # 3. ADVANCED ALERT LOGIC
                   old_file = f.replace('./data/', './old_data/')
                   if os.path.exists(old_file):
                       df_old = standardize_df(pd.read_csv(old_file), state)
-                      new_rows = df_clean[~df_clean['Company'].isin(df_old['Company'])]
+                      # Create unique key to see if we've ever alerted on this specific notice
+                      df_clean['key'] = df_clean['Company'].astype(str) + df_clean['Notice Date'].astype(str)
+                      df_old['key'] = df_old['Company'].astype(str) + df_old['Notice Date'].astype(str)
+                      new_rows = df_clean[~df_clean['key'].isin(df_old['key'])]
                   else:
-                      new_rows = df_clean.head(1)
+                      new_rows = df_clean
 
                   for _, row in new_rows.iterrows():
                       if str(row['Company']).lower() in ['unknown', 'nan', '']: continue
-                      if pd.isna(row['Notice Date']): continue # Only alert on valid 2025/2026 dates
-                      new_for_slack.append(row.to_dict())
+                      # SAFETY NET: Alert if it's brand new AND within our 60-day discovery window
+                      if pd.notna(row['Notice Date']) and row['Notice Date'] >= slack_threshold:
+                          new_for_slack.append(row.to_dict())
               except: continue
 
-          # Save Standardized File
+          # 4. DASHBOARD (Strict 2026)
           if all_standardized:
               full_df = pd.concat(all_standardized)
-              recent = full_df[full_df['Notice Date'] >= threshold]
-              recent = recent.sort_values(by='Notice Date', ascending=False)
-              recent['Notice Date'] = recent['Notice Date'].dt.strftime('%Y-%m-%d')
-              recent.drop(columns=['Notice Date Raw']).to_csv("./data/recent_notices.csv", index=False)
-
+              # Keep the web portal strictly 2026 for the team
+              dash_df = full_df[full_df['Notice Date'].dt.year == TARGET_YEAR].copy()
+              dash_df = dash_df.sort_values(by='Notice Date', ascending=False)
+              dash_df['Notice Date'] = dash_df['Notice Date'].dt.strftime('%Y-%m-%d')
+              dash_df.drop(columns=['Notice Date Raw'], errors='ignore').to_csv("./data/recent_notices.csv", index=False)
+              
           # Threaded Slack Alerts
           if token and channel_id and new_for_slack:
               header = f"*Daily WARN Report: {now.strftime('%Y-%m-%d')}*"
