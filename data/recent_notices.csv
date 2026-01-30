@@ -2,8 +2,9 @@ State,Company,Notice Date,Jobs Affected,key
 NY,AllianceBernstein L.P.,2026-12-31,6,AllianceBernstein L.P.2026-12-31
 CT,"Metallics, Inc",2026-09-30,N/A,"Metallics, Inc2026-09-30"
 CT,Macys Cheshire Fulfillment Center,2026-08-29,N/A,Macys Cheshire Fulfillment Center2026-08-29
-NJ,Amazon,2026-04-28,N/A,Amazon2026-04-28
+NJ,Saks & Company,2026-05-04,69,Saks & Company2026-05-04
 PA,Amazon Fresh,2026-04-28,983,Amazon Fresh2026-04-28
+NJ,Amazon,2026-04-28,N/A,Amazon2026-04-28
 NJ,Blue Cross Blue Shield of NJ,2026-04-26,242,Blue Cross Blue Shield of NJ2026-04-26
 NJ,The Fresh Market,2026-04-12,55,The Fresh Market2026-04-12
 NJ,ERMC,2026-04-11,205,ERMC2026-04-11
@@ -12,45 +13,45 @@ NY,Lincoln Hall,2026-04-06,123,Lincoln Hall2026-04-06
 PA,"The GIANT Company, LLC.",2026-04-03,105,"The GIANT Company, LLC.2026-04-03"
 CT,PerkinElmer U.S. LLC,2026-04-01,N/A,PerkinElmer U.S. LLC2026-04-01
 NY,Waste Harmonics Keter,2026-03-31,42,Waste Harmonics Keter2026-03-31
+NJ,International Real Estate Partners US Corp,2026-03-31,61,International Real Estate Partners US Corp2026-03-31
+NY,Abbott House,2026-03-31,109,Abbott House2026-03-31
+NY,Waste Harmonics Keter,2026-03-31,42,Waste Harmonics Keter2026-03-31
 NY,Waste Harmonics Keter,2026-03-31,42,Waste Harmonics Keter2026-03-31
 NY,Waste Harmonics Keter,2026-03-31,42,Waste Harmonics Keter2026-03-31
 NY,Waste Harmonics Keter,2026-03-31,42,Waste Harmonics Keter2026-03-31
 NJ,Pioneer Credit Recovery,2026-03-31,180,Pioneer Credit Recovery2026-03-31
-NY,Abbott House,2026-03-31,109,Abbott House2026-03-31
+NY,Waste Harmonics Keter,2026-03-31,42,Waste Harmonics Keter2026-03-31
 NY,Abbott House,2026-03-31,53,Abbott House2026-03-31
-NY,Waste Harmonics Keter,2026-03-31,42,Waste Harmonics Keter2026-03-31
-NJ,International Real Estate Partners US Corp,2026-03-31,61,International Real Estate Partners US Corp2026-03-31
-NY,Waste Harmonics Keter,2026-03-31,42,Waste Harmonics Keter2026-03-31
 PA,Miller's Ale House,2026-03-30,49,Miller's Ale House2026-03-30
 MO,Unknown,2026-03-20,104,Unknown2026-03-20
 NY,"Clean Textile Systems, LP. D/B/A Clean Care",2026-03-20,69,"Clean Textile Systems, LP. D/B/A Clean Care2026-03-20"
 SC,James Hardie Building Products Inc.,2026-03-16,78,James Hardie Building Products Inc.2026-03-16
-PA,"ALPEK Polyester USA, LLC",2026-03-15,100,"ALPEK Polyester USA, LLC2026-03-15"
 PA,French Creek Recovery Center,2026-03-15,59,French Creek Recovery Center2026-03-15
+PA,"ALPEK Polyester USA, LLC",2026-03-15,100,"ALPEK Polyester USA, LLC2026-03-15"
 CT,Macys Store Delivery Center (SDS) and Customer Returns Center (CRD) Operations,2026-03-14,N/A,Macys Store Delivery Center (SDS) and Customer Returns Center (CRD) Operations2026-03-14
-SC,SMBC MANUBANK (JeniusBank),2026-03-10,3,SMBC MANUBANK (JeniusBank)2026-03-10
 CT,JeniusBank,2026-03-10,N/A,JeniusBank2026-03-10
+SC,SMBC MANUBANK (JeniusBank),2026-03-10,3,SMBC MANUBANK (JeniusBank)2026-03-10
 PA,"PrimeFlight Aviation Services, Inc.",2026-03-09,68,"PrimeFlight Aviation Services, Inc.2026-03-09"
 SC,Saddle Creek Logistics Services,2026-03-05,130,Saddle Creek Logistics Services2026-03-05
 NJ,CMC Energy Services,2026-03-02,89,CMC Energy Services2026-03-02
+PA,DHL Supply Chain,2026-02-28,66,DHL Supply Chain2026-02-28
 SC,"eREV Supply Chain, LLC",2026-02-28,133,"eREV Supply Chain, LLC2026-02-28"
+NY,Area Storage & Transfer Inc.,2026-02-28,183,Area Storage & Transfer Inc.2026-02-28
 SC,DLH Solutions,2026-02-28,194,DLH Solutions2026-02-28
-NY,"Terphane, LLC.",2026-02-28,49,"Terphane, LLC.2026-02-28"
+MO,Unknown,2026-02-28,3,Unknown2026-02-28
 NY,"Terphane, LLC.",2026-02-28,49,"Terphane, LLC.2026-02-28"
 NY,"Terphane, LLC.",2026-02-28,49,"Terphane, LLC.2026-02-28"
 NY,"Terphane, LLC.",2026-02-28,49,"Terphane, LLC.2026-02-28"
 NY,The French Connection,2026-02-28,1,The French Connection2026-02-28
-PA,DHL Supply Chain,2026-02-28,66,DHL Supply Chain2026-02-28
 NY,The French Connection,2026-02-28,24,The French Connection2026-02-28
-NY,Area Storage & Transfer Inc.,2026-02-28,183,Area Storage & Transfer Inc.2026-02-28
-SC,"WeDriveU, Inc.",2026-02-28,194,"WeDriveU, Inc.2026-02-28"
-MO,Unknown,2026-02-28,3,Unknown2026-02-28
 NY,"Terphane, LLC.",2026-02-28,49,"Terphane, LLC.2026-02-28"
-PA,"GIANT Company, LLC",2026-02-27,76,"GIANT Company, LLC2026-02-27"
-NY,"AngioDynamics, Inc.",2026-02-27,1,"AngioDynamics, Inc.2026-02-27"
+NY,"Terphane, LLC.",2026-02-28,49,"Terphane, LLC.2026-02-28"
+SC,"WeDriveU, Inc.",2026-02-28,194,"WeDriveU, Inc.2026-02-28"
 NY,"AngioDynamics, Inc.",2026-02-27,2,"AngioDynamics, Inc.2026-02-27"
-NY,"AngioDynamics, Inc.",2026-02-27,51,"AngioDynamics, Inc.2026-02-27"
+PA,"GIANT Company, LLC",2026-02-27,76,"GIANT Company, LLC2026-02-27"
 SC,Railcrew Xpress,2026-02-27,58,Railcrew Xpress2026-02-27
+NY,"AngioDynamics, Inc.",2026-02-27,51,"AngioDynamics, Inc.2026-02-27"
+NY,"AngioDynamics, Inc.",2026-02-27,1,"AngioDynamics, Inc.2026-02-27"
 UT,Nordstrom Card Services,2026-02-21,15,Nordstrom Card Services2026-02-21
 NJ,Verizon,2026-02-20,1319,Verizon2026-02-20
 NJ,Wonder Group,2026-02-19,121,Wonder Group2026-02-19
@@ -60,71 +61,71 @@ PA,"GIANT Company, LLC",2026-02-13,128,"GIANT Company, LLC2026-02-13"
 NY,"Kimber Mfg., Inc.",2026-02-09,69,"Kimber Mfg., Inc.2026-02-09"
 NJ,Acme,2026-02-07,71,Acme2026-02-07
 PA,"Taste, Inc.",2026-02-05,10,"Taste, Inc.2026-02-05"
-NJ,Optum Select Management,2026-02-02,11,Optum Select Management2026-02-02
 PA,"Great Dane, LLC",2026-02-02,164,"Great Dane, LLC2026-02-02"
+NJ,Optum Select Management,2026-02-02,11,Optum Select Management2026-02-02
 PA,Crothall and Morrison Healthcare,2026-02-01,795,Crothall and Morrison Healthcare2026-02-01
 PA,"AVI Foodsystems, Inc.",2026-02-01,297,"AVI Foodsystems, Inc.2026-02-01"
+SC,Sodexo (HCA Grand Strand Medical),2026-01-31,85,Sodexo (HCA Grand Strand Medical)2026-01-31
+NY,"American Sugar Refining, Inc.",2026-01-31,231,"American Sugar Refining, Inc.2026-01-31"
 NY,"NIKE Retail Services, Inc.",2026-01-31,87,"NIKE Retail Services, Inc.2026-01-31"
 NY,"Spirit Airlines, LLC.",2026-01-31,304,"Spirit Airlines, LLC.2026-01-31"
 MO,Unknown,2026-01-31,151,Unknown2026-01-31
-SC,Sodexo (HCA Grand Strand Medical),2026-01-31,85,Sodexo (HCA Grand Strand Medical)2026-01-31
 NY,"American Sugar Refining, Inc.",2026-01-31,231,"American Sugar Refining, Inc.2026-01-31"
 NY,"DSV Air & Sea, Inc.",2026-01-31,31,"DSV Air & Sea, Inc.2026-01-31"
-NY,"American Sugar Refining, Inc.",2026-01-31,231,"American Sugar Refining, Inc.2026-01-31"
+KS,"Vornado Air, LLC.",2026-01-30,72,"Vornado Air, LLC.2026-01-30"
 SC,"SC Industrial Holdings, LLC",2026-01-30,78,"SC Industrial Holdings, LLC2026-01-30"
+TN,Danfoss Power Solutions,2026-01-30,N/A,Danfoss Power Solutions2026-01-30
 MO,Unknown,2026-01-30,213,Unknown2026-01-30
-MO,Unknown,2026-01-30,93,Unknown2026-01-30
 SC,Santee Print Works,2026-01-30,140,Santee Print Works2026-01-30
+MO,Unknown,2026-01-30,93,Unknown2026-01-30
+OK,Bright Horizons,2026-01-30,N/A,Bright Horizons2026-01-30
 OR,"Three Pirates, LLC dba Point Blank Dist",2026-01-29,N/A,"Three Pirates, LLC dba Point Blank Dist2026-01-29"
 OR,Bend Location,2026-01-29,N/A,Bend Location2026-01-29
 OR,Eugene Location,2026-01-29,N/A,Eugene Location2026-01-29
-CA,Amazon - MAJ8,2026-01-28,160,Amazon - MAJ82026-01-28
-ID,"Hearthside Food Solutions, LLC dba Maker's Pride",2026-01-28,51,"Hearthside Food Solutions, LLC dba Maker's Pride2026-01-28"
-WA,"Expedia, Inc.",2026-01-28,N/A,"Expedia, Inc.2026-01-28"
-CA,Amazon - MAO6,2026-01-28,189,Amazon - MAO62026-01-28
-MD,Amazon - MAF1 facility,2026-01-28,N/A,Amazon - MAF1 facility2026-01-28
-MD,Amazon - MAG5 facility,2026-01-28,N/A,Amazon - MAG5 facility2026-01-28
-MD,Amazon - MAH5 facility,2026-01-28,N/A,Amazon - MAH5 facility2026-01-28
-MD,Amazon - MAT8 facility,2026-01-28,N/A,Amazon - MAT8 facility2026-01-28
-MD,Amazon - MAV2 facility,2026-01-28,N/A,Amazon - MAV2 facility2026-01-28
-WA,Amazon,2026-01-28,N/A,Amazon2026-01-28
-WA,CHS Northwest,2026-01-28,N/A,CHS Northwest2026-01-28
-CA,Amazon - MAM7,2026-01-28,139,Amazon - MAM72026-01-28
-CA,Amazon - MAF8,2026-01-28,196,Amazon - MAF82026-01-28
 CA,Amazon - MAF5,2026-01-28,190,Amazon - MAF52026-01-28
-CA,Amazon - MAB8,2026-01-28,191,Amazon - MAB82026-01-28
-CA,Amazon - MAQ8,2026-01-28,163,Amazon - MAQ82026-01-28
-CA,Amazon - MAB1,2026-01-28,215,Amazon - MAB12026-01-28
+MD,Amazon - MAV2 facility,2026-01-28,N/A,Amazon - MAV2 facility2026-01-28
+ID,"Hearthside Food Solutions, LLC dba Maker's Pride",2026-01-28,51,"Hearthside Food Solutions, LLC dba Maker's Pride2026-01-28"
+MD,Amazon - MAT8 facility,2026-01-28,N/A,Amazon - MAT8 facility2026-01-28
+MD,Amazon - MAH5 facility,2026-01-28,N/A,Amazon - MAH5 facility2026-01-28
+MD,Amazon - MAG5 facility,2026-01-28,N/A,Amazon - MAG5 facility2026-01-28
+MD,Amazon - MAF1 facility,2026-01-28,N/A,Amazon - MAF1 facility2026-01-28
+CA,Amazon - MAM7,2026-01-28,139,Amazon - MAM72026-01-28
+CA,Amazon - MAO6,2026-01-28,189,Amazon - MAO62026-01-28
 CA,Amazon - MAB4,2026-01-28,131,Amazon - MAB42026-01-28
-NY,"Presbyterian Home for Central New York, Inc.",2026-01-28,128,"Presbyterian Home for Central New York, Inc.2026-01-28"
-CA,Amazon - MAB5,2026-01-28,184,Amazon - MAB52026-01-28
-CA,Amazon - MAC9,2026-01-28,168,Amazon - MAC92026-01-28
-CA,Amazon - MAF3,2026-01-28,201,Amazon - MAF32026-01-28
-CA,Amazon - MAF9,2026-01-28,155,Amazon - MAF92026-01-28
-CA,Amazon - MAG1,2026-01-28,185,Amazon - MAG12026-01-28
-TX,Fresenius USA Manufacturing,2026-01-28,N/A,Fresenius USA Manufacturing2026-01-28
 CA,Amazon - MAK9,2026-01-28,134,Amazon - MAK92026-01-28
-CA,Amazon - MAB9,2026-01-28,191,Amazon - MAB92026-01-28
-CA,Amazon - MAC2,2026-01-28,175,Amazon - MAC22026-01-28
-CA,Amazon - MBA6,2026-01-28,181,Amazon - MBA62026-01-28
-CA,Amazon - MAQ9,2026-01-28,174,Amazon - MAQ92026-01-28
-CA,Amazon - MAH8,2026-01-28,172,Amazon - MAH82026-01-28
-CA,Amazon - MAI8,2026-01-28,182,Amazon - MAI82026-01-28
+CA,Amazon - MAF9,2026-01-28,155,Amazon - MAF92026-01-28
+CA,Amazon - MAF8,2026-01-28,196,Amazon - MAF82026-01-28
+CA,Amazon - MAF3,2026-01-28,201,Amazon - MAF32026-01-28
+CA,Amazon - MAC9,2026-01-28,168,Amazon - MAC92026-01-28
+CA,Amazon - MAB5,2026-01-28,184,Amazon - MAB52026-01-28
+CA,Amazon - MAB1,2026-01-28,215,Amazon - MAB12026-01-28
+WA,CHS Northwest,2026-01-28,N/A,CHS Northwest2026-01-28
+WA,Amazon,2026-01-28,N/A,Amazon2026-01-28
+WA,"Expedia, Inc.",2026-01-28,N/A,"Expedia, Inc.2026-01-28"
+VA,Amazon,2026-01-28,691,Amazon2026-01-28
+VA,PMI-U.S. Corporate Services (Phillip Morris),2026-01-28,135,PMI-U.S. Corporate Services (Phillip Morris)2026-01-28
+TX,Fresenius USA Manufacturing,2026-01-28,N/A,Fresenius USA Manufacturing2026-01-28
+CA,Amazon - MAQ8,2026-01-28,163,Amazon - MAQ82026-01-28
 TX,Cardone Industries-Arlington,2026-01-28,N/A,Cardone Industries-Arlington2026-01-28
-CA,Amazon - MAM9,2026-01-28,179,Amazon - MAM92026-01-28
 TX,Cardone Industries-Harlingen,2026-01-28,N/A,Cardone Industries-Harlingen2026-01-28
-CA,"Catholic Charities, Diocese of San Diego - MG Suite B",2026-01-27,11,"Catholic Charities, Diocese of San Diego - MG Suite B2026-01-27"
-AZ,Benchmark,2026-01-27,N/A,Benchmark2026-01-27
-CA,"Schultz Industrial Services, Inc.",2026-01-27,66,"Schultz Industrial Services, Inc.2026-01-27"
-CA,JBT Marel Corporation,2026-01-27,59,JBT Marel Corporation2026-01-27
+CA,Amazon - MAG1,2026-01-28,185,Amazon - MAG12026-01-28
+NY,"Presbyterian Home for Central New York, Inc.",2026-01-28,128,"Presbyterian Home for Central New York, Inc.2026-01-28"
+CA,Amazon - MAH8,2026-01-28,172,Amazon - MAH82026-01-28
+CA,Amazon - MAC2,2026-01-28,175,Amazon - MAC22026-01-28
+CA,Amazon - MAJ8,2026-01-28,160,Amazon - MAJ82026-01-28
+CA,Amazon - MAI8,2026-01-28,182,Amazon - MAI82026-01-28
+CA,Amazon - MAQ9,2026-01-28,174,Amazon - MAQ92026-01-28
+CA,Amazon - MBA6,2026-01-28,181,Amazon - MBA62026-01-28
+CA,Amazon - MAM9,2026-01-28,179,Amazon - MAM92026-01-28
+CA,Amazon - MAB9,2026-01-28,191,Amazon - MAB92026-01-28
+CA,Amazon - MAB8,2026-01-28,191,Amazon - MAB82026-01-28
 NY,Personio Corp.,2026-01-27,47,Personio Corp.2026-01-27
-CA,"Catholic Charities, Diocese of San Diego - MG Suite A",2026-01-27,7,"Catholic Charities, Diocese of San Diego - MG Suite A2026-01-27"
-CA,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP",2026-01-27,45,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP2026-01-27"
-CA,"Catholic Charities, Diocese of San Diego - San Diego Migrant Shelter",2026-01-27,7,"Catholic Charities, Diocese of San Diego - San Diego Migrant Shelter2026-01-27"
-CA,"Catholic Charities, Diocese of San Diego - Pastoral Center",2026-01-27,6,"Catholic Charities, Diocese of San Diego - Pastoral Center2026-01-27"
-CA,Pinterest Inc. (San Francisco),2026-01-27,98,Pinterest Inc. (San Francisco)2026-01-27
+CA,JBT Marel Corporation,2026-01-27,59,JBT Marel Corporation2026-01-27
+CA,"Schultz Industrial Services, Inc.",2026-01-27,66,"Schultz Industrial Services, Inc.2026-01-27"
 CA,Pinterest Inc. (CA Remote),2026-01-27,4,Pinterest Inc. (CA Remote)2026-01-27
-CA,Pinterest Inc. (Palo Alto),2026-01-27,16,Pinterest Inc. (Palo Alto)2026-01-27
+VA,Bear Express LLC,2026-01-27,168,Bear Express LLC2026-01-27
+CA,Pinterest Inc. (San Francisco),2026-01-27,98,Pinterest Inc. (San Francisco)2026-01-27
+TN,"NIKE Retail Services, Inc.",2026-01-27,N/A,"NIKE Retail Services, Inc.2026-01-27"
 FL,"Naples Grande Beach Resort 
 475 Seagate Drive
 
@@ -132,41 +133,41 @@ NAPLES, FL, 34103",2026-01-27,235,"Naples Grande Beach Resort
 475 Seagate Drive
 
 NAPLES, FL, 341032026-01-27"
-TN,"NIKE Retail Services, Inc.",2026-01-27,N/A,"NIKE Retail Services, Inc.2026-01-27"
+CA,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP",2026-01-27,45,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP2026-01-27"
+CA,"Catholic Charities, Diocese of San Diego - MG Suite A",2026-01-27,7,"Catholic Charities, Diocese of San Diego - MG Suite A2026-01-27"
+CA,"Catholic Charities, Diocese of San Diego - MG Suite B",2026-01-27,11,"Catholic Charities, Diocese of San Diego - MG Suite B2026-01-27"
+CA,Pinterest Inc. (Palo Alto),2026-01-27,16,Pinterest Inc. (Palo Alto)2026-01-27
+CA,"Catholic Charities, Diocese of San Diego - Pastoral Center",2026-01-27,6,"Catholic Charities, Diocese of San Diego - Pastoral Center2026-01-27"
 CA,Thermo Fisher Scientific,2026-01-27,173,Thermo Fisher Scientific2026-01-27
-HI,UPDATE – DFS Group L.P.,2026-01-26,N/A,UPDATE – DFS Group L.P.2026-01-26
-NY,Amazon,2026-01-26,58,Amazon2026-01-26
+AZ,Benchmark,2026-01-27,65,Benchmark2026-01-27
+CA,"Catholic Charities, Diocese of San Diego - San Diego Migrant Shelter",2026-01-27,7,"Catholic Charities, Diocese of San Diego - San Diego Migrant Shelter2026-01-27"
+TN,"Music City Delivery, LLC",2026-01-26,N/A,"Music City Delivery, LLC2026-01-26"
 TN,"Smoky Mountain Logistics, LLC",2026-01-26,N/A,"Smoky Mountain Logistics, LLC2026-01-26"
-CA,Google (MPD237),2026-01-26,19,Google (MPD237)2026-01-26
-NY,Amazon,2026-01-26,233,Amazon2026-01-26
-NY,Amazon,2026-01-26,182,Amazon2026-01-26
-NY,Amazon,2026-01-26,91,Amazon2026-01-26
-NY,Amazon,2026-01-26,41,Amazon2026-01-26
-CA,Google (MP4),2026-01-26,24,Google (MP4)2026-01-26
-NY,Amazon,2026-01-26,9,Amazon2026-01-26
-NY,Amazon,2026-01-26,38,Amazon2026-01-26
-NY,Amazon,2026-01-26,7,Amazon2026-01-26
 NY,Amazon,2026-01-26,1,Amazon2026-01-26
 NJ,Audible,2026-01-26,67,Audible2026-01-26
-TN,"Music City Delivery, LLC",2026-01-26,N/A,"Music City Delivery, LLC2026-01-26"
+NJ,TTEC Government Solutions,2026-01-26,120,TTEC Government Solutions2026-01-26
+NJ,Amazon,2026-01-26,72,Amazon2026-01-26
+NY,Amazon,2026-01-26,9,Amazon2026-01-26
+NY,Amazon,2026-01-26,58,Amazon2026-01-26
+NY,Amazon,2026-01-26,38,Amazon2026-01-26
+NY,Amazon,2026-01-26,7,Amazon2026-01-26
+NY,Amazon,2026-01-26,91,Amazon2026-01-26
+CA,Google (BRGAS1265),2026-01-26,1,Google (BRGAS1265)2026-01-26
+CA,Google (MP1),2026-01-26,2,Google (MP1)2026-01-26
+NY,Amazon,2026-01-26,233,Amazon2026-01-26
+CA,BEN Group. Inc (BENlabs),2026-01-26,75,BEN Group. Inc (BENlabs)2026-01-26
+HI,UPDATE – DFS Group L.P.,2026-01-26,N/A,UPDATE – DFS Group L.P.2026-01-26
+CA,Google (MPD237),2026-01-26,19,Google (MPD237)2026-01-26
+CA,Google (MP4),2026-01-26,24,Google (MP4)2026-01-26
 CA,Google (MP3),2026-01-26,27,Google (MP3)2026-01-26
 CA,Google (MP2),2026-01-26,3,Google (MP2)2026-01-26
-CA,Phillips 66 - Wilmington,2026-01-26,111,Phillips 66 - Wilmington2026-01-26
-CA,Phillips 66,2026-01-26,44,Phillips 662026-01-26
-NJ,TTEC Government Solutions,2026-01-26,120,TTEC Government Solutions2026-01-26
-CA,BEN Group. Inc (BENlabs),2026-01-26,75,BEN Group. Inc (BENlabs)2026-01-26
-CA,Google (BRGAS1265),2026-01-26,1,Google (BRGAS1265)2026-01-26
 CA,Google (HMBLT3),2026-01-26,1,Google (HMBLT3)2026-01-26
-CA,Google (MP1),2026-01-26,2,Google (MP1)2026-01-26
-NJ,Amazon,2026-01-26,72,Amazon2026-01-26
+CA,Phillips 66,2026-01-26,44,Phillips 662026-01-26
+CA,Phillips 66 - Wilmington,2026-01-26,111,Phillips 66 - Wilmington2026-01-26
+NY,Amazon,2026-01-26,41,Amazon2026-01-26
+NY,Amazon,2026-01-26,182,Amazon2026-01-26
 NJ,Starbucks Coffee Company,2026-01-25,47,Starbucks Coffee Company2026-01-25
-FL,"Saks & Company LLC 
-2784 Executive Way
-
-MIRAMAR, FL, 33025",2026-01-23,74,"Saks & Company LLC 
-2784 Executive Way
-
-MIRAMAR, FL, 330252026-01-23"
+CA,Autodesk,2026-01-23,104,Autodesk2026-01-23
 FL,"Aimbridge 
 340 Biscayne Boulevard
 
@@ -174,15 +175,14 @@ MIAMI, FL, 33132",2026-01-23,66,"Aimbridge
 340 Biscayne Boulevard
 
 MIAMI, FL, 331322026-01-23"
-FL,"ECS Federal, LLC 
-12211 Science Drive
-
-ORLANDO, FL, 32826",2026-01-23,117,"ECS Federal, LLC 
-12211 Science Drive
-
-ORLANDO, FL, 328262026-01-23"
-CA,Autodesk,2026-01-23,104,Autodesk2026-01-23
 TX,Power Plug Inc. (Houston Manufacturing Company),2026-01-23,N/A,Power Plug Inc. (Houston Manufacturing Company)2026-01-23
+FL,"Saks & Company LLC 
+2784 Executive Way
+
+MIRAMAR, FL, 33025",2026-01-23,74,"Saks & Company LLC 
+2784 Executive Way
+
+MIRAMAR, FL, 330252026-01-23"
 FL,"Paradies Lagardere FL EE Dining, LLC 
 9702 Jeff fuqua blvd
 
@@ -190,21 +190,28 @@ ORLANDO, FL, 32827",2026-01-23,87,"Paradies Lagardere FL EE Dining, LLC
 9702 Jeff fuqua blvd
 
 ORLANDO, FL, 328272026-01-23"
+FL,"ECS Federal, LLC 
+12211 Science Drive
+
+ORLANDO, FL, 32826",2026-01-23,117,"ECS Federal, LLC 
+12211 Science Drive
+
+ORLANDO, FL, 328262026-01-23"
 MO,Unknown,2026-01-23,94,Unknown2026-01-23
 CA,Corteva Agriscience,2026-01-22,1,Corteva Agriscience2026-01-22
-NE,Tyson Extension - Lexington,2026-01-21,294,Tyson Extension - Lexington2026-01-21
-HI,Wolfgang’s Steakhouse,2026-01-21,N/A,Wolfgang’s Steakhouse2026-01-21
 CA,"Pioneer Custom Electrical Products, LLC",2026-01-21,47,"Pioneer Custom Electrical Products, LLC2026-01-21"
-TX,Future Proof Brands LLC (Austin),2026-01-21,N/A,Future Proof Brands LLC (Austin)2026-01-21
+HI,Wolfgang’s Steakhouse,2026-01-21,N/A,Wolfgang’s Steakhouse2026-01-21
 VA,Leidos,2026-01-21,93,Leidos2026-01-21
 CA,"Gilead Sciences, Inc.",2026-01-21,34,"Gilead Sciences, Inc.2026-01-21"
-PA,"Keen Transport, Inc.",2026-01-20,52,"Keen Transport, Inc.2026-01-20"
+TX,Future Proof Brands LLC (Austin),2026-01-21,N/A,Future Proof Brands LLC (Austin)2026-01-21
+NE,Tyson Extension - Lexington,2026-01-21,294,Tyson Extension - Lexington2026-01-21
 CA,"Resonetics, LLC",2026-01-20,61,"Resonetics, LLC2026-01-20"
-CA,Western Digital Technologies,2026-01-20,87,Western Digital Technologies2026-01-20
-IA,"Collis, LLC ",2026-01-20,N/A,"Collis, LLC 2026-01-20"
-SC,"Best Dressed Chicken, Inc.",2026-01-20,4,"Best Dressed Chicken, Inc.2026-01-20"
-IN,"Inari Agriculture, Inc.",2026-01-20,64,"Inari Agriculture, Inc.2026-01-20"
 TX,"Tyson Foods, Inc (Amarillo B-Shift Operations) Updated",2026-01-20,N/A,"Tyson Foods, Inc (Amarillo B-Shift Operations) Updated2026-01-20"
+IN,"Inari Agriculture, Inc.",2026-01-20,64,"Inari Agriculture, Inc.2026-01-20"
+CA,Western Digital Technologies,2026-01-20,87,Western Digital Technologies2026-01-20
+PA,"Keen Transport, Inc.",2026-01-20,52,"Keen Transport, Inc.2026-01-20"
+SC,"Best Dressed Chicken, Inc.",2026-01-20,4,"Best Dressed Chicken, Inc.2026-01-20"
+IA,"Collis, LLC ",2026-01-20,N/A,"Collis, LLC 2026-01-20"
 NY,"H&M Fashion USA, Inc.",2026-01-19,31,"H&M Fashion USA, Inc.2026-01-19"
 NY,"H&M Fashion USA, Inc.",2026-01-19,31,"H&M Fashion USA, Inc.2026-01-19"
 FL,"TelaForce, LLC 
@@ -215,16 +222,10 @@ FORT WALTON BEACH, FL, 32548",2026-01-19,59,"TelaForce, LLC
 
 FORT WALTON BEACH, FL, 325482026-01-19"
 WA,"Meta Platforms, Inc",2026-01-19,N/A,"Meta Platforms, Inc2026-01-19"
-VA,Yokohama Tire Manufacturing Virginia LLC,2026-01-16,533,Yokohama Tire Manufacturing Virginia LLC2026-01-16
-CA,Best Buy,2026-01-16,46,Best Buy2026-01-16
-CA,"Lakeshore Learning Materials, LLC",2026-01-16,163,"Lakeshore Learning Materials, LLC2026-01-16"
-CA,Albertsons Companies LLC,2026-01-16,75,Albertsons Companies LLC2026-01-16
-CA,GCOM Software LLC dba Voyatek,2026-01-16,8,GCOM Software LLC dba Voyatek2026-01-16
-CA,The Vons Companies Inc.,2026-01-16,70,The Vons Companies Inc.2026-01-16
 CA,Best Buy,2026-01-16,60,Best Buy2026-01-16
 CA,"Meta Platforms, Inc.",2026-01-16,53,"Meta Platforms, Inc.2026-01-16"
-CA,"Meta Platforms, Inc.",2026-01-16,219,"Meta Platforms, Inc.2026-01-16"
-CA,"Primo Brands, Inc.",2026-01-16,19,"Primo Brands, Inc.2026-01-16"
+VA,Yokohama Tire Manufacturing Virginia LLC,2026-01-16,533,Yokohama Tire Manufacturing Virginia LLC2026-01-16
+CA,"Lakeshore Learning Materials, LLC",2026-01-16,163,"Lakeshore Learning Materials, LLC2026-01-16"
 FL,"Host International, Inc. 
 1 Jeff Fuqua Blvd
 
@@ -232,59 +233,63 @@ ORLANDO, FL, 32827",2026-01-16,92,"Host International, Inc.
 1 Jeff Fuqua Blvd
 
 ORLANDO, FL, 328272026-01-16"
-NY,Paramount  Skydance Corporation,2026-01-15,3,Paramount  Skydance Corporation2026-01-15
-WA,Food Service Slicing LLC dba Crunch Pak,2026-01-15,N/A,Food Service Slicing LLC dba Crunch Pak2026-01-15
-OK,Macy's Distribution,2026-01-15,N/A,Macy's Distribution2026-01-15
-MD,Weis Store #291,2026-01-15,N/A,Weis Store #2912026-01-15
-CO,Battelle,2026-01-15,1,Battelle2026-01-15
+CA,Albertsons Companies LLC,2026-01-16,75,Albertsons Companies LLC2026-01-16
+CA,GCOM Software LLC dba Voyatek,2026-01-16,8,GCOM Software LLC dba Voyatek2026-01-16
+CA,Best Buy,2026-01-16,46,Best Buy2026-01-16
+CA,The Vons Companies Inc.,2026-01-16,70,The Vons Companies Inc.2026-01-16
+CA,"Primo Brands, Inc.",2026-01-16,19,"Primo Brands, Inc.2026-01-16"
+CA,"Meta Platforms, Inc.",2026-01-16,219,"Meta Platforms, Inc.2026-01-16"
 NY,Paramount  Skydance Corporation,2026-01-15,341,Paramount  Skydance Corporation2026-01-15
-NY,Paramount  Skydance Corporation,2026-01-15,28,Paramount  Skydance Corporation2026-01-15
-NY,Paramount  Skydance Corporation,2026-01-15,1,Paramount  Skydance Corporation2026-01-15
-CA,UKG Inc.,2026-01-15,209,UKG Inc.2026-01-15
-NY,Paramount  Skydance Corporation,2026-01-15,67,Paramount  Skydance Corporation2026-01-15
-NY,Paramount  Skydance Corporation,2026-01-15,5,Paramount  Skydance Corporation2026-01-15
-CO,EPTAM West LLC dba Precision Metals,2026-01-15,134,EPTAM West LLC dba Precision Metals2026-01-15
 CA,James Hardie Fontana Manufacturing,2026-01-15,94,James Hardie Fontana Manufacturing2026-01-15
+NY,Paramount  Skydance Corporation,2026-01-15,67,Paramount  Skydance Corporation2026-01-15
 CA,"Nationstar Mortgage, LLC d/b/a Mr. Cooper",2026-01-15,110,"Nationstar Mortgage, LLC d/b/a Mr. Cooper2026-01-15"
-NY,"enDevelopment Logistics, LLC.",2026-01-15,42,"enDevelopment Logistics, LLC.2026-01-15"
 CA,DHL Supply Chain,2026-01-15,74,DHL Supply Chain2026-01-15
-TX,Francesca's (Houston),2026-01-14,N/A,Francesca's (Houston)2026-01-14
-VA,AeroFarms,2026-01-14,127,AeroFarms2026-01-14
-MD,Peraton,2026-01-14,N/A,Peraton2026-01-14
-MD,Home Depot Design Center,2026-01-14,N/A,Home Depot Design Center2026-01-14
+NY,Paramount  Skydance Corporation,2026-01-15,1,Paramount  Skydance Corporation2026-01-15
+NY,Paramount  Skydance Corporation,2026-01-15,28,Paramount  Skydance Corporation2026-01-15
+NY,Paramount  Skydance Corporation,2026-01-15,3,Paramount  Skydance Corporation2026-01-15
+NY,Paramount  Skydance Corporation,2026-01-15,5,Paramount  Skydance Corporation2026-01-15
+CA,UKG Inc.,2026-01-15,209,UKG Inc.2026-01-15
+NY,"enDevelopment Logistics, LLC.",2026-01-15,42,"enDevelopment Logistics, LLC.2026-01-15"
+CO,EPTAM West LLC dba Precision Metals,2026-01-15,134,EPTAM West LLC dba Precision Metals2026-01-15
+CO,Battelle,2026-01-15,1,Battelle2026-01-15
+OK,Macy's Distribution,2026-01-15,N/A,Macy's Distribution2026-01-15
+WA,Food Service Slicing LLC dba Crunch Pak,2026-01-15,N/A,Food Service Slicing LLC dba Crunch Pak2026-01-15
+MD,Weis Store #291,2026-01-15,N/A,Weis Store #2912026-01-15
 CA,RR Donnelley,2026-01-14,70,RR Donnelley2026-01-14
+VA,AeroFarms,2026-01-14,127,AeroFarms2026-01-14
+TX,Francesca's (Houston),2026-01-14,N/A,Francesca's (Houston)2026-01-14
+MD,Peraton,2026-01-14,N/A,Peraton2026-01-14
+CA,Amy's Drive-Thru,2026-01-14,55,Amy's Drive-Thru2026-01-14
+MD,Home Depot Design Center,2026-01-14,N/A,Home Depot Design Center2026-01-14
 CA,"Illumina, Inc Worldwide Headquarters",2026-01-14,1,"Illumina, Inc Worldwide Headquarters2026-01-14"
 CA,"Illumina, Inc. Worldwide Headquarters",2026-01-14,4,"Illumina, Inc. Worldwide Headquarters2026-01-14"
-CA,Amy's Drive-Thru,2026-01-14,55,Amy's Drive-Thru2026-01-14
-UT,Sumaria Systems Inc.,2026-01-13,59,Sumaria Systems Inc.2026-01-13
 TN,Linamar Shelbyville,2026-01-13,N/A,Linamar Shelbyville2026-01-13
+UT,Sumaria Systems Inc.,2026-01-13,59,Sumaria Systems Inc.2026-01-13
 RI,EaglePicher,2026-01-13,38,EaglePicher2026-01-13
 AL,Salon Centric  Inc,2026-01-13,79,Salon Centric  Inc2026-01-13
+ME,SMBC-Sumitomo Mitsui Banking Corporation,2026-01-13,1,SMBC-Sumitomo Mitsui Banking Corporation2026-01-13
 CA,Valero Refining Company,2026-01-13,237,Valero Refining Company2026-01-13
+IN,Margaret Mary Community Hospital (dba Margaret Mary Health),2026-01-13,55,Margaret Mary Community Hospital (dba Margaret Mary Health)2026-01-13
 NJ,Jefferson Health,2026-01-13,108,Jefferson Health2026-01-13
 ME,Pride Manufacturing -gathr Outdoors,2026-01-13,115,Pride Manufacturing -gathr Outdoors2026-01-13
-ME,SMBC-Sumitomo Mitsui Banking Corporation,2026-01-13,1,SMBC-Sumitomo Mitsui Banking Corporation2026-01-13
-IN,Margaret Mary Community Hospital (dba Margaret Mary Health),2026-01-13,55,Margaret Mary Community Hospital (dba Margaret Mary Health)2026-01-13
-HI,Kauai Coffee Company. LLC,2026-01-12,N/A,Kauai Coffee Company. LLC2026-01-12
 CA,Informatica LLC,2026-01-12,35,Informatica LLC2026-01-12
 CA,"Nestle USA, Inc. Mira Loma Distribution Center",2026-01-12,88,"Nestle USA, Inc. Mira Loma Distribution Center2026-01-12"
-NY,White Coffee Corporation,2026-01-11,97,White Coffee Corporation2026-01-11
+HI,Kauai Coffee Company. LLC,2026-01-12,N/A,Kauai Coffee Company. LLC2026-01-12
 CA,Hupp Draft Services,2026-01-11,75,Hupp Draft Services2026-01-11
-CA,Local Initiative Health Authority for Los Angeles County dba L.A. Care Health Plan,2026-01-09,225,Local Initiative Health Authority for Los Angeles County dba L.A. Care Health Plan2026-01-09
+NY,White Coffee Corporation,2026-01-11,97,White Coffee Corporation2026-01-11
+TX,"Congo, LLC (Updated March 2026)",2026-01-09,N/A,"Congo, LLC (Updated March 2026)2026-01-09"
 CA,Macy's,2026-01-09,77,Macy's2026-01-09
 CA,Cucina Enoteca Del Mar,2026-01-09,43,Cucina Enoteca Del Mar2026-01-09
-TX,"Congo, LLC (Updated March 2026)",2026-01-09,N/A,"Congo, LLC (Updated March 2026)2026-01-09"
-AZ,SMBC Group - JeniusBank,2026-01-08,N/A,SMBC Group - JeniusBank2026-01-08
+CA,Local Initiative Health Authority for Los Angeles County dba L.A. Care Health Plan,2026-01-09,225,Local Initiative Health Authority for Los Angeles County dba L.A. Care Health Plan2026-01-09
 FL,"SMBC MANUBANK 
-Fort Myers
-515 South Figueroa Street Los Angeles, CA 90071
-FORT MYERS, FL, 33901",2026-01-08,1,"SMBC MANUBANK 
-Fort Myers
-515 South Figueroa Street Los Angeles, CA 90071
-FORT MYERS, FL, 339012026-01-08"
+Orlando
+515 South Figueroa Street Los Angeles, CA 9007
+ORLANDO, FL, 32789",2026-01-08,1,"SMBC MANUBANK 
+Orlando
+515 South Figueroa Street Los Angeles, CA 9007
+ORLANDO, FL, 327892026-01-08"
 WA,SMBC Manubank,2026-01-08,N/A,SMBC Manubank2026-01-08
 OR,Oregon - Remote Employees,2026-01-08,N/A,Oregon - Remote Employees2026-01-08
-HI,DFS Group L.P.,2026-01-08,N/A,DFS Group L.P.2026-01-08
 CA,Sealed Air Corporation,2026-01-08,51,Sealed Air Corporation2026-01-08
 FL,"SMBC MANUBANK 
 Ponte Vedra
@@ -307,7 +312,13 @@ LAND O LAKES, FL, 33599",2026-01-08,1,"SMBC MANUBANK
 Land O Lakes
 515 South Figueroa Street Los Angeles, CA 90071
 LAND O LAKES, FL, 335992026-01-08"
-UT,SMBC Manubank,2026-01-08,1,SMBC Manubank2026-01-08
+FL,"SMBC MANUBANK 
+Fort Myers
+515 South Figueroa Street Los Angeles, CA 90071
+FORT MYERS, FL, 33901",2026-01-08,1,"SMBC MANUBANK 
+Fort Myers
+515 South Figueroa Street Los Angeles, CA 90071
+FORT MYERS, FL, 339012026-01-08"
 FL,"SMBC MANUBANK 
 Marco Island
 515 South Figueroa Street Los Angeles, CA 90071
@@ -315,13 +326,7 @@ MARCO ISLAND, FL, 34145",2026-01-08,1,"SMBC MANUBANK
 Marco Island
 515 South Figueroa Street Los Angeles, CA 90071
 MARCO ISLAND, FL, 341452026-01-08"
-FL,"SMBC MANUBANK 
-Bonita Springs
-515 South Figueroa Street Los Angeles, CA 90071
-BONITA SPRINGS, FL, 33931",2026-01-08,1,"SMBC MANUBANK 
-Bonita Springs
-515 South Figueroa Street Los Angeles, CA 90071
-BONITA SPRINGS, FL, 339312026-01-08"
+UT,SMBC Manubank,2026-01-08,1,SMBC Manubank2026-01-08
 FL,"SMBC MANUBANK 
 Valrico
 515 South Figueroa Street Los Angeles, CA 90071
@@ -350,52 +355,41 @@ MIAMI, FL, 33101",2026-01-08,1,"SMBC MANUBANK
 Miami
 515 South Figueroa Street Los Angeles, CA 90071
 MIAMI, FL, 331012026-01-08"
-VA,SMBC Manubank,2026-01-08,6,SMBC Manubank2026-01-08
 FL,"SMBC MANUBANK 
-Orlando
-515 South Figueroa Street Los Angeles, CA 9007
-ORLANDO, FL, 32789",2026-01-08,1,"SMBC MANUBANK 
-Orlando
-515 South Figueroa Street Los Angeles, CA 9007
-ORLANDO, FL, 327892026-01-08"
-AZ,GNC Distribution Center,2026-01-07,66,GNC Distribution Center2026-01-07
+Bonita Springs
+515 South Figueroa Street Los Angeles, CA 90071
+BONITA SPRINGS, FL, 33931",2026-01-08,1,"SMBC MANUBANK 
+Bonita Springs
+515 South Figueroa Street Los Angeles, CA 90071
+BONITA SPRINGS, FL, 339312026-01-08"
+VA,SMBC Manubank,2026-01-08,6,SMBC Manubank2026-01-08
+HI,DFS Group L.P.,2026-01-08,N/A,DFS Group L.P.2026-01-08
+AZ,SMBC Group - JeniusBank,2026-01-08,33,SMBC Group - JeniusBank2026-01-08
 CA,Pomona Hospital Medical Center (1798),2026-01-07,108,Pomona Hospital Medical Center (1798)2026-01-07
 CA,Pomona Hospital Medical Center (1601),2026-01-07,1,Pomona Hospital Medical Center (1601)2026-01-07
 CA,Pomona Hospital Medical Center (300),2026-01-07,4,Pomona Hospital Medical Center (300)2026-01-07
 AZ,Avelo Airlines,2026-01-07,97,Avelo Airlines2026-01-07
-TX,Tessera Therapeutics,2026-01-07,N/A,Tessera Therapeutics2026-01-07
 TX,ComericA Frisco Star Tower Facility,2026-01-07,N/A,ComericA Frisco Star Tower Facility2026-01-07
+TX,Tessera Therapeutics,2026-01-07,N/A,Tessera Therapeutics2026-01-07
+AZ,GNC Distribution Center,2026-01-07,66,GNC Distribution Center2026-01-07
+CA,Alameda Health System - Fairmont Rehabilitation and Wellness,2026-01-06,44,Alameda Health System - Fairmont Rehabilitation and Wellness2026-01-06
 CA,Alameda Health System - System Support Center,2026-01-06,18,Alameda Health System - System Support Center2026-01-06
+CA,Alameda Health System - Park Bridge,2026-01-06,3,Alameda Health System - Park Bridge2026-01-06
 CA,Alameda Health System - Alameda Hospital,2026-01-06,9,Alameda Health System - Alameda Hospital2026-01-06
 CA,Alameda Health System - John George Hospital,2026-01-06,16,Alameda Health System - John George Hospital2026-01-06
-CA,"FormFactor, Inc.",2026-01-06,113,"FormFactor, Inc.2026-01-06"
 CA,Alameda Health System - San Leandro Hospital,2026-01-06,22,Alameda Health System - San Leandro Hospital2026-01-06
-CA,Alameda Health System - Wilma Chan Highland Hospital,2026-01-06,128,Alameda Health System - Wilma Chan Highland Hospital2026-01-06
 CA,"FormFactor, Inc.",2026-01-06,107,"FormFactor, Inc.2026-01-06"
-WA,Tessera,2026-01-06,N/A,Tessera2026-01-06
-CA,Alameda Health System - Fairmont Rehabilitation and Wellness,2026-01-06,44,Alameda Health System - Fairmont Rehabilitation and Wellness2026-01-06
+CA,"FormFactor, Inc.",2026-01-06,113,"FormFactor, Inc.2026-01-06"
+CA,Alameda Health System - Wilma Chan Highland Hospital,2026-01-06,128,Alameda Health System - Wilma Chan Highland Hospital2026-01-06
 WA,Swedish Health Services,2026-01-06,N/A,Swedish Health Services2026-01-06
-CA,Alameda Health System - Park Bridge,2026-01-06,3,Alameda Health System - Park Bridge2026-01-06
+WA,Tessera,2026-01-06,N/A,Tessera2026-01-06
 CO,Tessera Therapeutics,2026-01-06,1,Tessera Therapeutics2026-01-06
 CO,Alan Ritchey,2026-01-06,729,Alan Ritchey2026-01-06
-CA,Wabash National LP,2026-01-05,6,Wabash National LP2026-01-05
+NY,"SDH Education West, LLC d/b/a Sodexo - Univ at Albany Campus",2026-01-05,179,"SDH Education West, LLC d/b/a Sodexo - Univ at Albany Campus2026-01-05"
 IN,Wabash,2026-01-05,144,Wabash2026-01-05
-CA,"Advanced Uniform Dust Control & Linen, LLC",2026-01-05,4,"Advanced Uniform Dust Control & Linen, LLC2026-01-05"
-FL,"Chemours 
-Trail Ridge South Mine 5222 Treat Road,
-
-STARKE, FL, 32063",2026-01-05,44,"Chemours 
-Trail Ridge South Mine 5222 Treat Road,
-
-STARKE, FL, 320632026-01-05"
-FL,"Chemours 
-Starke Site 5222 Treat Road
-
-STARKE, FL, 32091",2026-01-05,12,"Chemours 
-Starke Site 5222 Treat Road
-
-STARKE, FL, 320912026-01-05"
-CA,"Advanced Uniform Dust Control & Linen, LLC",2026-01-05,89,"Advanced Uniform Dust Control & Linen, LLC2026-01-05"
+CA,Wabash National LP,2026-01-05,94,Wabash National LP2026-01-05
+CA,"Copan Diagnostics, Inc.",2026-01-05,79,"Copan Diagnostics, Inc.2026-01-05"
+CA,McGee Air Services,2026-01-05,32,McGee Air Services2026-01-05
 FL,"Chemours 
 7775 South CR 228
 
@@ -403,12 +397,25 @@ MACCLENNY, FL, 32063",2026-01-05,19,"Chemours
 7775 South CR 228
 
 MACCLENNY, FL, 320632026-01-05"
-CA,McGee Air Services,2026-01-05,32,McGee Air Services2026-01-05
-NY,"SDH Education West, LLC d/b/a Sodexo - Univ at Albany Campus",2026-01-05,179,"SDH Education West, LLC d/b/a Sodexo - Univ at Albany Campus2026-01-05"
-CA,"Copan Diagnostics, Inc.",2026-01-05,79,"Copan Diagnostics, Inc.2026-01-05"
-CA,Wabash National LP,2026-01-05,94,Wabash National LP2026-01-05
+CA,"Advanced Uniform Dust Control & Linen, LLC",2026-01-05,89,"Advanced Uniform Dust Control & Linen, LLC2026-01-05"
+FL,"Chemours 
+Starke Site 5222 Treat Road
+
+STARKE, FL, 32091",2026-01-05,12,"Chemours 
+Starke Site 5222 Treat Road
+
+STARKE, FL, 320912026-01-05"
+FL,"Chemours 
+Trail Ridge South Mine 5222 Treat Road,
+
+STARKE, FL, 32063",2026-01-05,44,"Chemours 
+Trail Ridge South Mine 5222 Treat Road,
+
+STARKE, FL, 320632026-01-05"
+CA,"Advanced Uniform Dust Control & Linen, LLC",2026-01-05,4,"Advanced Uniform Dust Control & Linen, LLC2026-01-05"
+CA,Wabash National LP,2026-01-05,6,Wabash National LP2026-01-05
 CO,TIAA,2026-01-02,101,TIAA2026-01-02
 MD,"BAE Systems, Inc.",2026-01-02,N/A,"BAE Systems, Inc.2026-01-02"
 PA,Pottstown Hospital,2026-01-01,131,Pottstown Hospital2026-01-01
-NJ,Harrison Sportservice Inc.,2026-01-01,467,Harrison Sportservice Inc.2026-01-01
 NY,Wabtec Corporation,2026-01-01,36,Wabtec Corporation2026-01-01
+NJ,Harrison Sportservice Inc.,2026-01-01,467,Harrison Sportservice Inc.2026-01-01
