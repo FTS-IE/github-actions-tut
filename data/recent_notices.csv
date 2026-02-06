@@ -18,36 +18,36 @@ NJ,GMRI Inc,2026-04-05,98,GMRI Inc2026-04-05
 PA,"The GIANT Company, LLC.",2026-04-03,105,"The GIANT Company, LLC.2026-04-03"
 CT,PerkinElmer U.S. LLC,2026-04-01,N/A,PerkinElmer U.S. LLC2026-04-01
 MO,Unknown,2026-04-01,48,Unknown2026-04-01
+NJ,Pioneer Credit Recovery,2026-03-31,180,Pioneer Credit Recovery2026-03-31
 NJ,International Real Estate Partners US Corp,2026-03-31,61,International Real Estate Partners US Corp2026-03-31
 NY,Waste Harmonics Keter,2026-03-31,42,Waste Harmonics Keter2026-03-31
-NJ,Pioneer Credit Recovery,2026-03-31,180,Pioneer Credit Recovery2026-03-31
 PA,Miller's Ale House,2026-03-30,49,Miller's Ale House2026-03-30
 MO,Unknown,2026-03-24,94,Unknown2026-03-24
-NY,"Clean Textile Systems, LP. D/B/A Clean Care",2026-03-20,69,"Clean Textile Systems, LP. D/B/A Clean Care2026-03-20"
 MO,Unknown,2026-03-20,104,Unknown2026-03-20
+NY,"Clean Textile Systems, LP. D/B/A Clean Care",2026-03-20,69,"Clean Textile Systems, LP. D/B/A Clean Care2026-03-20"
 SC,James Hardie Building Products Inc.,2026-03-16,78,James Hardie Building Products Inc.2026-03-16
 PA,French Creek Recovery Center,2026-03-15,59,French Creek Recovery Center2026-03-15
 PA,"ALPEK Polyester USA, LLC",2026-03-15,100,"ALPEK Polyester USA, LLC2026-03-15"
 CT,Macys Store Delivery Center (SDS) and Customer Returns Center (CRD) Operations,2026-03-14,N/A,Macys Store Delivery Center (SDS) and Customer Returns Center (CRD) Operations2026-03-14
-SC,SMBC MANUBANK (JeniusBank),2026-03-10,3,SMBC MANUBANK (JeniusBank)2026-03-10
 CT,JeniusBank,2026-03-10,N/A,JeniusBank2026-03-10
+SC,SMBC MANUBANK (JeniusBank),2026-03-10,3,SMBC MANUBANK (JeniusBank)2026-03-10
 PA,"PrimeFlight Aviation Services, Inc.",2026-03-09,68,"PrimeFlight Aviation Services, Inc.2026-03-09"
 SC,Saddle Creek Logistics Services,2026-03-05,130,Saddle Creek Logistics Services2026-03-05
 NJ,CMC Energy Services,2026-03-02,89,CMC Energy Services2026-03-02
-SC,DLH Solutions,2026-02-28,194,DLH Solutions2026-02-28
-PA,DHL Supply Chain,2026-02-28,66,DHL Supply Chain2026-02-28
-SC,"eREV Supply Chain, LLC",2026-02-28,133,"eREV Supply Chain, LLC2026-02-28"
-SC,"WeDriveU, Inc.",2026-02-28,194,"WeDriveU, Inc.2026-02-28"
 NY,"Terphane, LLC.",2026-02-28,49,"Terphane, LLC.2026-02-28"
-NY,The French Connection,2026-02-28,24,The French Connection2026-02-28
-NY,Area Storage & Transfer Inc.,2026-02-28,183,Area Storage & Transfer Inc.2026-02-28
-NY,The French Connection,2026-02-28,1,The French Connection2026-02-28
 MO,Unknown,2026-02-28,3,Unknown2026-02-28
+SC,"eREV Supply Chain, LLC",2026-02-28,133,"eREV Supply Chain, LLC2026-02-28"
+NY,The French Connection,2026-02-28,1,The French Connection2026-02-28
+NY,The French Connection,2026-02-28,24,The French Connection2026-02-28
+SC,DLH Solutions,2026-02-28,194,DLH Solutions2026-02-28
+NY,Area Storage & Transfer Inc.,2026-02-28,183,Area Storage & Transfer Inc.2026-02-28
+PA,DHL Supply Chain,2026-02-28,66,DHL Supply Chain2026-02-28
+SC,"WeDriveU, Inc.",2026-02-28,194,"WeDriveU, Inc.2026-02-28"
 NY,"AngioDynamics, Inc.",2026-02-27,2,"AngioDynamics, Inc.2026-02-27"
 NY,"AngioDynamics, Inc.",2026-02-27,51,"AngioDynamics, Inc.2026-02-27"
 PA,"GIANT Company, LLC",2026-02-27,76,"GIANT Company, LLC2026-02-27"
-SC,Railcrew Xpress,2026-02-27,58,Railcrew Xpress2026-02-27
 NY,"AngioDynamics, Inc.",2026-02-27,1,"AngioDynamics, Inc.2026-02-27"
+SC,Railcrew Xpress,2026-02-27,58,Railcrew Xpress2026-02-27
 UT,Nordstrom Card Services,2026-02-21,15,Nordstrom Card Services2026-02-21
 NJ,Verizon,2026-02-20,1319,Verizon2026-02-20
 NJ,Wonder Group,2026-02-19,121,Wonder Group2026-02-19
@@ -64,7 +64,16 @@ BAL HARBOUR, FL, 33154",2026-02-06,108,"Ritz-Carlton, Bal Harbour
 
 BAL HARBOUR, FL, 331542026-02-06"
 PA,"Taste, Inc.",2026-02-05,10,"Taste, Inc.2026-02-05"
+FL,"Liberty Dental Plan Corporation 
+3109 W. Dr. Martin Luther King Jr. Blvd
+Suite 100
+TAMPA, FL, 33607",2026-02-05,95,"Liberty Dental Plan Corporation 
+3109 W. Dr. Martin Luther King Jr. Blvd
+Suite 100
+TAMPA, FL, 336072026-02-05"
+AZ,Liberty Dental Plan,2026-02-05,N/A,Liberty Dental Plan2026-02-05
 MD,"NFI Interactive Technologies, LLC (NFI)",2026-02-04,N/A,"NFI Interactive Technologies, LLC (NFI)2026-02-04"
+TX,HGS Solutions,2026-02-04,N/A,HGS Solutions2026-02-04
 FL,"HGS USA 
 651 W. Washington Boulevard Suite #206 Chicago, IL 60661
 
@@ -72,7 +81,6 @@ ORLANDO, FL, 32789",2026-02-04,1,"HGS USA
 651 W. Washington Boulevard Suite #206 Chicago, IL 60661
 
 ORLANDO, FL, 327892026-02-04"
-TX,HGS Solutions,2026-02-04,N/A,HGS Solutions2026-02-04
 MD,"HGS CX Technologies, Inc. f/k/a HGS USA",2026-02-04,N/A,"HGS CX Technologies, Inc. f/k/a HGS USA2026-02-04"
 OR,Riddle Plywood facility ,2026-02-04,N/A,Riddle Plywood facility 2026-02-04
 FL,"Innodata Services, LLC 
@@ -120,10 +128,10 @@ POMPANO BEACH, FL, 330692026-02-03"
 FL,"Innodata Services, LLC 
 1615 South Congress Avenue, Suite 103, Delray Beach Florida
 
-KISSIMMEE, FL, 34742",2026-02-03,3,"Innodata Services, LLC 
+TAMPA, FL, 33601",2026-02-03,2,"Innodata Services, LLC 
 1615 South Congress Avenue, Suite 103, Delray Beach Florida
 
-KISSIMMEE, FL, 347422026-02-03"
+TAMPA, FL, 336012026-02-03"
 FL,"Innodata Services, LLC 
 1615 South Congress Avenue, Suite 103, Delray Beach Florida
 
@@ -145,7 +153,6 @@ PENSACOLA, FL, 32501",2026-02-03,1,"Innodata Services, LLC
 1615 South Congress Avenue, Suite 103, Delray Beach Florida
 
 PENSACOLA, FL, 325012026-02-03"
-CA,"Constellation Brands, Inc.",2026-02-03,212,"Constellation Brands, Inc.2026-02-03"
 FL,"Innodata Services, LLC 
 1615 South Congress Avenue, Suite 103, Delray Beach Florida
 
@@ -153,6 +160,7 @@ SAINT CLOUD, FL, 34744",2026-02-03,2,"Innodata Services, LLC
 1615 South Congress Avenue, Suite 103, Delray Beach Florida
 
 SAINT CLOUD, FL, 347442026-02-03"
+CA,"Constellation Brands, Inc.",2026-02-03,212,"Constellation Brands, Inc.2026-02-03"
 FL,"Innodata Services, LLC 
 1615 South Congress Avenue, Suite 103, Delray Beach Florida
 
@@ -199,10 +207,10 @@ SAINT PETERSBURG, FL, 337012026-02-03"
 FL,"Innodata Services, LLC 
 1615 South Congress Avenue, Suite 103, Delray Beach Florida
 
-TAMPA, FL, 33601",2026-02-03,2,"Innodata Services, LLC 
+KISSIMMEE, FL, 34742",2026-02-03,3,"Innodata Services, LLC 
 1615 South Congress Avenue, Suite 103, Delray Beach Florida
 
-TAMPA, FL, 336012026-02-03"
+KISSIMMEE, FL, 347422026-02-03"
 FL,"Innodata Services, LLC 
 1615 South Congress Avenue, Suite 103, Delray Beach Florida
 
@@ -242,6 +250,20 @@ KISSIMMEE, FL, 34741",2026-02-03,75,"Bahama Breeze
 1251 W Osceola Parkway
 
 KISSIMMEE, FL, 347412026-02-03"
+FL,"Innodata Services, LLC 
+1615 South Congress Avenue, Suite 103, Delray Beach Florida
+
+OVIEDO, FL, 32762",2026-02-03,1,"Innodata Services, LLC 
+1615 South Congress Avenue, Suite 103, Delray Beach Florida
+
+OVIEDO, FL, 327622026-02-03"
+FL,"Bahama Breeze 
+11000 Pines Blvd
+
+PEMBROKE PINES, FL, 33028",2026-02-03,75,"Bahama Breeze 
+11000 Pines Blvd
+
+PEMBROKE PINES, FL, 330282026-02-03"
 FL,"Bahama Breeze 
 12395 SW 88th Street
 
@@ -252,66 +274,52 @@ MIAMI, FL, 331862026-02-03"
 FL,"Innodata Services, LLC 
 1615 South Congress Avenue, Suite 103, Delray Beach Florida
 
-OVIEDO, FL, 32762",2026-02-03,1,"Innodata Services, LLC 
-1615 South Congress Avenue, Suite 103, Delray Beach Florida
-
-OVIEDO, FL, 327622026-02-03"
-FL,"Innodata Services, LLC 
-1615 South Congress Avenue, Suite 103, Delray Beach Florida
-
 LUTZ, FL, 33647",2026-02-03,1,"Innodata Services, LLC 
 1615 South Congress Avenue, Suite 103, Delray Beach Florida
 
 LUTZ, FL, 336472026-02-03"
-FL,"Bahama Breeze 
-11000 Pines Blvd
-
-PEMBROKE PINES, FL, 33028",2026-02-03,75,"Bahama Breeze 
-11000 Pines Blvd
-
-PEMBROKE PINES, FL, 330282026-02-03"
 CA,Phillips 66,2026-02-02,40,Phillips 662026-02-02
-CA,"Meta Platforms, Inc. - 180 Jefferson",2026-02-02,2,"Meta Platforms, Inc. - 180 Jefferson2026-02-02"
-WA,T-Mobile,2026-02-02,N/A,T-Mobile2026-02-02
-CA,"Meta Platforms, Inc.",2026-02-02,52,"Meta Platforms, Inc.2026-02-02"
-CA,"Meta Platforms, Inc. - 220 Jefferson",2026-02-02,2,"Meta Platforms, Inc. - 220 Jefferson2026-02-02"
-NJ,Optum Select Management,2026-02-02,11,Optum Select Management2026-02-02
-CA,"Meta Platforms, Inc. - 190 Jefferson",2026-02-02,1,"Meta Platforms, Inc. - 190 Jefferson2026-02-02"
-CA,"Meta Platforms, Inc. - 1 Hacker",2026-02-02,6,"Meta Platforms, Inc. - 1 Hacker2026-02-02"
 CA,Phillips 66,2026-02-02,82,Phillips 662026-02-02
+CA,Regal Rexnord,2026-02-02,3,Regal Rexnord2026-02-02
 CA,"Meta Platforms, Inc. - 305 Constitution",2026-02-02,39,"Meta Platforms, Inc. - 305 Constitution2026-02-02"
+CA,"Meta Platforms, Inc. - 1 Hacker",2026-02-02,6,"Meta Platforms, Inc. - 1 Hacker2026-02-02"
+CA,"Meta Platforms, Inc. - 180 Jefferson",2026-02-02,2,"Meta Platforms, Inc. - 180 Jefferson2026-02-02"
+CA,"Meta Platforms, Inc. - 190 Jefferson",2026-02-02,1,"Meta Platforms, Inc. - 190 Jefferson2026-02-02"
+CA,"Meta Platforms, Inc. - 220 Jefferson",2026-02-02,2,"Meta Platforms, Inc. - 220 Jefferson2026-02-02"
+CA,"Meta Platforms, Inc.",2026-02-02,52,"Meta Platforms, Inc.2026-02-02"
+WA,T-Mobile,2026-02-02,N/A,T-Mobile2026-02-02
 PA,"Great Dane, LLC",2026-02-02,164,"Great Dane, LLC2026-02-02"
 CA,"American Eagle Outfitters, Inc.",2026-02-02,108,"American Eagle Outfitters, Inc.2026-02-02"
-CA,Regal Rexnord,2026-02-02,3,Regal Rexnord2026-02-02
+NJ,Optum Select Management,2026-02-02,11,Optum Select Management2026-02-02
 IN,"Grouper Acquisition Company, LLC, dba Shiloh Industries, Inc",2026-02-02,172,"Grouper Acquisition Company, LLC, dba Shiloh Industries, Inc2026-02-02"
 MD,"Charles River Laboratories, Inc.",2026-02-02,N/A,"Charles River Laboratories, Inc.2026-02-02"
-PA,"AVI Foodsystems, Inc.",2026-02-01,297,"AVI Foodsystems, Inc.2026-02-01"
 PA,Crothall and Morrison Healthcare,2026-02-01,795,Crothall and Morrison Healthcare2026-02-01
-SC,Sodexo (HCA Grand Strand Medical),2026-01-31,85,Sodexo (HCA Grand Strand Medical)2026-01-31
-MO,Unknown,2026-01-31,151,Unknown2026-01-31
+PA,"AVI Foodsystems, Inc.",2026-02-01,297,"AVI Foodsystems, Inc.2026-02-01"
+NY,"American Sugar Refining, Inc.",2026-01-31,231,"American Sugar Refining, Inc.2026-01-31"
+CA,Legacy Supply Chain,2026-01-31,14,Legacy Supply Chain2026-01-31
 CA,Legacy Supply Chain,2026-01-31,11,Legacy Supply Chain2026-01-31
 CA,Legacy Supply Chain,2026-01-31,4,Legacy Supply Chain2026-01-31
 CA,Legacy Supply Chain,2026-01-31,92,Legacy Supply Chain2026-01-31
 CA,Legacy Supply Chain,2026-01-31,8,Legacy Supply Chain2026-01-31
 CA,"Intrepid Studios, Inc.",2026-01-31,123,"Intrepid Studios, Inc.2026-01-31"
-CA,Legacy Supply Chain,2026-01-31,14,Legacy Supply Chain2026-01-31
-NY,"American Sugar Refining, Inc.",2026-01-31,231,"American Sugar Refining, Inc.2026-01-31"
 NY,"DSV Air & Sea, Inc.",2026-01-31,31,"DSV Air & Sea, Inc.2026-01-31"
+MO,Unknown,2026-01-31,151,Unknown2026-01-31
+SC,Sodexo (HCA Grand Strand Medical),2026-01-31,85,Sodexo (HCA Grand Strand Medical)2026-01-31
 NY,"NIKE Retail Services, Inc.",2026-01-31,87,"NIKE Retail Services, Inc.2026-01-31"
-MO,Unknown,2026-01-30,93,Unknown2026-01-30
-MD,"MUFG Investor Services (US), LLC (MUIS)",2026-01-30,N/A,"MUFG Investor Services (US), LLC (MUIS)2026-01-30"
-KS,"Vornado Air, LLC.",2026-01-30,72,"Vornado Air, LLC.2026-01-30"
-SC,"SC Industrial Holdings, LLC",2026-01-30,78,"SC Industrial Holdings, LLC2026-01-30"
-MO,Unknown,2026-01-30,213,Unknown2026-01-30
 CA,Medical Device Components LLC dba Lighteum Medical,2026-01-30,83,Medical Device Components LLC dba Lighteum Medical2026-01-30
 IN,National Distribution Centers,2026-01-30,53,National Distribution Centers2026-01-30
+MD,"MUFG Investor Services (US), LLC (MUIS)",2026-01-30,N/A,"MUFG Investor Services (US), LLC (MUIS)2026-01-30"
+CA,City National Bank,2026-01-30,9,City National Bank2026-01-30
+MO,Unknown,2026-01-30,93,Unknown2026-01-30
 TN,Danfoss Power Solutions,2026-01-30,N/A,Danfoss Power Solutions2026-01-30
 TN,DLH Solutions,2026-01-30,N/A,DLH Solutions2026-01-30
+MO,Unknown,2026-01-30,213,Unknown2026-01-30
+SC,"SC Industrial Holdings, LLC",2026-01-30,78,"SC Industrial Holdings, LLC2026-01-30"
 OK,Bright Horizons,2026-01-30,N/A,Bright Horizons2026-01-30
-CA,City National Bank,2026-01-30,9,City National Bank2026-01-30
+KS,"Vornado Air, LLC.",2026-01-30,72,"Vornado Air, LLC.2026-01-30"
 SC,Santee Print Works,2026-01-30,140,Santee Print Works2026-01-30
 CA,"MINACT, Inc.",2026-01-30,118,"MINACT, Inc.2026-01-30"
-AZ,"Automated Harvesting, LLC.",2026-01-30,46,"Automated Harvesting, LLC.2026-01-30"
+AZ,"Automated Harvesting, LLC.",2026-01-30,N/A,"Automated Harvesting, LLC.2026-01-30"
 WA,International Paper Company,2026-01-30,N/A,International Paper Company2026-01-30
 WA,Amazon,2026-01-30,N/A,Amazon2026-01-30
 VT,Maple Ridge Memory Care and Lodge,2026-01-30,126,Maple Ridge Memory Care and Lodge2026-01-30
@@ -326,8 +334,8 @@ OR,Bend Location,2026-01-29,N/A,Bend Location2026-01-29
 OR,"Three Pirates, LLC dba Point Blank Dist",2026-01-29,N/A,"Three Pirates, LLC dba Point Blank Dist2026-01-29"
 OR,"Lincare-Brookings, OR",2026-01-29,N/A,"Lincare-Brookings, OR2026-01-29"
 OR,Kroger-00660,2026-01-29,N/A,Kroger-006602026-01-29
-OR,Kroger-00063,2026-01-29,N/A,Kroger-000632026-01-29
 OR,Kroger-00516,2026-01-29,N/A,Kroger-005162026-01-29
+OR,Kroger-00063,2026-01-29,N/A,Kroger-000632026-01-29
 TX,Compass Connections,2026-01-29,N/A,Compass Connections2026-01-29
 OR,Kroger-00417,2026-01-29,N/A,Kroger-004172026-01-29
 OR,Kroger-00090,2026-01-29,N/A,Kroger-000902026-01-29
@@ -350,11 +358,11 @@ CA,Amazon (SJC38),2026-01-29,141,Amazon (SJC38)2026-01-29
 CA,Amazon (SJC44),2026-01-29,49,Amazon (SJC44)2026-01-29
 CA,Amazon,2026-01-29,72,Amazon2026-01-29
 CA,Amazon,2026-01-29,32,Amazon2026-01-29
-AZ,Shell Recharge Solutions,2026-01-29,2,Shell Recharge Solutions2026-01-29
 CA,Amazon,2026-01-29,3,Amazon2026-01-29
+AZ,Shell Recharge Solutions,2026-01-29,2,Shell Recharge Solutions2026-01-29
 CA,Amazon,2026-01-29,11,Amazon2026-01-29
-CA,Amazon - SFO 13,2026-01-29,19,Amazon - SFO 132026-01-29
 CA,Amazon,2026-01-29,58,Amazon2026-01-29
+CA,Amazon - SFO 13,2026-01-29,19,Amazon - SFO 132026-01-29
 CA,Amazon (LAX78),2026-01-29,45,Amazon (LAX78)2026-01-29
 CA,Amazon,2026-01-29,87,Amazon2026-01-29
 CA,Amazon,2026-01-29,81,Amazon2026-01-29
@@ -413,8 +421,8 @@ CA,Amazon - MAC2,2026-01-28,175,Amazon - MAC22026-01-28
 CA,Amazon - MBA6,2026-01-28,181,Amazon - MBA62026-01-28
 NY,Personio Corp.,2026-01-27,47,Personio Corp.2026-01-27
 CA,"Catholic Charities, Diocese of San Diego - MG Suite A",2026-01-27,7,"Catholic Charities, Diocese of San Diego - MG Suite A2026-01-27"
-CA,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP",2026-01-27,45,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP2026-01-27"
 CA,"Schultz Industrial Services, Inc.",2026-01-27,66,"Schultz Industrial Services, Inc.2026-01-27"
+CA,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP",2026-01-27,45,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP2026-01-27"
 VA,Bear Express LLC,2026-01-27,168,Bear Express LLC2026-01-27
 CA,JBT Marel Corporation,2026-01-27,59,JBT Marel Corporation2026-01-27
 TN,"NIKE Retail Services, Inc.",2026-01-27,N/A,"NIKE Retail Services, Inc.2026-01-27"
@@ -579,12 +587,12 @@ VA,SMBC Manubank,2026-01-08,6,SMBC Manubank2026-01-08
 UT,SMBC Manubank,2026-01-08,1,SMBC Manubank2026-01-08
 WA,SMBC Manubank,2026-01-08,N/A,SMBC Manubank2026-01-08
 FL,"SMBC MANUBANK 
-Fort Myers
+Land O Lakes
 515 South Figueroa Street Los Angeles, CA 90071
-FORT MYERS, FL, 33901",2026-01-08,1,"SMBC MANUBANK 
-Fort Myers
+LAND O LAKES, FL, 33599",2026-01-08,1,"SMBC MANUBANK 
+Land O Lakes
 515 South Figueroa Street Los Angeles, CA 90071
-FORT MYERS, FL, 339012026-01-08"
+LAND O LAKES, FL, 335992026-01-08"
 FL,"SMBC MANUBANK 
 Orlando
 515 South Figueroa Street Los Angeles, CA 9007
@@ -593,19 +601,12 @@ Orlando
 515 South Figueroa Street Los Angeles, CA 9007
 ORLANDO, FL, 327892026-01-08"
 FL,"SMBC MANUBANK 
-Jacksonville
+Fort Myers
 515 South Figueroa Street Los Angeles, CA 90071
-JACKSONVILLE, FL, 32099",2026-01-08,4,"SMBC MANUBANK 
-Jacksonville
+FORT MYERS, FL, 33901",2026-01-08,1,"SMBC MANUBANK 
+Fort Myers
 515 South Figueroa Street Los Angeles, CA 90071
-JACKSONVILLE, FL, 320992026-01-08"
-FL,"SMBC MANUBANK 
-Land O Lakes
-515 South Figueroa Street Los Angeles, CA 90071
-LAND O LAKES, FL, 33599",2026-01-08,1,"SMBC MANUBANK 
-Land O Lakes
-515 South Figueroa Street Los Angeles, CA 90071
-LAND O LAKES, FL, 335992026-01-08"
+FORT MYERS, FL, 339012026-01-08"
 FL,"SMBC MANUBANK 
 Valrico
 515 South Figueroa Street Los Angeles, CA 90071
@@ -642,6 +643,13 @@ Bonita Springs
 515 South Figueroa Street Los Angeles, CA 90071
 BONITA SPRINGS, FL, 339312026-01-08"
 FL,"SMBC MANUBANK 
+Jacksonville
+515 South Figueroa Street Los Angeles, CA 90071
+JACKSONVILLE, FL, 32099",2026-01-08,4,"SMBC MANUBANK 
+Jacksonville
+515 South Figueroa Street Los Angeles, CA 90071
+JACKSONVILLE, FL, 320992026-01-08"
+FL,"SMBC MANUBANK 
 Ponte Vedra
 515 South Figueroa Street Los Angeles, CA 90071
 PONTE VEDRA BEACH, FL, 32082",2026-01-08,1,"SMBC MANUBANK 
@@ -659,10 +667,10 @@ MARCO ISLAND, FL, 34145",2026-01-08,1,"SMBC MANUBANK
 Marco Island
 515 South Figueroa Street Los Angeles, CA 90071
 MARCO ISLAND, FL, 341452026-01-08"
-AZ,GNC Distribution Center,2026-01-07,66,GNC Distribution Center2026-01-07
 TX,ComericA Frisco Star Tower Facility,2026-01-07,N/A,ComericA Frisco Star Tower Facility2026-01-07
 TX,Tessera Therapeutics,2026-01-07,N/A,Tessera Therapeutics2026-01-07
 CA,Pomona Hospital Medical Center (1798),2026-01-07,108,Pomona Hospital Medical Center (1798)2026-01-07
+AZ,GNC Distribution Center,2026-01-07,66,GNC Distribution Center2026-01-07
 CA,Pomona Hospital Medical Center (1601),2026-01-07,1,Pomona Hospital Medical Center (1601)2026-01-07
 CA,Pomona Hospital Medical Center (300),2026-01-07,4,Pomona Hospital Medical Center (300)2026-01-07
 AZ,Avelo Airlines,2026-01-07,97,Avelo Airlines2026-01-07
