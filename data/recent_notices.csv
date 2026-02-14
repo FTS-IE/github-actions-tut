@@ -9,30 +9,31 @@ NJ,Saks & Company,2026-05-04,69,Saks & Company2026-05-04
 NY,"Institute of International Education, Inc.",2026-05-03,44,"Institute of International Education, Inc.2026-05-03"
 NJ,JP Morgan Chase,2026-05-03,120,JP Morgan Chase2026-05-03
 NJ,Walmart,2026-05-01,100,Walmart2026-05-01
-PA,Amazon Fresh,2026-04-28,983,Amazon Fresh2026-04-28
 NJ,Amazon,2026-04-28,N/A,Amazon2026-04-28
+PA,Amazon Fresh,2026-04-28,983,Amazon Fresh2026-04-28
 NJ,Blue Cross Blue Shield of NJ,2026-04-26,242,Blue Cross Blue Shield of NJ2026-04-26
 SC,Milliken (Cedar Hill Plant),2026-04-17,126,Milliken (Cedar Hill Plant)2026-04-17
+MO,Unknown,2026-04-14,25,Unknown2026-04-14
 NY,Catholic Guardian Services,2026-04-12,29,Catholic Guardian Services2026-04-12
-NY,Catholic Guardian Services,2026-04-12,21,Catholic Guardian Services2026-04-12
 NJ,The Fresh Market,2026-04-12,55,The Fresh Market2026-04-12
-NY,Catholic Guardian Services,2026-04-12,25,Catholic Guardian Services2026-04-12
+NY,Catholic Guardian Services,2026-04-12,21,Catholic Guardian Services2026-04-12
 NY,Catholic Guardian Services,2026-04-12,44,Catholic Guardian Services2026-04-12
+NY,Catholic Guardian Services,2026-04-12,25,Catholic Guardian Services2026-04-12
 NJ,ERMC,2026-04-11,205,ERMC2026-04-11
 PA,Saks Fifth Avenue,2026-04-11,50,Saks Fifth Avenue2026-04-11
-MO,Unknown,2026-04-10,143,Unknown2026-04-10
 NJ,SFC Global Supply Chain,2026-04-10,170,SFC Global Supply Chain2026-04-10
+MO,Unknown,2026-04-10,143,Unknown2026-04-10
 NY,Lincoln Hall,2026-04-06,123,Lincoln Hall2026-04-06
 PA,White Deer Run Allenwood,2026-04-05,31,White Deer Run Allenwood2026-04-05
 PA,"The GIANT Company, LLC.",2026-04-03,105,"The GIANT Company, LLC.2026-04-03"
 CT,PerkinElmer U.S. LLC,2026-04-01,N/A,PerkinElmer U.S. LLC2026-04-01
 MO,Unknown,2026-04-01,48,Unknown2026-04-01
-NY,Waste Harmonics Keter,2026-03-31,42,Waste Harmonics Keter2026-03-31
-NY,Abbott House,2026-03-31,109,Abbott House2026-03-31
-NY,Abbott House,2026-03-31,53,Abbott House2026-03-31
 NY,"Maximus, Inc.",2026-03-31,44,"Maximus, Inc.2026-03-31"
-NJ,International Real Estate Partners US Corp,2026-03-31,61,International Real Estate Partners US Corp2026-03-31
+NY,Waste Harmonics Keter,2026-03-31,42,Waste Harmonics Keter2026-03-31
 NJ,Pioneer Credit Recovery,2026-03-31,180,Pioneer Credit Recovery2026-03-31
+NY,Abbott House,2026-03-31,109,Abbott House2026-03-31
+NJ,International Real Estate Partners US Corp,2026-03-31,61,International Real Estate Partners US Corp2026-03-31
+NY,Abbott House,2026-03-31,53,Abbott House2026-03-31
 PA,Miller's Ale House,2026-03-30,49,Miller's Ale House2026-03-30
 MO,Unknown,2026-03-24,94,Unknown2026-03-24
 NY,"Clean Textile Systems, LP. D/B/A Clean Care",2026-03-20,69,"Clean Textile Systems, LP. D/B/A Clean Care2026-03-20"
@@ -46,15 +47,15 @@ SC,SMBC MANUBANK (JeniusBank),2026-03-10,3,SMBC MANUBANK (JeniusBank)2026-03-10
 PA,"PrimeFlight Aviation Services, Inc.",2026-03-09,68,"PrimeFlight Aviation Services, Inc.2026-03-09"
 SC,Saddle Creek Logistics Services,2026-03-05,130,Saddle Creek Logistics Services2026-03-05
 NJ,CMC Energy Services,2026-03-02,89,CMC Energy Services2026-03-02
-SC,"eREV Supply Chain, LLC",2026-02-28,133,"eREV Supply Chain, LLC2026-02-28"
-SC,"WeDriveU, Inc.",2026-02-28,194,"WeDriveU, Inc.2026-02-28"
 NY,The French Connection,2026-02-28,24,The French Connection2026-02-28
-SC,DLH Solutions,2026-02-28,194,DLH Solutions2026-02-28
-NY,The French Connection,2026-02-28,1,The French Connection2026-02-28
-NY,Area Storage & Transfer Inc.,2026-02-28,183,Area Storage & Transfer Inc.2026-02-28
-NY,"Terphane, LLC.",2026-02-28,49,"Terphane, LLC.2026-02-28"
 PA,DHL Supply Chain,2026-02-28,66,DHL Supply Chain2026-02-28
+NY,The French Connection,2026-02-28,1,The French Connection2026-02-28
+SC,"WeDriveU, Inc.",2026-02-28,194,"WeDriveU, Inc.2026-02-28"
+SC,"eREV Supply Chain, LLC",2026-02-28,133,"eREV Supply Chain, LLC2026-02-28"
+SC,DLH Solutions,2026-02-28,194,DLH Solutions2026-02-28
+NY,"Terphane, LLC.",2026-02-28,49,"Terphane, LLC.2026-02-28"
 MO,Unknown,2026-02-28,3,Unknown2026-02-28
+NY,Area Storage & Transfer Inc.,2026-02-28,183,Area Storage & Transfer Inc.2026-02-28
 NY,"AngioDynamics, Inc.",2026-02-27,2,"AngioDynamics, Inc.2026-02-27"
 NY,"AngioDynamics, Inc.",2026-02-27,48,"AngioDynamics, Inc.2026-02-27"
 SC,Railcrew Xpress,2026-02-27,58,Railcrew Xpress2026-02-27
@@ -95,7 +96,7 @@ LAKELAND, FL, 33811",2026-02-10,203,"DHL Supply Chain
 LAKELAND, FL, 338112026-02-10"
 CA,Clari Inc.,2026-02-10,76,Clari Inc.2026-02-10
 AL,Birmingham Parking Authority,2026-02-10,33,Birmingham Parking Authority2026-02-10
-AZ,Saks & Company LLC,2026-02-10,N/A,Saks & Company LLC2026-02-10
+AZ,Saks & Company LLC,2026-02-10,67,Saks & Company LLC2026-02-10
 VA,Saks Fifth Avenue,2026-02-10,40,Saks Fifth Avenue2026-02-10
 WA,Congdon Packing Company,2026-02-09,N/A,Congdon Packing Company2026-02-09
 WA,Eddie Bauer LLC,2026-02-09,N/A,Eddie Bauer LLC2026-02-09
@@ -194,10 +195,10 @@ PENSACOLA, FL, 325012026-02-03"
 FL,"Innodata Services, LLC 
 1615 South Congress Avenue, Suite 103, Delray Beach Florida
 
-VENICE, FL, 34284",2026-02-03,1,"Innodata Services, LLC 
+SUNNY ISLES BEACH, FL, 33160",2026-02-03,1,"Innodata Services, LLC 
 1615 South Congress Avenue, Suite 103, Delray Beach Florida
 
-VENICE, FL, 342842026-02-03"
+SUNNY ISLES BEACH, FL, 331602026-02-03"
 CA,HRL Laboratories,2026-02-03,4,HRL Laboratories2026-02-03
 CA,HRL Laboratories,2026-02-03,35,HRL Laboratories2026-02-03
 FL,"Innodata Services, LLC 
@@ -209,7 +210,7 @@ DORAL, FL, 33178",2026-02-03,1,"Innodata Services, LLC
 DORAL, FL, 331782026-02-03"
 CA,HRL Laboratories (Remote),2026-02-03,8,HRL Laboratories (Remote)2026-02-03
 CA,HRL Laboratories,2026-02-03,21,HRL Laboratories2026-02-03
-CA,HRL Laboratories,2026-02-03,50,HRL Laboratories2026-02-03
+CA,HRL Laboratories,2026-02-03,258,HRL Laboratories2026-02-03
 CA,"Small Precision Tools California, Inc.",2026-02-03,30,"Small Precision Tools California, Inc.2026-02-03"
 FL,"Innodata Services, LLC 
 1615 South Congress Avenue, Suite 103, Delray Beach Florida
@@ -323,10 +324,10 @@ CA,"Constellation Brands, Inc.",2026-02-03,212,"Constellation Brands, Inc.2026-0
 FL,"Innodata Services, LLC 
 1615 South Congress Avenue, Suite 103, Delray Beach Florida
 
-SUNNY ISLES BEACH, FL, 33160",2026-02-03,1,"Innodata Services, LLC 
+VENICE, FL, 34284",2026-02-03,1,"Innodata Services, LLC 
 1615 South Congress Avenue, Suite 103, Delray Beach Florida
 
-SUNNY ISLES BEACH, FL, 331602026-02-03"
+VENICE, FL, 342842026-02-03"
 FL,"Innodata Services, LLC 
 1615 South Congress Avenue, Suite 103, Delray Beach Florida
 
@@ -335,81 +336,81 @@ POMPANO BEACH, FL, 33069",2026-02-03,1,"Innodata Services, LLC
 
 POMPANO BEACH, FL, 330692026-02-03"
 CA,"First Brands Group, LLC",2026-02-03,98,"First Brands Group, LLC2026-02-03"
-CA,HRL Laboratories,2026-02-03,258,HRL Laboratories2026-02-03
+CA,HRL Laboratories,2026-02-03,50,HRL Laboratories2026-02-03
 CA,Phillips 66,2026-02-02,82,Phillips 662026-02-02
-CA,Regal Rexnord,2026-02-02,3,Regal Rexnord2026-02-02
+CA,Phillips 66,2026-02-02,40,Phillips 662026-02-02
 PA,"Great Dane, LLC",2026-02-02,164,"Great Dane, LLC2026-02-02"
-MD,"Charles River Laboratories, Inc.",2026-02-02,N/A,"Charles River Laboratories, Inc.2026-02-02"
 CA,"American Eagle Outfitters, Inc.",2026-02-02,108,"American Eagle Outfitters, Inc.2026-02-02"
+MD,"Charles River Laboratories, Inc.",2026-02-02,N/A,"Charles River Laboratories, Inc.2026-02-02"
 WA,T-Mobile,2026-02-02,N/A,T-Mobile2026-02-02
 NJ,Optum Select Management,2026-02-02,11,Optum Select Management2026-02-02
 IN,"Grouper Acquisition Company, LLC, dba Shiloh Industries, Inc",2026-02-02,172,"Grouper Acquisition Company, LLC, dba Shiloh Industries, Inc2026-02-02"
-CA,Phillips 66,2026-02-02,40,Phillips 662026-02-02
 CA,"Meta Platforms, Inc. - 305 Constitution",2026-02-02,39,"Meta Platforms, Inc. - 305 Constitution2026-02-02"
 CA,"Meta Platforms, Inc. - 1 Hacker",2026-02-02,6,"Meta Platforms, Inc. - 1 Hacker2026-02-02"
 CA,"Meta Platforms, Inc. - 180 Jefferson",2026-02-02,2,"Meta Platforms, Inc. - 180 Jefferson2026-02-02"
 CA,"Meta Platforms, Inc. - 190 Jefferson",2026-02-02,1,"Meta Platforms, Inc. - 190 Jefferson2026-02-02"
 CA,"Meta Platforms, Inc. - 220 Jefferson",2026-02-02,2,"Meta Platforms, Inc. - 220 Jefferson2026-02-02"
 CA,"Meta Platforms, Inc.",2026-02-02,52,"Meta Platforms, Inc.2026-02-02"
+CA,Regal Rexnord,2026-02-02,3,Regal Rexnord2026-02-02
 PA,Crothall and Morrison Healthcare,2026-02-01,795,Crothall and Morrison Healthcare2026-02-01
 PA,"AVI Foodsystems, Inc.",2026-02-01,297,"AVI Foodsystems, Inc.2026-02-01"
 SC,Sodexo (HCA Grand Strand Medical),2026-01-31,85,Sodexo (HCA Grand Strand Medical)2026-01-31
-NY,"American Sugar Refining, Inc.",2026-01-31,231,"American Sugar Refining, Inc.2026-01-31"
-MO,Unknown,2026-01-31,151,Unknown2026-01-31
-CA,Legacy Supply Chain,2026-01-31,4,Legacy Supply Chain2026-01-31
-CA,Legacy Supply Chain,2026-01-31,11,Legacy Supply Chain2026-01-31
-NY,"DSV Air & Sea, Inc.",2026-01-31,31,"DSV Air & Sea, Inc.2026-01-31"
-CA,Legacy Supply Chain,2026-01-31,14,Legacy Supply Chain2026-01-31
-CA,Legacy Supply Chain,2026-01-31,8,Legacy Supply Chain2026-01-31
 NY,"NIKE Retail Services, Inc.",2026-01-31,87,"NIKE Retail Services, Inc.2026-01-31"
+MO,Unknown,2026-01-31,151,Unknown2026-01-31
+CA,Legacy Supply Chain,2026-01-31,11,Legacy Supply Chain2026-01-31
+CA,Legacy Supply Chain,2026-01-31,14,Legacy Supply Chain2026-01-31
+NY,"DSV Air & Sea, Inc.",2026-01-31,31,"DSV Air & Sea, Inc.2026-01-31"
+NY,"American Sugar Refining, Inc.",2026-01-31,231,"American Sugar Refining, Inc.2026-01-31"
 CA,"Intrepid Studios, Inc.",2026-01-31,123,"Intrepid Studios, Inc.2026-01-31"
-CA,Legacy Supply Chain,2026-01-31,92,Legacy Supply Chain2026-01-31
+CA,Legacy Supply Chain,2026-01-31,4,Legacy Supply Chain2026-01-31
+CA,Legacy Supply Chain,2026-01-31,8,Legacy Supply Chain2026-01-31
 NY,"Spirit Airlines, LLC.",2026-01-31,304,"Spirit Airlines, LLC.2026-01-31"
+CA,Legacy Supply Chain,2026-01-31,92,Legacy Supply Chain2026-01-31
 KS,"Vornado Air, LLC.",2026-01-30,72,"Vornado Air, LLC.2026-01-30"
+CA,"Mercury Systems, Inc.",2026-01-30,18,"Mercury Systems, Inc.2026-01-30"
 MD,"MUFG Investor Services (US), LLC (MUIS)",2026-01-30,N/A,"MUFG Investor Services (US), LLC (MUIS)2026-01-30"
 IN,National Distribution Centers,2026-01-30,53,National Distribution Centers2026-01-30
 OK,Bright Horizons,2026-01-30,N/A,Bright Horizons2026-01-30
-CA,"Mercury Systems, Inc.",2026-01-30,18,"Mercury Systems, Inc.2026-01-30"
 SC,Santee Print Works,2026-01-30,140,Santee Print Works2026-01-30
 SC,"SC Industrial Holdings, LLC",2026-01-30,78,"SC Industrial Holdings, LLC2026-01-30"
-CA,Medical Device Components LLC dba Lighteum Medical,2026-01-30,83,Medical Device Components LLC dba Lighteum Medical2026-01-30
-CA,City National Bank,2026-01-30,9,City National Bank2026-01-30
 WA,International Paper Company,2026-01-30,N/A,International Paper Company2026-01-30
-CA,"MINACT, Inc.",2026-01-30,118,"MINACT, Inc.2026-01-30"
 AZ,"Automated Harvesting, LLC.",2026-01-30,N/A,"Automated Harvesting, LLC.2026-01-30"
 WA,Amazon,2026-01-30,N/A,Amazon2026-01-30
+VT,Maple Ridge Memory Care and Lodge,2026-01-30,126,Maple Ridge Memory Care and Lodge2026-01-30
 TN,DLH Solutions,2026-01-30,N/A,DLH Solutions2026-01-30
 TN,Danfoss Power Solutions,2026-01-30,N/A,Danfoss Power Solutions2026-01-30
-VT,Maple Ridge Memory Care and Lodge,2026-01-30,126,Maple Ridge Memory Care and Lodge2026-01-30
-MO,Unknown,2026-01-30,213,Unknown2026-01-30
+CA,Medical Device Components LLC dba Lighteum Medical,2026-01-30,83,Medical Device Components LLC dba Lighteum Medical2026-01-30
 CA,Del Monte Foods Corporation II Inc - Modesto,2026-01-30,765,Del Monte Foods Corporation II Inc - Modesto2026-01-30
+CA,City National Bank,2026-01-30,9,City National Bank2026-01-30
 CA,Del Monte Foods Corporation II Inc. - Hughson,2026-01-30,11,Del Monte Foods Corporation II Inc. - Hughson2026-01-30
+MO,Unknown,2026-01-30,213,Unknown2026-01-30
 MO,Unknown,2026-01-30,93,Unknown2026-01-30
-CA,Amazon (LAX10),2026-01-29,2,Amazon (LAX10)2026-01-29
-CA,Amazon (LAX16),2026-01-29,46,Amazon (LAX16)2026-01-29
-OR,Kroger-00127-Prime,2026-01-29,N/A,Kroger-00127-Prime2026-01-29
-CA,Amazon (LAX78),2026-01-29,45,Amazon (LAX78)2026-01-29
-OR,Kroger-00360-Prime,2026-01-29,N/A,Kroger-00360-Prime2026-01-29
-OR,Kroger-00255,2026-01-29,N/A,Kroger-002552026-01-29
-OR,Kroger-00240,2026-01-29,N/A,Kroger-002402026-01-29
-OR,Kroger-00153,2026-01-29,N/A,Kroger-001532026-01-29
+CA,"MINACT, Inc.",2026-01-30,118,"MINACT, Inc.2026-01-30"
 OR,Kroger-00150-Prime,2026-01-29,N/A,Kroger-00150-Prime2026-01-29
 OR,Kroger-00135,2026-01-29,N/A,Kroger-001352026-01-29
+OR,Kroger-00153,2026-01-29,N/A,Kroger-001532026-01-29
+OR,Kroger-00240,2026-01-29,N/A,Kroger-002402026-01-29
+OR,Kroger-00360-Prime,2026-01-29,N/A,Kroger-00360-Prime2026-01-29
+OR,Kroger-00255,2026-01-29,N/A,Kroger-002552026-01-29
+OR,Kroger-00127-Prime,2026-01-29,N/A,Kroger-00127-Prime2026-01-29
+CA,Amazon (LAX10),2026-01-29,2,Amazon (LAX10)2026-01-29
+CA,Amazon (LAX16),2026-01-29,46,Amazon (LAX16)2026-01-29
+CA,Amazon (LAX78),2026-01-29,45,Amazon (LAX78)2026-01-29
 OR,Kroger-00128-Prime,2026-01-29,N/A,Kroger-00128-Prime2026-01-29
 OR,Kroger-00035,2026-01-29,N/A,Kroger-000352026-01-29
 OR,Kroger-00125-Prime,2026-01-29,N/A,Kroger-00125-Prime2026-01-29
-OR,Kroger-00075-Prime,2026-01-29,N/A,Kroger-00075-Prime2026-01-29
+OR,Kroger-00090,2026-01-29,N/A,Kroger-000902026-01-29
 OR,Kroger-00063,2026-01-29,N/A,Kroger-000632026-01-29
 OR,Kroger-00040,2026-01-29,N/A,Kroger-000402026-01-29
 CA,"Chan Zuckerberg Initiative, LLC",2026-01-29,38,"Chan Zuckerberg Initiative, LLC2026-01-29"
+AZ,Shell Recharge Solutions,2026-01-29,N/A,Shell Recharge Solutions2026-01-29
 CA,Shell Recharge Solutions,2026-01-29,29,Shell Recharge Solutions2026-01-29
-AZ,Shell Recharge Solutions,2026-01-29,2,Shell Recharge Solutions2026-01-29
 MD,Saks & Company LLC,2026-01-29,N/A,Saks & Company LLC2026-01-29
 MD,Saks & Company LLC,2026-01-29,N/A,Saks & Company LLC2026-01-29
 OR,Eugene Location,2026-01-29,N/A,Eugene Location2026-01-29
 OR,Bend Location,2026-01-29,N/A,Bend Location2026-01-29
 CA,"Chan Zuckerberg Biohub, Inc.",2026-01-29,1,"Chan Zuckerberg Biohub, Inc.2026-01-29"
-OR,Kroger-00090,2026-01-29,N/A,Kroger-000902026-01-29
+OR,Kroger-00075-Prime,2026-01-29,N/A,Kroger-00075-Prime2026-01-29
 CA,"Chan Zuckerberg Initiative, LLC - Remote",2026-01-29,32,"Chan Zuckerberg Initiative, LLC - Remote2026-01-29"
 CA,Amazon - SNA 17,2026-01-29,1,Amazon - SNA 172026-01-29
 CA,Amazon - SNA 3,2026-01-29,34,Amazon - SNA 32026-01-29
@@ -418,66 +419,66 @@ CA,Amazon - SFO 28,2026-01-29,84,Amazon - SFO 282026-01-29
 CA,Amazon - SFO 13,2026-01-29,19,Amazon - SFO 132026-01-29
 CA,Amazon - SAN 3,2026-01-29,1,Amazon - SAN 32026-01-29
 CA,Amazon - SAN 21,2026-01-29,2,Amazon - SAN 212026-01-29
+CA,Amazon - SAN 15,2026-01-29,1,Amazon - SAN 152026-01-29
 CA,Amazon - SAN 18,2026-01-29,13,Amazon - SAN 182026-01-29
 CA,Amazon - SAN 17,2026-01-29,19,Amazon - SAN 172026-01-29
-CA,Amazon - SAN 15,2026-01-29,1,Amazon - SAN 152026-01-29
 OR,"Three Pirates, LLC dba Point Blank Dist",2026-01-29,N/A,"Three Pirates, LLC dba Point Blank Dist2026-01-29"
 OR,"Lincare-Brookings, OR",2026-01-29,N/A,"Lincare-Brookings, OR2026-01-29"
 OR,Kroger-00660,2026-01-29,N/A,Kroger-006602026-01-29
-OR,Kroger-00417,2026-01-29,N/A,Kroger-004172026-01-29
 OR,Kroger-00516,2026-01-29,N/A,Kroger-005162026-01-29
 OR,Kroger-00600-Prime,2026-01-29,N/A,Kroger-00600-Prime2026-01-29
+OR,Kroger-00417,2026-01-29,N/A,Kroger-004172026-01-29
 CA,Amazon - SNA 20,2026-01-29,25,Amazon - SNA 202026-01-29
 CA,Amazon (SJC25),2026-01-29,43,Amazon (SJC25)2026-01-29
 CA,Amazon - SNA 16,2026-01-29,24,Amazon - SNA 162026-01-29
-CA,Amazon (SJC44),2026-01-29,49,Amazon (SJC44)2026-01-29
-CA,Amazon - SNA12,2026-01-29,5,Amazon - SNA122026-01-29
 CA,Amazon,2026-01-29,72,Amazon2026-01-29
-CA,Amazon,2026-01-29,3,Amazon2026-01-29
-CA,Amazon,2026-01-29,11,Amazon2026-01-29
 CA,Amazon,2026-01-29,32,Amazon2026-01-29
+CA,Amazon - SNA12,2026-01-29,5,Amazon - SNA122026-01-29
+CA,Amazon,2026-01-29,11,Amazon2026-01-29
 CA,Amazon,2026-01-29,58,Amazon2026-01-29
+CA,Amazon,2026-01-29,3,Amazon2026-01-29
 CA,Amazon,2026-01-29,87,Amazon2026-01-29
 CA,Amazon,2026-01-29,81,Amazon2026-01-29
+CA,Amazon (SJC44),2026-01-29,49,Amazon (SJC44)2026-01-29
 CA,Amazon (SJC38),2026-01-29,141,Amazon (SJC38)2026-01-29
 CA,Amazon,2026-01-29,89,Amazon2026-01-29
-WA,CHS Northwest,2026-01-28,N/A,CHS Northwest2026-01-28
-CA,Amazon - MAI8,2026-01-28,182,Amazon - MAI82026-01-28
+CA,Amazon - MAB9,2026-01-28,191,Amazon - MAB92026-01-28
 CA,Amazon - MAJ8,2026-01-28,160,Amazon - MAJ82026-01-28
-CA,Amazon - MAF3,2026-01-28,201,Amazon - MAF32026-01-28
+CA,Amazon - MAM9,2026-01-28,179,Amazon - MAM92026-01-28
 CA,Amazon - MAF8,2026-01-28,196,Amazon - MAF82026-01-28
 CA,Amazon - MAF9,2026-01-28,155,Amazon - MAF92026-01-28
 CA,Amazon - MAG1,2026-01-28,185,Amazon - MAG12026-01-28
 CA,Amazon - MAK9,2026-01-28,134,Amazon - MAK92026-01-28
 CA,Amazon - MAB8,2026-01-28,191,Amazon - MAB82026-01-28
-CA,Amazon - MAM7,2026-01-28,139,Amazon - MAM72026-01-28
-WA,Amazon,2026-01-28,N/A,Amazon2026-01-28
-WA,"Expedia, Inc.",2026-01-28,N/A,"Expedia, Inc.2026-01-28"
-CA,Amazon - MAB9,2026-01-28,191,Amazon - MAB92026-01-28
 CA,Amazon - MAO6,2026-01-28,189,Amazon - MAO62026-01-28
-CA,Amazon - MAF5,2026-01-28,190,Amazon - MAF52026-01-28
+WA,CHS Northwest,2026-01-28,N/A,CHS Northwest2026-01-28
+WA,Amazon,2026-01-28,N/A,Amazon2026-01-28
+CA,Amazon - MAM7,2026-01-28,139,Amazon - MAM72026-01-28
 VA,PMI-U.S. Corporate Services (Phillip Morris),2026-01-28,135,PMI-U.S. Corporate Services (Phillip Morris)2026-01-28
 VA,Amazon,2026-01-28,691,Amazon2026-01-28
 CA,Amazon - MAC2,2026-01-28,175,Amazon - MAC22026-01-28
-CA,Amazon - MAQ8,2026-01-28,163,Amazon - MAQ82026-01-28
-MD,Amazon - MAV2 facility,2026-01-28,N/A,Amazon - MAV2 facility2026-01-28
+CA,Amazon - MAF5,2026-01-28,190,Amazon - MAF52026-01-28
 CA,Amazon - MBA6,2026-01-28,181,Amazon - MBA62026-01-28
-CA,Amazon - MAM9,2026-01-28,179,Amazon - MAM92026-01-28
+MD,Amazon - MAV2 facility,2026-01-28,N/A,Amazon - MAV2 facility2026-01-28
 CA,Amazon - MAQ9,2026-01-28,174,Amazon - MAQ92026-01-28
+WA,"Expedia, Inc.",2026-01-28,N/A,"Expedia, Inc.2026-01-28"
+CA,Amazon - MAQ8,2026-01-28,163,Amazon - MAQ82026-01-28
+CA,Amazon - MAH8,2026-01-28,172,Amazon - MAH82026-01-28
 MD,Amazon - MAT8 facility,2026-01-28,N/A,Amazon - MAT8 facility2026-01-28
-CA,Amazon - MAB4,2026-01-28,131,Amazon - MAB42026-01-28
+CA,Amazon - MAC9,2026-01-28,168,Amazon - MAC92026-01-28
 ID,"Hearthside Food Solutions, LLC dba Maker's Pride",2026-01-28,51,"Hearthside Food Solutions, LLC dba Maker's Pride2026-01-28"
 NY,"Presbyterian Home for Central New York, Inc.",2026-01-28,128,"Presbyterian Home for Central New York, Inc.2026-01-28"
-CA,Amazon - MAB1,2026-01-28,215,Amazon - MAB12026-01-28
-MD,Amazon - MAH5 facility,2026-01-28,N/A,Amazon - MAH5 facility2026-01-28
-CA,Amazon - MAH8,2026-01-28,172,Amazon - MAH82026-01-28
-CA,First Foundation Inc.,2026-01-28,98,First Foundation Inc.2026-01-28
+CA,Amazon - MAI8,2026-01-28,182,Amazon - MAI82026-01-28
+CA,Amazon - MAB4,2026-01-28,131,Amazon - MAB42026-01-28
 CA,Amazon - MAB5,2026-01-28,184,Amazon - MAB52026-01-28
-CA,Amazon - MAC9,2026-01-28,168,Amazon - MAC92026-01-28
+CA,Amazon - MAB1,2026-01-28,215,Amazon - MAB12026-01-28
+CA,First Foundation Inc.,2026-01-28,98,First Foundation Inc.2026-01-28
+CA,Amazon - MAF3,2026-01-28,201,Amazon - MAF32026-01-28
 MD,Amazon - MAF1 facility,2026-01-28,N/A,Amazon - MAF1 facility2026-01-28
 MD,Amazon - MAG5 facility,2026-01-28,N/A,Amazon - MAG5 facility2026-01-28
-CA,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP",2026-01-27,45,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP2026-01-27"
-CA,Thermo Fisher Scientific,2026-01-27,173,Thermo Fisher Scientific2026-01-27
+MD,Amazon - MAH5 facility,2026-01-28,N/A,Amazon - MAH5 facility2026-01-28
+CA,"Western Digital Technologies, Inc.",2026-01-27,47,"Western Digital Technologies, Inc.2026-01-27"
+CA,"Catholic Charities, Diocese of San Diego - Pastoral Center",2026-01-27,6,"Catholic Charities, Diocese of San Diego - Pastoral Center2026-01-27"
 FL,"Naples Grande Beach Resort 
 475 Seagate Drive
 
@@ -485,54 +486,47 @@ NAPLES, FL, 34103",2026-01-27,235,"Naples Grande Beach Resort
 475 Seagate Drive
 
 NAPLES, FL, 341032026-01-27"
-CA,"Catholic Charities, Diocese of San Diego - MG Suite B",2026-01-27,11,"Catholic Charities, Diocese of San Diego - MG Suite B2026-01-27"
-CA,"Catholic Charities, Diocese of San Diego - San Diego Migrant Shelter",2026-01-27,7,"Catholic Charities, Diocese of San Diego - San Diego Migrant Shelter2026-01-27"
-NY,Personio Corp.,2026-01-27,47,Personio Corp.2026-01-27
-VA,Bear Express LLC,2026-01-27,168,Bear Express LLC2026-01-27
-CA,"Catholic Charities, Diocese of San Diego - Pastoral Center",2026-01-27,6,"Catholic Charities, Diocese of San Diego - Pastoral Center2026-01-27"
-AZ,Benchmark,2026-01-27,65,Benchmark2026-01-27
 CA,"Catholic Charities, Diocese of San Diego - MG Suite A",2026-01-27,7,"Catholic Charities, Diocese of San Diego - MG Suite A2026-01-27"
+CA,"Catholic Charities, Diocese of San Diego - MG Suite B",2026-01-27,11,"Catholic Charities, Diocese of San Diego - MG Suite B2026-01-27"
+AZ,Benchmark,2026-01-27,N/A,Benchmark2026-01-27
+CA,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP",2026-01-27,45,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP2026-01-27"
+CA,"Catholic Charities, Diocese of San Diego - San Diego Migrant Shelter",2026-01-27,7,"Catholic Charities, Diocese of San Diego - San Diego Migrant Shelter2026-01-27"
+VA,Bear Express LLC,2026-01-27,168,Bear Express LLC2026-01-27
+NY,Personio Corp.,2026-01-27,47,Personio Corp.2026-01-27
+CA,Thermo Fisher Scientific,2026-01-27,173,Thermo Fisher Scientific2026-01-27
 TN,"NIKE Retail Services, Inc.",2026-01-27,N/A,"NIKE Retail Services, Inc.2026-01-27"
-CA,Pinterest Inc. (San Francisco),2026-01-27,98,Pinterest Inc. (San Francisco)2026-01-27
-CA,Pinterest Inc. (CA Remote),2026-01-27,4,Pinterest Inc. (CA Remote)2026-01-27
-CA,Pinterest Inc. (Palo Alto),2026-01-27,16,Pinterest Inc. (Palo Alto)2026-01-27
-CA,"Western Digital Technologies, Inc.",2026-01-27,47,"Western Digital Technologies, Inc.2026-01-27"
 CA,JBT Marel Corporation,2026-01-27,59,JBT Marel Corporation2026-01-27
 CA,"Schultz Industrial Services, Inc.",2026-01-27,66,"Schultz Industrial Services, Inc.2026-01-27"
-NY,Amazon,2026-01-26,1,Amazon2026-01-26
+CA,Pinterest Inc. (San Francisco),2026-01-27,98,Pinterest Inc. (San Francisco)2026-01-27
+CA,Pinterest Inc. (Palo Alto),2026-01-27,16,Pinterest Inc. (Palo Alto)2026-01-27
+CA,Pinterest Inc. (CA Remote),2026-01-27,4,Pinterest Inc. (CA Remote)2026-01-27
+NY,Amazon,2026-01-26,182,Amazon2026-01-26
+NY,Amazon,2026-01-26,233,Amazon2026-01-26
+NY,Amazon,2026-01-26,91,Amazon2026-01-26
+NY,Amazon,2026-01-26,41,Amazon2026-01-26
 CA,"Innovation Bakers, LLC",2026-01-26,117,"Innovation Bakers, LLC2026-01-26"
+NY,Amazon,2026-01-26,38,Amazon2026-01-26
 NY,Amazon,2026-01-26,7,Amazon2026-01-26
 NY,Amazon,2026-01-26,58,Amazon2026-01-26
-NY,Amazon,2026-01-26,91,Amazon2026-01-26
-NY,Amazon,2026-01-26,38,Amazon2026-01-26
-NY,Amazon,2026-01-26,233,Amazon2026-01-26
-NY,Amazon,2026-01-26,182,Amazon2026-01-26
+NY,Amazon,2026-01-26,1,Amazon2026-01-26
+TN,"Smoky Mountain Logistics, LLC",2026-01-26,N/A,"Smoky Mountain Logistics, LLC2026-01-26"
 NY,Amazon,2026-01-26,9,Amazon2026-01-26
-NY,Amazon,2026-01-26,41,Amazon2026-01-26
-CA,Google (MP2),2026-01-26,3,Google (MP2)2026-01-26
+CA,Google (BRGAS1265),2026-01-26,1,Google (BRGAS1265)2026-01-26
+CA,BEN Group. Inc (BENlabs),2026-01-26,75,BEN Group. Inc (BENlabs)2026-01-26
+TN,"Music City Delivery, LLC",2026-01-26,N/A,"Music City Delivery, LLC2026-01-26"
 CA,Google (MPD237),2026-01-26,19,Google (MPD237)2026-01-26
 CA,Google (MP4),2026-01-26,24,Google (MP4)2026-01-26
-CA,Google (MP3),2026-01-26,27,Google (MP3)2026-01-26
+HI,UPDATE – DFS Group L.P.,2026-01-26,N/A,UPDATE – DFS Group L.P.2026-01-26
 NJ,Amazon,2026-01-26,72,Amazon2026-01-26
 NJ,TTEC Government Solutions,2026-01-26,120,TTEC Government Solutions2026-01-26
 NJ,Audible,2026-01-26,67,Audible2026-01-26
-HI,UPDATE – DFS Group L.P.,2026-01-26,N/A,UPDATE – DFS Group L.P.2026-01-26
-CA,Google (MP1),2026-01-26,2,Google (MP1)2026-01-26
-CA,BEN Group. Inc (BENlabs),2026-01-26,75,BEN Group. Inc (BENlabs)2026-01-26
-CA,Google (HMBLT3),2026-01-26,1,Google (HMBLT3)2026-01-26
-TN,"Music City Delivery, LLC",2026-01-26,N/A,"Music City Delivery, LLC2026-01-26"
-CA,Google (BRGAS1265),2026-01-26,1,Google (BRGAS1265)2026-01-26
-TN,"Smoky Mountain Logistics, LLC",2026-01-26,N/A,"Smoky Mountain Logistics, LLC2026-01-26"
+CA,Google (MP3),2026-01-26,27,Google (MP3)2026-01-26
 CA,Phillips 66,2026-01-26,44,Phillips 662026-01-26
+CA,Google (MP2),2026-01-26,3,Google (MP2)2026-01-26
+CA,Google (HMBLT3),2026-01-26,1,Google (HMBLT3)2026-01-26
+CA,Google (MP1),2026-01-26,2,Google (MP1)2026-01-26
 CA,Phillips 66 - Wilmington,2026-01-26,111,Phillips 66 - Wilmington2026-01-26
 NJ,Starbucks Coffee Company,2026-01-25,47,Starbucks Coffee Company2026-01-25
-FL,"Aimbridge 
-340 Biscayne Boulevard
-
-MIAMI, FL, 33132",2026-01-23,66,"Aimbridge 
-340 Biscayne Boulevard
-
-MIAMI, FL, 331322026-01-23"
 FL,"Saks & Company LLC 
 2784 Executive Way
 
@@ -540,6 +534,13 @@ MIRAMAR, FL, 33025",2026-01-23,74,"Saks & Company LLC
 2784 Executive Way
 
 MIRAMAR, FL, 330252026-01-23"
+FL,"Aimbridge 
+340 Biscayne Boulevard
+
+MIAMI, FL, 33132",2026-01-23,66,"Aimbridge 
+340 Biscayne Boulevard
+
+MIAMI, FL, 331322026-01-23"
 CA,Autodesk,2026-01-23,104,Autodesk2026-01-23
 FL,"ECS Federal, LLC 
 12211 Science Drive
@@ -644,7 +645,7 @@ Miami
 515 South Figueroa Street Los Angeles, CA 90071
 MIAMI, FL, 331012026-01-08"
 UT,SMBC Manubank,2026-01-08,1,SMBC Manubank2026-01-08
-AZ,SMBC Group - JeniusBank,2026-01-08,33,SMBC Group - JeniusBank2026-01-08
+AZ,SMBC Group - JeniusBank,2026-01-08,N/A,SMBC Group - JeniusBank2026-01-08
 FL,"SMBC MANUBANK 
 Bonita Springs
 515 South Figueroa Street Los Angeles, CA 90071
