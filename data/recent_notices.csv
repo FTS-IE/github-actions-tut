@@ -126,7 +126,7 @@ MD,Viskon-Aire Corporation,2026-02-24,N/A,Viskon-Aire Corporation2026-02-24
 SD,Christ The King School,2026-02-24,31,Christ The King School2026-02-24
 CA,VCA Bay Area Veterinary Specialists & Emergency Hospital,2026-02-24,91,VCA Bay Area Veterinary Specialists & Emergency Hospital2026-02-24
 MD,Duality Ventures LLC,2026-02-23,N/A,Duality Ventures LLC2026-02-23
-KS,"First Brands Group, LLC (Hopkins)",2026-02-23,81,"First Brands Group, LLC (Hopkins)2026-02-23"
+KS,"First Brands Group, LLC (Hopkins)",2026-02-23,N/A,"First Brands Group, LLC (Hopkins)2026-02-23"
 KS,"First Brands Group, LLC (Hopkins)",2026-02-23,130,"First Brands Group, LLC (Hopkins)2026-02-23"
 HI,"Honolulu Roofing Company, Inc.",2026-02-23,N/A,"Honolulu Roofing Company, Inc.2026-02-23"
 FL,"Parsec, LLC 
@@ -222,7 +222,7 @@ LAKELAND, FL, 338012026-02-17"
 CA,California Resources Corporation - (River Run),2026-02-17,46,California Resources Corporation - (River Run)2026-02-17
 VA,AOL,2026-02-17,108,AOL2026-02-17
 VA,Huntington Ingall Industries (HII) Mission Technologies,2026-02-17,74,Huntington Ingall Industries (HII) Mission Technologies2026-02-17
-AZ,"Lowe's Companies, Inc.",2026-02-16,N/A,"Lowe's Companies, Inc.2026-02-16"
+AZ,"Lowe's Companies, Inc.",2026-02-16,12,"Lowe's Companies, Inc.2026-02-16"
 CA,"Red O La Jolla, LCC",2026-02-16,91,"Red O La Jolla, LCC2026-02-16"
 WA,"Peshastin Pear Packers, LLC.",2026-02-16,N/A,"Peshastin Pear Packers, LLC.2026-02-16"
 UT,Sheraton,2026-02-15,100,Sheraton2026-02-15
@@ -238,7 +238,7 @@ CA,De La Pena Eye Clinic - DLP Commerce,2026-02-13,38,De La Pena Eye Clinic - DL
 CA,De La Pena Eye Clinic - DLP El Monte,2026-02-13,5,De La Pena Eye Clinic - DLP El Monte2026-02-13
 CA,De La Pena Eye Clinic - DLP Huntington Park,2026-02-13,15,De La Pena Eye Clinic - DLP Huntington Park2026-02-13
 CA,De La Pena Eye Clinic - DLP Long Beach,2026-02-13,3,De La Pena Eye Clinic - DLP Long Beach2026-02-13
-KS,Lowe's,2026-02-13,N/A,Lowe's2026-02-13
+KS,Lowe's,2026-02-13,3,Lowe's2026-02-13
 CA,De La Pena Eye Clinic - DLP Los Angeles,2026-02-13,12,De La Pena Eye Clinic - DLP Los Angeles2026-02-13
 FL,"Main Street Sports Group, LLC 
 500 E. Broward Blvd
@@ -318,7 +318,7 @@ CA,Fender Musical Instruments Corporation,2026-02-06,60,Fender Musical Instrumen
 CA,Johns Manville,2026-02-06,90,Johns Manville2026-02-06
 AL,Tiffin Motorhomes Incorporated,2026-02-05,139,Tiffin Motorhomes Incorporated2026-02-05
 VA,Liberty Dental Plan Corporation,2026-02-05,0,Liberty Dental Plan Corporation2026-02-05
-AZ,Liberty Dental Plan,2026-02-05,N/A,Liberty Dental Plan2026-02-05
+AZ,Liberty Dental Plan,2026-02-05,1,Liberty Dental Plan2026-02-05
 PA,"Taste, Inc.",2026-02-05,10,"Taste, Inc.2026-02-05"
 CA,"Liberty Dental Plan of California, Inc.",2026-02-05,22,"Liberty Dental Plan of California, Inc.2026-02-05"
 CA,"Medtronic, Inc.",2026-02-05,81,"Medtronic, Inc.2026-02-05"
@@ -706,7 +706,7 @@ CA,Pinterest Inc. (CA Remote),2026-01-27,4,Pinterest Inc. (CA Remote)2026-01-27
 NY,Personio Corp.,2026-01-27,47,Personio Corp.2026-01-27
 VA,Bear Express LLC,2026-01-27,168,Bear Express LLC2026-01-27
 CA,Pinterest Inc. (Palo Alto),2026-01-27,16,Pinterest Inc. (Palo Alto)2026-01-27
-AZ,Benchmark,2026-01-27,65,Benchmark2026-01-27
+AZ,Benchmark,2026-01-27,N/A,Benchmark2026-01-27
 CA,JBT Marel Corporation,2026-01-27,59,JBT Marel Corporation2026-01-27
 CA,Google (BRGAS1265),2026-01-26,1,Google (BRGAS1265)2026-01-26
 HI,UPDATE – DFS Group L.P.,2026-01-26,N/A,UPDATE – DFS Group L.P.2026-01-26
@@ -881,7 +881,7 @@ MARCO ISLAND, FL, 34145",2026-01-08,1,"SMBC MANUBANK
 Marco Island
 515 South Figueroa Street Los Angeles, CA 90071
 MARCO ISLAND, FL, 341452026-01-08"
-AZ,SMBC Group - JeniusBank,2026-01-08,N/A,SMBC Group - JeniusBank2026-01-08
+AZ,SMBC Group - JeniusBank,2026-01-08,33,SMBC Group - JeniusBank2026-01-08
 HI,DFS Group L.P.,2026-01-08,N/A,DFS Group L.P.2026-01-08
 OR,Oregon - Remote Employees,2026-01-08,N/A,Oregon - Remote Employees2026-01-08
 CA,Sealed Air Corporation,2026-01-08,51,Sealed Air Corporation2026-01-08
