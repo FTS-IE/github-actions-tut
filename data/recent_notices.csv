@@ -79,10 +79,10 @@ TN,Durham School Services,2026-04-10,N/A,Durham School Services2026-04-10
 SC,"Industrial Plastics Group, LLC",2026-04-10,74,"Industrial Plastics Group, LLC2026-04-10"
 MO,Unknown,2026-04-10,143,Unknown2026-04-10
 AL,Legacy Supply Chain Operations,2026-04-09,6,Legacy Supply Chain Operations2026-04-09
-AZ,VisionQuest National LTD,2026-04-09,N/A,VisionQuest National LTD2026-04-09
+AZ,VisionQuest National LTD,2026-04-09,203,VisionQuest National LTD2026-04-09
 IA,Ryder Systems Inc. ,2026-04-08,N/A,Ryder Systems Inc. 2026-04-08
 CA,"Montessori West, Inc.",2026-04-08,35,"Montessori West, Inc.2026-04-08"
-AZ,"Catholic Community Services of Southern Arizona, Inc.",2026-04-08,N/A,"Catholic Community Services of Southern Arizona, Inc.2026-04-08"
+AZ,"Catholic Community Services of Southern Arizona, Inc.",2026-04-08,74,"Catholic Community Services of Southern Arizona, Inc.2026-04-08"
 CA,Prepa Tec Los Angeles campus,2026-04-07,42,Prepa Tec Los Angeles campus2026-04-07
 CA,Wellpath and CFMG - Placer Juvi Detention,2026-04-07,4,Wellpath and CFMG - Placer Juvi Detention2026-04-07
 CA,Wellpath and CFMG - Placer Jail - Auburn,2026-04-07,50,Wellpath and CFMG - Placer Jail - Auburn2026-04-07
@@ -792,10 +792,10 @@ NY,"Empire City Laboratories, Inc.",2026-02-15,183,"Empire City Laboratories, In
 NY,"Empire City Laboratories, Inc.",2026-02-15,1,"Empire City Laboratories, Inc.2026-02-15"
 NY,"Empire City Laboratories, Inc.",2026-02-15,1,"Empire City Laboratories, Inc.2026-02-15"
 CA,De La Pena Eye Clinic - DLP Los Angeles,2026-02-13,12,De La Pena Eye Clinic - DLP Los Angeles2026-02-13
-OR,Oregon - Remote Employees,2026-02-13,N/A,Oregon - Remote Employees2026-02-13
+OR,Albany/Millersburg,2026-02-13,N/A,Albany/Millersburg2026-02-13
 CA,De La Pena Eye Clinic - DLP Huntington Park,2026-02-13,15,De La Pena Eye Clinic - DLP Huntington Park2026-02-13
 CA,De La Pena Eye Clinic - DLP Long Beach,2026-02-13,3,De La Pena Eye Clinic - DLP Long Beach2026-02-13
-OR,Albany/Millersburg,2026-02-13,N/A,Albany/Millersburg2026-02-13
+OR,Oregon - Remote Employees,2026-02-13,N/A,Oregon - Remote Employees2026-02-13
 CA,De La Pena Eye Clinic - DLP Santa Ana,2026-02-13,6,De La Pena Eye Clinic - DLP Santa Ana2026-02-13
 CA,Commute is Great Logistics LLC,2026-02-13,132,Commute is Great Logistics LLC2026-02-13
 CA,Med-Laser Surgical Center LLC,2026-02-13,22,Med-Laser Surgical Center LLC2026-02-13
@@ -857,7 +857,7 @@ VA,Saks &amp; Company LLC (Saks Fifth Avenue Store),2026-02-10,40,Saks &amp; Com
 AL,Birmingham Parking Authority,2026-02-10,33,Birmingham Parking Authority2026-02-10
 CA,"Frito-Lay, Inc.",2026-02-10,248,"Frito-Lay, Inc.2026-02-10"
 AL,Saks Fifth Avenue,2026-02-10,44,Saks Fifth Avenue2026-02-10
-AZ,Saks & Company LLC,2026-02-10,N/A,Saks & Company LLC2026-02-10
+AZ,Saks & Company LLC,2026-02-10,67,Saks & Company LLC2026-02-10
 FL,"DHL Supply Chain 
 5360 Allen K Breed Hwy
 
@@ -886,7 +886,7 @@ CA,Johns Manville,2026-02-06,90,Johns Manville2026-02-06
 CA,Searles Valley Minerals,2026-02-06,270,Searles Valley Minerals2026-02-06
 CA,"Medtronic, Inc.",2026-02-05,81,"Medtronic, Inc.2026-02-05"
 CA,"Liberty Dental Plan of California, Inc.",2026-02-05,22,"Liberty Dental Plan of California, Inc.2026-02-05"
-AZ,Liberty Dental Plan,2026-02-05,N/A,Liberty Dental Plan2026-02-05
+AZ,Liberty Dental Plan,2026-02-05,1,Liberty Dental Plan2026-02-05
 VA,Liberty Dental Plan Corporation,2026-02-05,0,Liberty Dental Plan Corporation2026-02-05
 FL,"Liberty Dental Plan Corporation 
 3109 W. Dr. Martin Luther King Jr. Blvd
@@ -1195,7 +1195,7 @@ CA,Amazon (SJC38),2026-01-29,141,Amazon (SJC38)2026-01-29
 CA,Amazon - SNA 16,2026-01-29,24,Amazon - SNA 162026-01-29
 CA,Amazon - SNA 20,2026-01-29,25,Amazon - SNA 202026-01-29
 CA,Amazon - SAN 13,2026-01-29,38,Amazon - SAN 132026-01-29
-AZ,Shell Recharge Solutions,2026-01-29,2,Shell Recharge Solutions2026-01-29
+AZ,Shell Recharge Solutions,2026-01-29,N/A,Shell Recharge Solutions2026-01-29
 CA,Amazon - SAN 15,2026-01-29,1,Amazon - SAN 152026-01-29
 CA,Amazon - SNA12,2026-01-29,5,Amazon - SNA122026-01-29
 CA,Amazon - SAN 17,2026-01-29,19,Amazon - SAN 172026-01-29
@@ -1422,7 +1422,7 @@ NY,White Coffee Corporation,2026-01-11,97,White Coffee Corporation2026-01-11
 CA,Cucina Enoteca Del Mar,2026-01-09,43,Cucina Enoteca Del Mar2026-01-09
 CA,Local Initiative Health Authority for Los Angeles County dba L.A. Care Health Plan,2026-01-09,225,Local Initiative Health Authority for Los Angeles County dba L.A. Care Health Plan2026-01-09
 CA,Macy's,2026-01-09,77,Macy's2026-01-09
-AZ,SMBC Group - JeniusBank,2026-01-08,N/A,SMBC Group - JeniusBank2026-01-08
+AZ,SMBC Group - JeniusBank,2026-01-08,33,SMBC Group - JeniusBank2026-01-08
 HI,DFS Group L.P.,2026-01-08,N/A,DFS Group L.P.2026-01-08
 FL,"SMBC MANUBANK 
 Jacksonville
@@ -1506,7 +1506,7 @@ PONTE VEDRA BEACH, FL, 32082",2026-01-08,1,"SMBC MANUBANK
 Ponte Vedra
 515 South Figueroa Street Los Angeles, CA 90071
 PONTE VEDRA BEACH, FL, 320822026-01-08"
-AZ,Avelo Airlines,2026-01-07,N/A,Avelo Airlines2026-01-07
+AZ,Avelo Airlines,2026-01-07,97,Avelo Airlines2026-01-07
 AZ,GNC Distribution Center,2026-01-07,66,GNC Distribution Center2026-01-07
 CA,Pomona Hospital Medical Center (300),2026-01-07,4,Pomona Hospital Medical Center (300)2026-01-07
 CA,Pomona Hospital Medical Center (1601),2026-01-07,1,Pomona Hospital Medical Center (1601)2026-01-07
