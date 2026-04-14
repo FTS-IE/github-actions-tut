@@ -88,7 +88,7 @@ VA,Voyant Beauty,2026-04-10,95,Voyant Beauty2026-04-10
 MO,Unknown,2026-04-10,143,Unknown2026-04-10
 AL,Legacy Supply Chain Operations,2026-04-09,6,Legacy Supply Chain Operations2026-04-09
 AZ,VisionQuest National LTD,2026-04-09,203,VisionQuest National LTD2026-04-09
-AZ,"Catholic Community Services of Southern Arizona, Inc.",2026-04-08,74,"Catholic Community Services of Southern Arizona, Inc.2026-04-08"
+AZ,"Catholic Community Services of Southern Arizona, Inc.",2026-04-08,N/A,"Catholic Community Services of Southern Arizona, Inc.2026-04-08"
 CA,"Montessori West, Inc.",2026-04-08,35,"Montessori West, Inc.2026-04-08"
 IA,Ryder Systems Inc. ,2026-04-08,N/A,Ryder Systems Inc. 2026-04-08
 FL,"Bahama Breeze 
@@ -692,7 +692,7 @@ CA,"Safari West, Inc.",2026-02-23,134,"Safari West, Inc.2026-02-23"
 KS,"First Brands Group, LLC (Hopkins)",2026-02-23,130,"First Brands Group, LLC (Hopkins)2026-02-23"
 NY,Seaport Entertainment Management LLC,2026-02-23,93,Seaport Entertainment Management LLC2026-02-23
 OK,Hopkins Mfg- Miami,2026-02-23,N/A,Hopkins Mfg- Miami2026-02-23
-KS,"First Brands Group, LLC (Hopkins)",2026-02-23,81,"First Brands Group, LLC (Hopkins)2026-02-23"
+KS,"First Brands Group, LLC (Hopkins)",2026-02-23,N/A,"First Brands Group, LLC (Hopkins)2026-02-23"
 VA,Speyside Bourbon Cooperage in Virginia Inc.,2026-02-23,52,Speyside Bourbon Cooperage in Virginia Inc.2026-02-23
 HI,"Honolulu Roofing Company, Inc.",2026-02-23,N/A,"Honolulu Roofing Company, Inc.2026-02-23"
 UT,Nordstrom Card Services,2026-02-21,15,Nordstrom Card Services2026-02-21
@@ -780,7 +780,7 @@ LAKELAND, FL, 33801",2026-02-17,98,"HCL
 
 LAKELAND, FL, 338012026-02-17"
 IA,Wells Fargo,2026-02-17,N/A,Wells Fargo2026-02-17
-AZ,"Lowe's Companies, Inc.",2026-02-16,12,"Lowe's Companies, Inc.2026-02-16"
+AZ,"Lowe's Companies, Inc.",2026-02-16,N/A,"Lowe's Companies, Inc.2026-02-16"
 WA,"Peshastin Pear Packers, LLC.",2026-02-16,N/A,"Peshastin Pear Packers, LLC.2026-02-16"
 CA,"Red O La Jolla, LCC",2026-02-16,91,"Red O La Jolla, LCC2026-02-16"
 NY,"Empire City Laboratories, Inc.",2026-02-15,6,"Empire City Laboratories, Inc.2026-02-15"
@@ -840,10 +840,10 @@ CA,De La Pena Eye Clinic - DLP Montebello,2026-02-13,38,De La Pena Eye Clinic - 
 CA,De La Pena Eye Clinic - DLP Los Angeles,2026-02-13,12,De La Pena Eye Clinic - DLP Los Angeles2026-02-13
 CA,Topanga Social Manager. LLC - Topanga Social Food Hall,2026-02-13,131,Topanga Social Manager. LLC - Topanga Social Food Hall2026-02-13
 CA,De La Pena Eye Clinic - DLP Long Beach,2026-02-13,3,De La Pena Eye Clinic - DLP Long Beach2026-02-13
-OR,Oregon - Remote Employees,2026-02-13,N/A,Oregon - Remote Employees2026-02-13
+OR,Albany/Millersburg,2026-02-13,N/A,Albany/Millersburg2026-02-13
 CA,De La Pena Eye Clinic - DLP Huntington Park,2026-02-13,15,De La Pena Eye Clinic - DLP Huntington Park2026-02-13
 PA,"GIANT Company, LLC",2026-02-13,128,"GIANT Company, LLC2026-02-13"
-OR,Albany/Millersburg,2026-02-13,N/A,Albany/Millersburg2026-02-13
+OR,Oregon - Remote Employees,2026-02-13,N/A,Oregon - Remote Employees2026-02-13
 CA,De La Pena Eye Clinic - DLP El Monte,2026-02-13,5,De La Pena Eye Clinic - DLP El Monte2026-02-13
 CA,De La Pena Eye Clinic - DLP Commerce,2026-02-13,38,De La Pena Eye Clinic - DLP Commerce2026-02-13
 AL,Southern Parallel Forest Products Corp,2026-02-12,62,Southern Parallel Forest Products Corp2026-02-12
@@ -1224,7 +1224,7 @@ CA,Amazon - SAN 17,2026-01-29,19,Amazon - SAN 172026-01-29
 CA,Amazon - SAN 18,2026-01-29,13,Amazon - SAN 182026-01-29
 CA,Amazon - SAN 21,2026-01-29,2,Amazon - SAN 212026-01-29
 CA,Amazon - SAN 3,2026-01-29,1,Amazon - SAN 32026-01-29
-AZ,Shell Recharge Solutions,2026-01-29,2,Shell Recharge Solutions2026-01-29
+AZ,Shell Recharge Solutions,2026-01-29,N/A,Shell Recharge Solutions2026-01-29
 OR,Kroger-00090,2026-01-29,N/A,Kroger-000902026-01-29
 CA,Amazon - SFO 13,2026-01-29,19,Amazon - SFO 132026-01-29
 MD,Saks & Company LLC,2026-01-29,N/A,Saks & Company LLC2026-01-29
@@ -1284,7 +1284,7 @@ CA,JBT Marel Corporation,2026-01-27,59,JBT Marel Corporation2026-01-27
 CA,Pinterest Inc. (Palo Alto),2026-01-27,16,Pinterest Inc. (Palo Alto)2026-01-27
 NY,Personio Corp.,2026-01-27,47,Personio Corp.2026-01-27
 CA,Thermo Fisher Scientific,2026-01-27,173,Thermo Fisher Scientific2026-01-27
-AZ,Benchmark,2026-01-27,65,Benchmark2026-01-27
+AZ,Benchmark,2026-01-27,N/A,Benchmark2026-01-27
 VA,Bear Express LLC,2026-01-27,168,Bear Express LLC2026-01-27
 CA,"Schultz Industrial Services, Inc.",2026-01-27,66,"Schultz Industrial Services, Inc.2026-01-27"
 CA,"Catholic Charities, Diocese of San Diego - MG Suite A",2026-01-27,7,"Catholic Charities, Diocese of San Diego - MG Suite A2026-01-27"
