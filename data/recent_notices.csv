@@ -190,7 +190,7 @@ LAKE WORTH, FL, 33463",2026-04-01,53,"U.S. Committee for Refugees and Immigrants
 
 LAKE WORTH, FL, 334632026-04-01"
 MD,Legacy Supply Chain,2026-04-01,N/A,Legacy Supply Chain2026-04-01
-AZ,"Aramark Campus, LLC",2026-04-01,108,"Aramark Campus, LLC2026-04-01"
+AZ,"Aramark Campus, LLC",2026-04-01,N/A,"Aramark Campus, LLC2026-04-01"
 IN,"Oakland City University, Inc",2026-04-01,167,"Oakland City University, Inc2026-04-01"
 AL,Swedish Match Cigars Inc,2026-04-01,54,Swedish Match Cigars Inc2026-04-01
 MO,Unknown,2026-04-01,48,Unknown2026-04-01
@@ -803,7 +803,7 @@ MD,"Lowe’s Companies, Inc.",2026-02-17,N/A,"Lowe’s Companies, Inc.2026-02-17
 MD,Breakthru Beverage Group,2026-02-17,N/A,Breakthru Beverage Group2026-02-17
 CA,California Resources Corporation (Ming),2026-02-17,9,California Resources Corporation (Ming)2026-02-17
 IA,Whirlpool Corporation,2026-02-17,N/A,Whirlpool Corporation2026-02-17
-AZ,"Lowe's Companies, Inc.",2026-02-16,N/A,"Lowe's Companies, Inc.2026-02-16"
+AZ,"Lowe's Companies, Inc.",2026-02-16,12,"Lowe's Companies, Inc.2026-02-16"
 WA,"Peshastin Pear Packers, LLC.",2026-02-16,N/A,"Peshastin Pear Packers, LLC.2026-02-16"
 CA,"Red O La Jolla, LCC",2026-02-16,91,"Red O La Jolla, LCC2026-02-16"
 NY,"Empire City Laboratories, Inc.",2026-02-15,1,"Empire City Laboratories, Inc.2026-02-15"
@@ -865,7 +865,7 @@ TITUSVILLE, FL, 33811",2026-02-13,84,"ILLUMUS
 
 TITUSVILLE, FL, 338112026-02-13"
 OR,Albany/Millersburg,2026-02-13,N/A,Albany/Millersburg2026-02-13
-KS,Lowe's,2026-02-13,3,Lowe's2026-02-13
+KS,Lowe's,2026-02-13,N/A,Lowe's2026-02-13
 CA,Med-Laser Surgical Center LLC,2026-02-13,22,Med-Laser Surgical Center LLC2026-02-13
 CA,De La Pena Eye Clinic - DLP Santa Ana,2026-02-13,6,De La Pena Eye Clinic - DLP Santa Ana2026-02-13
 CA,De La Pena Eye Clinic - DLP Van Nuys,2026-02-13,19,De La Pena Eye Clinic - DLP Van Nuys2026-02-13
@@ -1173,7 +1173,7 @@ CA,City National Bank,2026-01-30,9,City National Bank2026-01-30
 OK,Bright Horizons,2026-01-30,N/A,Bright Horizons2026-01-30
 CA,Medical Device Components LLC dba Lighteum Medical,2026-01-30,83,Medical Device Components LLC dba Lighteum Medical2026-01-30
 SC,"SC Industrial Holdings, LLC",2026-01-30,78,"SC Industrial Holdings, LLC2026-01-30"
-AZ,"Automated Harvesting, LLC.",2026-01-30,46,"Automated Harvesting, LLC.2026-01-30"
+AZ,"Automated Harvesting, LLC.",2026-01-30,N/A,"Automated Harvesting, LLC.2026-01-30"
 IN,National Distribution Centers,2026-01-30,53,National Distribution Centers2026-01-30
 VT,Maple Ridge Memory Care and Lodge,2026-01-30,126,Maple Ridge Memory Care and Lodge2026-01-30
 KS,"Vornado Air, LLC.",2026-01-30,72,"Vornado Air, LLC.2026-01-30"
@@ -1299,7 +1299,7 @@ NY,Amazon,2026-01-28,1,Amazon2026-01-28
 NY,Amazon,2026-01-28,77,Amazon2026-01-28
 NY,Amazon,2026-01-28,6,Amazon2026-01-28
 MD,Amazon - MAV2 facility,2026-01-28,N/A,Amazon - MAV2 facility2026-01-28
-AZ,Benchmark,2026-01-27,N/A,Benchmark2026-01-27
+AZ,Benchmark,2026-01-27,65,Benchmark2026-01-27
 VA,Bear Express LLC,2026-01-27,168,Bear Express LLC2026-01-27
 IA,American Contract Systems ,2026-01-27,N/A,American Contract Systems 2026-01-27
 CA,Thermo Fisher Scientific,2026-01-27,173,Thermo Fisher Scientific2026-01-27
@@ -1537,7 +1537,7 @@ Land O Lakes
 LAND O LAKES, FL, 335992026-01-08"
 OR,Oregon - Remote Employees,2026-01-08,N/A,Oregon - Remote Employees2026-01-08
 CA,Sealed Air Corporation,2026-01-08,51,Sealed Air Corporation2026-01-08
-AZ,SMBC Group - JeniusBank,2026-01-08,N/A,SMBC Group - JeniusBank2026-01-08
+AZ,SMBC Group - JeniusBank,2026-01-08,33,SMBC Group - JeniusBank2026-01-08
 FL,"SMBC MANUBANK 
 Jacksonville
 515 South Figueroa Street Los Angeles, CA 90071
@@ -1549,8 +1549,8 @@ UT,SMBC Manubank,2026-01-08,1,SMBC Manubank2026-01-08
 HI,DFS Group L.P.,2026-01-08,N/A,DFS Group L.P.2026-01-08
 WA,SMBC Manubank,2026-01-08,N/A,SMBC Manubank2026-01-08
 CA,Pomona Hospital Medical Center (1798),2026-01-07,108,Pomona Hospital Medical Center (1798)2026-01-07
-AZ,GNC Distribution Center,2026-01-07,66,GNC Distribution Center2026-01-07
-AZ,Avelo Airlines,2026-01-07,N/A,Avelo Airlines2026-01-07
+AZ,GNC Distribution Center,2026-01-07,N/A,GNC Distribution Center2026-01-07
+AZ,Avelo Airlines,2026-01-07,97,Avelo Airlines2026-01-07
 CA,Pomona Hospital Medical Center (300),2026-01-07,4,Pomona Hospital Medical Center (300)2026-01-07
 CA,Pomona Hospital Medical Center (1601),2026-01-07,1,Pomona Hospital Medical Center (1601)2026-01-07
 WA,Tessera,2026-01-06,N/A,Tessera2026-01-06
