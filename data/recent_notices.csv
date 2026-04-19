@@ -98,7 +98,7 @@ CA,Block by Block,2026-04-14,47,Block by Block2026-04-14
 IA,UnityPoint Health ,2026-04-14,N/A,UnityPoint Health 2026-04-14
 IA,UnityPoint Health ,2026-04-14,N/A,UnityPoint Health 2026-04-14
 IA,UnityPoint Health ,2026-04-14,N/A,UnityPoint Health 2026-04-14
-AZ,"The Tendit Group, LLC.",2026-04-14,N/A,"The Tendit Group, LLC.2026-04-14"
+AZ,"The Tendit Group, LLC.",2026-04-14,143,"The Tendit Group, LLC.2026-04-14"
 CA,Ventura Coastal,2026-04-14,69,Ventura Coastal2026-04-14
 IA,UnityPoint Health ,2026-04-14,N/A,UnityPoint Health 2026-04-14
 CA,Redding Cement Plant,2026-04-14,53,Redding Cement Plant2026-04-14
@@ -149,7 +149,7 @@ TN,Legacy Supply Chain,2026-04-10,N/A,Legacy Supply Chain2026-04-10
 SC,"Industrial Plastics Group, LLC",2026-04-10,74,"Industrial Plastics Group, LLC2026-04-10"
 CA,Sumisho Air Lease Corporation,2026-04-09,53,Sumisho Air Lease Corporation2026-04-09
 AL,Legacy Supply Chain Operations,2026-04-09,6,Legacy Supply Chain Operations2026-04-09
-AZ,VisionQuest National LTD,2026-04-09,N/A,VisionQuest National LTD2026-04-09
+AZ,VisionQuest National LTD,2026-04-09,203,VisionQuest National LTD2026-04-09
 CA,"Montessori West, Inc.",2026-04-08,35,"Montessori West, Inc.2026-04-08"
 CA,Sony Pictures Entertainment Inc.,2026-04-08,111,Sony Pictures Entertainment Inc.2026-04-08
 CA,Sony Pictures Entertainment Inc.,2026-04-08,6,Sony Pictures Entertainment Inc.2026-04-08
@@ -160,7 +160,7 @@ IA,Ryder Systems Inc. ,2026-04-08,N/A,Ryder Systems Inc. 2026-04-08
 CA,Qualcomm Incorporated,2026-04-08,11,Qualcomm Incorporated2026-04-08
 CA,Qualcomm Incorporated,2026-04-08,6,Qualcomm Incorporated2026-04-08
 CA,Qualcomm Incorporated,2026-04-08,3,Qualcomm Incorporated2026-04-08
-AZ,"Catholic Community Services of Southern Arizona, Inc.",2026-04-08,N/A,"Catholic Community Services of Southern Arizona, Inc.2026-04-08"
+AZ,"Catholic Community Services of Southern Arizona, Inc.",2026-04-08,74,"Catholic Community Services of Southern Arizona, Inc.2026-04-08"
 CA,Qualcomm Incorporated,2026-04-08,1,Qualcomm Incorporated2026-04-08
 CA,Qualcomm Incorporated,2026-04-08,2,Qualcomm Incorporated2026-04-08
 CA,Qualcomm Incorporated,2026-04-08,1,Qualcomm Incorporated2026-04-08
@@ -243,7 +243,7 @@ CA,"Oracle America, Inc.",2026-04-01,310,"Oracle America, Inc.2026-04-01"
 CA,"Oracle America, Inc.",2026-04-01,184,"Oracle America, Inc.2026-04-01"
 CA,Think Together,2026-04-01,114,Think Together2026-04-01
 CA,Consolidate Entertainment LLC,2026-04-01,63,Consolidate Entertainment LLC2026-04-01
-AZ,"Aramark Campus, LLC",2026-04-01,108,"Aramark Campus, LLC2026-04-01"
+AZ,"Aramark Campus, LLC",2026-04-01,N/A,"Aramark Campus, LLC2026-04-01"
 MD,Legacy Supply Chain,2026-04-01,N/A,Legacy Supply Chain2026-04-01
 CA,Union of Pan Asian Communities - East Wind Clubhouse,2026-04-01,5,Union of Pan Asian Communities - East Wind Clubhouse2026-04-01
 CA,Union of Pan Asian Communities - Positive Solutions and Elder Multicultural Access & Support Service,2026-04-01,14,Union of Pan Asian Communities - Positive Solutions and Elder Multicultural Access & Support Service2026-04-01
@@ -771,7 +771,7 @@ MD,Duality Ventures LLC,2026-02-23,N/A,Duality Ventures LLC2026-02-23
 NY,Seaport Entertainment Management LLC,2026-02-23,93,Seaport Entertainment Management LLC2026-02-23
 KS,"First Brands Group, LLC (Hopkins)",2026-02-23,130,"First Brands Group, LLC (Hopkins)2026-02-23"
 HI,"Honolulu Roofing Company, Inc.",2026-02-23,N/A,"Honolulu Roofing Company, Inc.2026-02-23"
-KS,"First Brands Group, LLC (Hopkins)",2026-02-23,81,"First Brands Group, LLC (Hopkins)2026-02-23"
+KS,"First Brands Group, LLC (Hopkins)",2026-02-23,N/A,"First Brands Group, LLC (Hopkins)2026-02-23"
 UT,Nordstrom Card Services,2026-02-21,15,Nordstrom Card Services2026-02-21
 CA,Ferrara Candy Company (2400),2026-02-21,17,Ferrara Candy Company (2400)2026-02-21
 CA,Ferrara Candy Company (One Jelly Belly),2026-02-21,2,Ferrara Candy Company (One Jelly Belly)2026-02-21
@@ -906,7 +906,7 @@ CA,De La Pena Eye Clinic - DLP Long Beach,2026-02-13,3,De La Pena Eye Clinic - D
 CA,De La Pena Eye Clinic - DLP Los Angeles,2026-02-13,12,De La Pena Eye Clinic - DLP Los Angeles2026-02-13
 CA,De La Pena Eye Clinic - DLP Van Nuys,2026-02-13,19,De La Pena Eye Clinic - DLP Van Nuys2026-02-13
 CA,De La Pena Eye Clinic - DLP Santa Ana,2026-02-13,6,De La Pena Eye Clinic - DLP Santa Ana2026-02-13
-KS,Lowe's,2026-02-13,N/A,Lowe's2026-02-13
+KS,Lowe's,2026-02-13,3,Lowe's2026-02-13
 CA,Commute is Great Logistics LLC,2026-02-13,132,Commute is Great Logistics LLC2026-02-13
 CA,De La Pena Eye Clinic - DLP Montebello,2026-02-13,38,De La Pena Eye Clinic - DLP Montebello2026-02-13
 FL,"ILLUMUS 
@@ -917,8 +917,8 @@ TITUSVILLE, FL, 33811",2026-02-13,84,"ILLUMUS
 
 TITUSVILLE, FL, 338112026-02-13"
 PA,"GIANT Company, LLC",2026-02-13,128,"GIANT Company, LLC2026-02-13"
-OR,Albany/Millersburg,2026-02-13,N/A,Albany/Millersburg2026-02-13
 OR,Oregon - Remote Employees,2026-02-13,N/A,Oregon - Remote Employees2026-02-13
+OR,Albany/Millersburg,2026-02-13,N/A,Albany/Millersburg2026-02-13
 CA,LPL Financial LLC,2026-02-13,72,LPL Financial LLC2026-02-13
 CA,Outdoor Research,2026-02-13,50,Outdoor Research2026-02-13
 CA,"Main Street Sports Group, LLC",2026-02-13,97,"Main Street Sports Group, LLC2026-02-13"
@@ -949,7 +949,7 @@ AL,Birmingham Parking Authority,2026-02-10,33,Birmingham Parking Authority2026-0
 AL,Birmingham Parking Authority,2026-02-10,54,Birmingham Parking Authority2026-02-10
 AL,Saks Fifth Avenue,2026-02-10,44,Saks Fifth Avenue2026-02-10
 VA,Saks &amp; Company LLC (Saks Fifth Avenue Store),2026-02-10,40,Saks &amp; Company LLC (Saks Fifth Avenue Store)2026-02-10
-AZ,Saks & Company LLC,2026-02-10,N/A,Saks & Company LLC2026-02-10
+AZ,Saks & Company LLC,2026-02-10,67,Saks & Company LLC2026-02-10
 WA,Eddie Bauer LLC,2026-02-09,N/A,Eddie Bauer LLC2026-02-09
 ID,LA Semiconductor LLC,2026-02-09,342,LA Semiconductor LLC2026-02-09
 CA,Riot Games,2026-02-09,56,Riot Games2026-02-09
@@ -981,7 +981,7 @@ AL,Tiffin Motorhomes Incorporated,2026-02-05,139,Tiffin Motorhomes Incorporated2
 VA,Liberty Dental Plan Corporation,2026-02-05,0,Liberty Dental Plan Corporation2026-02-05
 PA,"Taste, Inc.",2026-02-05,10,"Taste, Inc.2026-02-05"
 CA,"Liberty Dental Plan of California, Inc.",2026-02-05,22,"Liberty Dental Plan of California, Inc.2026-02-05"
-AZ,Liberty Dental Plan,2026-02-05,N/A,Liberty Dental Plan2026-02-05
+AZ,Liberty Dental Plan,2026-02-05,1,Liberty Dental Plan2026-02-05
 CA,Workday Inc.,2026-02-04,154,Workday Inc.2026-02-04
 CA,RSVC Company (1825 Chicago Avenue),2026-02-04,114,RSVC Company (1825 Chicago Avenue)2026-02-04
 MD,"NFI Interactive Technologies, LLC (NFI)",2026-02-04,N/A,"NFI Interactive Technologies, LLC (NFI)2026-02-04"
@@ -1230,14 +1230,14 @@ CA,"Mercury Systems, Inc.",2026-01-30,18,"Mercury Systems, Inc.2026-01-30"
 OK,Bright Horizons,2026-01-30,N/A,Bright Horizons2026-01-30
 CA,Medical Device Components LLC dba Lighteum Medical,2026-01-30,83,Medical Device Components LLC dba Lighteum Medical2026-01-30
 SC,Santee Print Works,2026-01-30,140,Santee Print Works2026-01-30
-KS,"Vornado Air, LLC.",2026-01-30,72,"Vornado Air, LLC.2026-01-30"
+KS,"Vornado Air, LLC.",2026-01-30,N/A,"Vornado Air, LLC.2026-01-30"
 SC,"SC Industrial Holdings, LLC",2026-01-30,78,"SC Industrial Holdings, LLC2026-01-30"
 MO,Unknown,2026-01-30,93,Unknown2026-01-30
 CA,City National Bank,2026-01-30,9,City National Bank2026-01-30
 TN,Danfoss Power Solutions,2026-01-30,N/A,Danfoss Power Solutions2026-01-30
 IN,National Distribution Centers,2026-01-30,53,National Distribution Centers2026-01-30
 WA,Amazon,2026-01-30,N/A,Amazon2026-01-30
-AZ,"Automated Harvesting, LLC.",2026-01-30,N/A,"Automated Harvesting, LLC.2026-01-30"
+AZ,"Automated Harvesting, LLC.",2026-01-30,46,"Automated Harvesting, LLC.2026-01-30"
 CA,Del Monte Foods Corporation II Inc. - Hughson,2026-01-30,11,Del Monte Foods Corporation II Inc. - Hughson2026-01-30
 VT,Maple Ridge Memory Care and Lodge,2026-01-30,126,Maple Ridge Memory Care and Lodge2026-01-30
 WA,International Paper Company,2026-01-30,N/A,International Paper Company2026-01-30
@@ -1279,7 +1279,7 @@ CA,"Chan Zuckerberg Initiative, LLC",2026-01-29,38,"Chan Zuckerberg Initiative, 
 CA,"Chan Zuckerberg Initiative, LLC - Remote",2026-01-29,32,"Chan Zuckerberg Initiative, LLC - Remote2026-01-29"
 OR,Kroger-00040,2026-01-29,N/A,Kroger-000402026-01-29
 OR,Kroger-00075-Prime,2026-01-29,N/A,Kroger-00075-Prime2026-01-29
-OR,Kroger-00090,2026-01-29,N/A,Kroger-000902026-01-29
+OR,Kroger-00063,2026-01-29,N/A,Kroger-000632026-01-29
 CA,Amazon - SAN 21,2026-01-29,2,Amazon - SAN 212026-01-29
 CA,Amazon - SFO 13,2026-01-29,19,Amazon - SFO 132026-01-29
 CA,Amazon - SFO 28,2026-01-29,84,Amazon - SFO 282026-01-29
@@ -1290,7 +1290,7 @@ OR,Kroger-00127-Prime,2026-01-29,N/A,Kroger-00127-Prime2026-01-29
 OR,Kroger-00150-Prime,2026-01-29,N/A,Kroger-00150-Prime2026-01-29
 OR,Kroger-00240,2026-01-29,N/A,Kroger-002402026-01-29
 OR,Kroger-00600-Prime,2026-01-29,N/A,Kroger-00600-Prime2026-01-29
-OR,Kroger-00063,2026-01-29,N/A,Kroger-000632026-01-29
+OR,"Lincare-Brookings, OR",2026-01-29,N/A,"Lincare-Brookings, OR2026-01-29"
 OR,Kroger-00516,2026-01-29,N/A,Kroger-005162026-01-29
 OR,Kroger-00417,2026-01-29,N/A,Kroger-004172026-01-29
 OR,Kroger-00660,2026-01-29,N/A,Kroger-006602026-01-29
@@ -1299,7 +1299,7 @@ OR,Bend Location,2026-01-29,N/A,Bend Location2026-01-29
 OR,"Three Pirates, LLC dba Point Blank Dist",2026-01-29,N/A,"Three Pirates, LLC dba Point Blank Dist2026-01-29"
 AZ,Shell Recharge Solutions,2026-01-29,N/A,Shell Recharge Solutions2026-01-29
 CA,Amazon - SAN 3,2026-01-29,1,Amazon - SAN 32026-01-29
-OR,"Lincare-Brookings, OR",2026-01-29,N/A,"Lincare-Brookings, OR2026-01-29"
+OR,Kroger-00090,2026-01-29,N/A,Kroger-000902026-01-29
 NY,"Sonder USA, Inc.",2026-01-29,3,"Sonder USA, Inc.2026-01-29"
 CA,Amazon - SAN 18,2026-01-29,13,Amazon - SAN 182026-01-29
 OR,Kroger-00153,2026-01-29,N/A,Kroger-001532026-01-29
