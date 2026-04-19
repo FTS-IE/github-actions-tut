@@ -81,7 +81,7 @@ WA,ZoomCare,2026-04-16,N/A,ZoomCare2026-04-16
 CA,Snap Inc.,2026-04-15,247,Snap Inc.2026-04-15
 AL,Serta Mattress Company,2026-04-15,102,Serta Mattress Company2026-04-15
 TN,Pave It Forward Logistics,2026-04-15,N/A,Pave It Forward Logistics2026-04-15
-AZ,"Marsden Services, LLC",2026-04-15,N/A,"Marsden Services, LLC2026-04-15"
+AZ,"Marsden Services, LLC",2026-04-15,85,"Marsden Services, LLC2026-04-15"
 WA,Snap Inc.,2026-04-15,N/A,Snap Inc.2026-04-15
 IA,UnityPoint Health ,2026-04-14,N/A,UnityPoint Health 2026-04-14
 IA,Wells Fargo,2026-04-14,N/A,Wells Fargo2026-04-14
@@ -243,7 +243,7 @@ CA,"Oracle America, Inc.",2026-04-01,310,"Oracle America, Inc.2026-04-01"
 CA,"Oracle America, Inc.",2026-04-01,184,"Oracle America, Inc.2026-04-01"
 CA,Think Together,2026-04-01,114,Think Together2026-04-01
 CA,Consolidate Entertainment LLC,2026-04-01,63,Consolidate Entertainment LLC2026-04-01
-AZ,"Aramark Campus, LLC",2026-04-01,N/A,"Aramark Campus, LLC2026-04-01"
+AZ,"Aramark Campus, LLC",2026-04-01,108,"Aramark Campus, LLC2026-04-01"
 MD,Legacy Supply Chain,2026-04-01,N/A,Legacy Supply Chain2026-04-01
 CA,Union of Pan Asian Communities - East Wind Clubhouse,2026-04-01,5,Union of Pan Asian Communities - East Wind Clubhouse2026-04-01
 CA,Union of Pan Asian Communities - Positive Solutions and Elder Multicultural Access & Support Service,2026-04-01,14,Union of Pan Asian Communities - Positive Solutions and Elder Multicultural Access & Support Service2026-04-01
@@ -771,7 +771,7 @@ MD,Duality Ventures LLC,2026-02-23,N/A,Duality Ventures LLC2026-02-23
 NY,Seaport Entertainment Management LLC,2026-02-23,93,Seaport Entertainment Management LLC2026-02-23
 KS,"First Brands Group, LLC (Hopkins)",2026-02-23,130,"First Brands Group, LLC (Hopkins)2026-02-23"
 HI,"Honolulu Roofing Company, Inc.",2026-02-23,N/A,"Honolulu Roofing Company, Inc.2026-02-23"
-KS,"First Brands Group, LLC (Hopkins)",2026-02-23,N/A,"First Brands Group, LLC (Hopkins)2026-02-23"
+KS,"First Brands Group, LLC (Hopkins)",2026-02-23,81,"First Brands Group, LLC (Hopkins)2026-02-23"
 UT,Nordstrom Card Services,2026-02-21,15,Nordstrom Card Services2026-02-21
 CA,Ferrara Candy Company (2400),2026-02-21,17,Ferrara Candy Company (2400)2026-02-21
 CA,Ferrara Candy Company (One Jelly Belly),2026-02-21,2,Ferrara Candy Company (One Jelly Belly)2026-02-21
@@ -859,7 +859,7 @@ LAKELAND, FL, 338012026-02-17"
 CA,California Resources Corporation (Ming),2026-02-17,9,California Resources Corporation (Ming)2026-02-17
 WA,"Peshastin Pear Packers, LLC.",2026-02-16,N/A,"Peshastin Pear Packers, LLC.2026-02-16"
 CA,"Red O La Jolla, LCC",2026-02-16,91,"Red O La Jolla, LCC2026-02-16"
-AZ,"Lowe's Companies, Inc.",2026-02-16,N/A,"Lowe's Companies, Inc.2026-02-16"
+AZ,"Lowe's Companies, Inc.",2026-02-16,12,"Lowe's Companies, Inc.2026-02-16"
 NY,"Empire City Laboratories, Inc.",2026-02-15,1,"Empire City Laboratories, Inc.2026-02-15"
 NY,"Empire City Laboratories, Inc.",2026-02-15,1,"Empire City Laboratories, Inc.2026-02-15"
 NY,"Empire City Laboratories, Inc.",2026-02-15,1,"Empire City Laboratories, Inc.2026-02-15"
@@ -906,7 +906,7 @@ CA,De La Pena Eye Clinic - DLP Long Beach,2026-02-13,3,De La Pena Eye Clinic - D
 CA,De La Pena Eye Clinic - DLP Los Angeles,2026-02-13,12,De La Pena Eye Clinic - DLP Los Angeles2026-02-13
 CA,De La Pena Eye Clinic - DLP Van Nuys,2026-02-13,19,De La Pena Eye Clinic - DLP Van Nuys2026-02-13
 CA,De La Pena Eye Clinic - DLP Santa Ana,2026-02-13,6,De La Pena Eye Clinic - DLP Santa Ana2026-02-13
-KS,Lowe's,2026-02-13,3,Lowe's2026-02-13
+KS,Lowe's,2026-02-13,N/A,Lowe's2026-02-13
 CA,Commute is Great Logistics LLC,2026-02-13,132,Commute is Great Logistics LLC2026-02-13
 CA,De La Pena Eye Clinic - DLP Montebello,2026-02-13,38,De La Pena Eye Clinic - DLP Montebello2026-02-13
 FL,"ILLUMUS 
@@ -917,8 +917,8 @@ TITUSVILLE, FL, 33811",2026-02-13,84,"ILLUMUS
 
 TITUSVILLE, FL, 338112026-02-13"
 PA,"GIANT Company, LLC",2026-02-13,128,"GIANT Company, LLC2026-02-13"
-OR,Oregon - Remote Employees,2026-02-13,N/A,Oregon - Remote Employees2026-02-13
 OR,Albany/Millersburg,2026-02-13,N/A,Albany/Millersburg2026-02-13
+OR,Oregon - Remote Employees,2026-02-13,N/A,Oregon - Remote Employees2026-02-13
 CA,LPL Financial LLC,2026-02-13,72,LPL Financial LLC2026-02-13
 CA,Outdoor Research,2026-02-13,50,Outdoor Research2026-02-13
 CA,"Main Street Sports Group, LLC",2026-02-13,97,"Main Street Sports Group, LLC2026-02-13"
@@ -1230,14 +1230,14 @@ CA,"Mercury Systems, Inc.",2026-01-30,18,"Mercury Systems, Inc.2026-01-30"
 OK,Bright Horizons,2026-01-30,N/A,Bright Horizons2026-01-30
 CA,Medical Device Components LLC dba Lighteum Medical,2026-01-30,83,Medical Device Components LLC dba Lighteum Medical2026-01-30
 SC,Santee Print Works,2026-01-30,140,Santee Print Works2026-01-30
-KS,"Vornado Air, LLC.",2026-01-30,N/A,"Vornado Air, LLC.2026-01-30"
+KS,"Vornado Air, LLC.",2026-01-30,72,"Vornado Air, LLC.2026-01-30"
 SC,"SC Industrial Holdings, LLC",2026-01-30,78,"SC Industrial Holdings, LLC2026-01-30"
 MO,Unknown,2026-01-30,93,Unknown2026-01-30
 CA,City National Bank,2026-01-30,9,City National Bank2026-01-30
 TN,Danfoss Power Solutions,2026-01-30,N/A,Danfoss Power Solutions2026-01-30
 IN,National Distribution Centers,2026-01-30,53,National Distribution Centers2026-01-30
 WA,Amazon,2026-01-30,N/A,Amazon2026-01-30
-AZ,"Automated Harvesting, LLC.",2026-01-30,46,"Automated Harvesting, LLC.2026-01-30"
+AZ,"Automated Harvesting, LLC.",2026-01-30,N/A,"Automated Harvesting, LLC.2026-01-30"
 CA,Del Monte Foods Corporation II Inc. - Hughson,2026-01-30,11,Del Monte Foods Corporation II Inc. - Hughson2026-01-30
 VT,Maple Ridge Memory Care and Lodge,2026-01-30,126,Maple Ridge Memory Care and Lodge2026-01-30
 WA,International Paper Company,2026-01-30,N/A,International Paper Company2026-01-30
@@ -1297,7 +1297,7 @@ OR,Kroger-00660,2026-01-29,N/A,Kroger-006602026-01-29
 OR,Eugene Location,2026-01-29,N/A,Eugene Location2026-01-29
 OR,Bend Location,2026-01-29,N/A,Bend Location2026-01-29
 OR,"Three Pirates, LLC dba Point Blank Dist",2026-01-29,N/A,"Three Pirates, LLC dba Point Blank Dist2026-01-29"
-AZ,Shell Recharge Solutions,2026-01-29,N/A,Shell Recharge Solutions2026-01-29
+AZ,Shell Recharge Solutions,2026-01-29,2,Shell Recharge Solutions2026-01-29
 CA,Amazon - SAN 3,2026-01-29,1,Amazon - SAN 32026-01-29
 OR,Kroger-00090,2026-01-29,N/A,Kroger-000902026-01-29
 NY,"Sonder USA, Inc.",2026-01-29,3,"Sonder USA, Inc.2026-01-29"
