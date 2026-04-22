@@ -4,7 +4,7 @@ Automated tracking of layoff notices across the U.S.
 
 Does not include AR, KY, MA, MI, MN, MS, NV, NH, NC, ND, OH, WV, WY
 
-### Latest Global Update: 2026-04-21 04:06 PM EST
+### Latest Global Update: 2026-04-22 11:18 AM EST
 
 | State | Data | Source |
 | :--- | :--- | :--- |
