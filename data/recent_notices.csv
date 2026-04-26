@@ -170,7 +170,7 @@ CA,The Primary School,2026-04-15,147,The Primary School2026-04-15
 AL,Serta Mattress Company,2026-04-15,102,Serta Mattress Company2026-04-15
 WA,Snap Inc.,2026-04-15,N/A,Snap Inc.2026-04-15
 TN,Pave It Forward Logistics,2026-04-15,N/A,Pave It Forward Logistics2026-04-15
-AZ,"Marsden Services, LLC",2026-04-15,N/A,"Marsden Services, LLC2026-04-15"
+AZ,"Marsden Services, LLC",2026-04-15,85,"Marsden Services, LLC2026-04-15"
 CA,Snap Inc.,2026-04-15,73,Snap Inc.2026-04-15
 CA,Ventura Coastal,2026-04-14,69,Ventura Coastal2026-04-14
 CA,Block by Block,2026-04-14,47,Block by Block2026-04-14
@@ -204,7 +204,7 @@ IA,Appliance Plus Cellular Inc,2026-04-14,N/A,Appliance Plus Cellular Inc2026-04
 IA,Appliance Plus Cellular Inc,2026-04-14,N/A,Appliance Plus Cellular Inc2026-04-14
 CA,Redding Cement Plant,2026-04-14,53,Redding Cement Plant2026-04-14
 CT,"Main Street Sports Group, LLC",2026-04-14,N/A,"Main Street Sports Group, LLC2026-04-14"
-AZ,"The Tendit Group, LLC.",2026-04-14,N/A,"The Tendit Group, LLC.2026-04-14"
+AZ,"The Tendit Group, LLC.",2026-04-14,143,"The Tendit Group, LLC.2026-04-14"
 FL,"Ari Ben Aviator Inc 
 4220 Aviator Way
 
@@ -236,7 +236,7 @@ CA,Phillips 66,2026-04-10,6,Phillips 662026-04-10
 NJ,SFC Global Supply Chain,2026-04-10,170,SFC Global Supply Chain2026-04-10
 SC,"Industrial Plastics Group, LLC",2026-04-10,74,"Industrial Plastics Group, LLC2026-04-10"
 MO,Unknown,2026-04-10,143,Unknown2026-04-10
-AZ,VisionQuest National LTD,2026-04-09,N/A,VisionQuest National LTD2026-04-09
+AZ,VisionQuest National LTD,2026-04-09,203,VisionQuest National LTD2026-04-09
 AL,Legacy Supply Chain Operations,2026-04-09,6,Legacy Supply Chain Operations2026-04-09
 CA,Sumisho Air Lease Corporation,2026-04-09,53,Sumisho Air Lease Corporation2026-04-09
 CA,Sony Pictures Entertainment Inc.,2026-04-08,6,Sony Pictures Entertainment Inc.2026-04-08
@@ -254,7 +254,7 @@ CA,Sony Pictures Entertainment Inc.,2026-04-08,111,Sony Pictures Entertainment I
 CA,Qualcomm Incorporated,2026-04-08,10,Qualcomm Incorporated2026-04-08
 CA,Sony Pictures Entertainment Inc.,2026-04-08,9,Sony Pictures Entertainment Inc.2026-04-08
 CA,Sony Pictures Entertainment Inc.,2026-04-08,7,Sony Pictures Entertainment Inc.2026-04-08
-AZ,"Catholic Community Services of Southern Arizona, Inc.",2026-04-08,74,"Catholic Community Services of Southern Arizona, Inc.2026-04-08"
+AZ,"Catholic Community Services of Southern Arizona, Inc.",2026-04-08,N/A,"Catholic Community Services of Southern Arizona, Inc.2026-04-08"
 CA,Wellpath and CFMG - Placer Jail - Auburn,2026-04-07,50,Wellpath and CFMG - Placer Jail - Auburn2026-04-07
 CA,Wellpath and CFMG - South Placer Jail,2026-04-07,35,Wellpath and CFMG - South Placer Jail2026-04-07
 CA,Prepa Tec Los Angeles campus,2026-04-07,42,Prepa Tec Los Angeles campus2026-04-07
@@ -340,7 +340,7 @@ MIAMI BEACH, FL, 33139",2026-04-01,114,"Highgate Hotels, L.P
 
 MIAMI BEACH, FL, 331392026-04-01"
 AL,Swedish Match Cigars Inc,2026-04-01,54,Swedish Match Cigars Inc2026-04-01
-AZ,"Aramark Campus, LLC",2026-04-01,108,"Aramark Campus, LLC2026-04-01"
+AZ,"Aramark Campus, LLC",2026-04-01,N/A,"Aramark Campus, LLC2026-04-01"
 AL,Resolute Forest Products,2026-03-31,255,Resolute Forest Products2026-03-31
 IA,Wells Fargo,2026-03-31,N/A,Wells Fargo2026-03-31
 NJ,International Real Estate Partners US Corp,2026-03-31,61,International Real Estate Partners US Corp2026-03-31
@@ -829,7 +829,7 @@ SD,Christ The King School,2026-02-24,31,Christ The King School2026-02-24
 CA,"Monroe Operations, LLC dba Newport Healthcare",2026-02-24,16,"Monroe Operations, LLC dba Newport Healthcare2026-02-24"
 CA,"Monroe Operations, LLC dba Newport Healthcare",2026-02-24,30,"Monroe Operations, LLC dba Newport Healthcare2026-02-24"
 NY,"Ultrepet, LLC. d/b/a Evergreen Recycling, LLC.",2026-02-24,59,"Ultrepet, LLC. d/b/a Evergreen Recycling, LLC.2026-02-24"
-KS,"First Brands Group, LLC (Hopkins)",2026-02-23,81,"First Brands Group, LLC (Hopkins)2026-02-23"
+KS,"First Brands Group, LLC (Hopkins)",2026-02-23,N/A,"First Brands Group, LLC (Hopkins)2026-02-23"
 HI,"Honolulu Roofing Company, Inc.",2026-02-23,N/A,"Honolulu Roofing Company, Inc.2026-02-23"
 VA,Speyside Bourbon Cooperage in Virginia Inc.,2026-02-23,52,Speyside Bourbon Cooperage in Virginia Inc.2026-02-23
 OK,Hopkins Mfg- Miami,2026-02-23,N/A,Hopkins Mfg- Miami2026-02-23
@@ -943,7 +943,7 @@ PA,"GIANT Company, LLC",2026-02-13,128,"GIANT Company, LLC2026-02-13"
 CA,De La Pena Eye Clinic - DLP Montebello,2026-02-13,38,De La Pena Eye Clinic - DLP Montebello2026-02-13
 NY,"Glossier, Inc.",2026-02-13,41,"Glossier, Inc.2026-02-13"
 CA,De La Pena Eye Clinic - DLP El Monte,2026-02-13,5,De La Pena Eye Clinic - DLP El Monte2026-02-13
-KS,Lowe's,2026-02-13,N/A,Lowe's2026-02-13
+KS,Lowe's,2026-02-13,3,Lowe's2026-02-13
 CA,De La Pena Eye Clinic - DLP Commerce,2026-02-13,38,De La Pena Eye Clinic - DLP Commerce2026-02-13
 CA,De La Pena Eye Clinic - DLP Van Nuys,2026-02-13,19,De La Pena Eye Clinic - DLP Van Nuys2026-02-13
 CA,De La Pena Eye Clinic - DLP Santa Ana,2026-02-13,6,De La Pena Eye Clinic - DLP Santa Ana2026-02-13
@@ -1283,7 +1283,7 @@ IN,National Distribution Centers,2026-01-30,53,National Distribution Centers2026
 CA,"MINACT, Inc.",2026-01-30,118,"MINACT, Inc.2026-01-30"
 CA,V2X - NASA Armstrong Flight Research Center MS 1714,2026-01-30,62,V2X - NASA Armstrong Flight Research Center MS 17142026-01-30
 CA,Del Monte Foods Corporation II Inc. - Hughson,2026-01-30,11,Del Monte Foods Corporation II Inc. - Hughson2026-01-30
-AZ,"Automated Harvesting, LLC.",2026-01-30,46,"Automated Harvesting, LLC.2026-01-30"
+AZ,"Automated Harvesting, LLC.",2026-01-30,N/A,"Automated Harvesting, LLC.2026-01-30"
 TN,DLH Solutions,2026-01-30,N/A,DLH Solutions2026-01-30
 SC,"SC Industrial Holdings, LLC",2026-01-30,78,"SC Industrial Holdings, LLC2026-01-30"
 MO,Unknown,2026-01-30,93,Unknown2026-01-30
@@ -1298,7 +1298,7 @@ CA,City National Bank,2026-01-30,9,City National Bank2026-01-30
 VT,Maple Ridge Memory Care and Lodge,2026-01-30,126,Maple Ridge Memory Care and Lodge2026-01-30
 CA,Amazon,2026-01-29,32,Amazon2026-01-29
 CA,Amazon,2026-01-29,72,Amazon2026-01-29
-OR,Kroger-00040,2026-01-29,N/A,Kroger-000402026-01-29
+OR,Kroger-00135,2026-01-29,N/A,Kroger-001352026-01-29
 OR,Kroger-00125-Prime,2026-01-29,N/A,Kroger-00125-Prime2026-01-29
 CA,Amazon (SJC44),2026-01-29,49,Amazon (SJC44)2026-01-29
 CA,Amazon (SJC38),2026-01-29,141,Amazon (SJC38)2026-01-29
@@ -1312,15 +1312,15 @@ CA,Amazon (LAX16),2026-01-29,46,Amazon (LAX16)2026-01-29
 OR,Kroger-00360-Prime,2026-01-29,N/A,Kroger-00360-Prime2026-01-29
 CA,Amazon (LAX10),2026-01-29,2,Amazon (LAX10)2026-01-29
 OR,Kroger-00035,2026-01-29,N/A,Kroger-000352026-01-29
-OR,Kroger-00600-Prime,2026-01-29,N/A,Kroger-00600-Prime2026-01-29
+OR,Kroger-00128-Prime,2026-01-29,N/A,Kroger-00128-Prime2026-01-29
 CA,Shell Recharge Solutions,2026-01-29,29,Shell Recharge Solutions2026-01-29
 OR,Kroger-00153,2026-01-29,N/A,Kroger-001532026-01-29
-OR,Kroger-00150-Prime,2026-01-29,N/A,Kroger-00150-Prime2026-01-29
-OR,"Lincare-Brookings, OR",2026-01-29,N/A,"Lincare-Brookings, OR2026-01-29"
-OR,Kroger-00417,2026-01-29,N/A,Kroger-004172026-01-29
+OR,Kroger-00127-Prime,2026-01-29,N/A,Kroger-00127-Prime2026-01-29
+OR,Kroger-00063,2026-01-29,N/A,Kroger-000632026-01-29
+OR,Kroger-00040,2026-01-29,N/A,Kroger-000402026-01-29
 OR,Kroger-00255,2026-01-29,N/A,Kroger-002552026-01-29
 OR,Kroger-00075-Prime,2026-01-29,N/A,Kroger-00075-Prime2026-01-29
-AZ,Shell Recharge Solutions,2026-01-29,2,Shell Recharge Solutions2026-01-29
+AZ,Shell Recharge Solutions,2026-01-29,N/A,Shell Recharge Solutions2026-01-29
 CA,Amazon,2026-01-29,3,Amazon2026-01-29
 CA,Amazon - SNA 16,2026-01-29,24,Amazon - SNA 162026-01-29
 OR,"Three Pirates, LLC dba Point Blank Dist",2026-01-29,N/A,"Three Pirates, LLC dba Point Blank Dist2026-01-29"
@@ -1341,16 +1341,16 @@ CA,Amazon - SAN 18,2026-01-29,13,Amazon - SAN 182026-01-29
 CA,Amazon - SNA12,2026-01-29,5,Amazon - SNA122026-01-29
 CA,Amazon,2026-01-29,81,Amazon2026-01-29
 CA,Amazon,2026-01-29,87,Amazon2026-01-29
-OR,Kroger-00128-Prime,2026-01-29,N/A,Kroger-00128-Prime2026-01-29
-OR,Kroger-00135,2026-01-29,N/A,Kroger-001352026-01-29
-OR,Kroger-00127-Prime,2026-01-29,N/A,Kroger-00127-Prime2026-01-29
-OR,Kroger-00090,2026-01-29,N/A,Kroger-000902026-01-29
 OR,Kroger-00660,2026-01-29,N/A,Kroger-006602026-01-29
-MD,Saks & Company LLC,2026-01-29,N/A,Saks & Company LLC2026-01-29
-MD,Saks & Company LLC,2026-01-29,N/A,Saks & Company LLC2026-01-29
-OR,Kroger-00063,2026-01-29,N/A,Kroger-000632026-01-29
-OR,Kroger-00240,2026-01-29,N/A,Kroger-002402026-01-29
+OR,Kroger-00417,2026-01-29,N/A,Kroger-004172026-01-29
 OR,Kroger-00516,2026-01-29,N/A,Kroger-005162026-01-29
+OR,"Lincare-Brookings, OR",2026-01-29,N/A,"Lincare-Brookings, OR2026-01-29"
+OR,Kroger-00600-Prime,2026-01-29,N/A,Kroger-00600-Prime2026-01-29
+MD,Saks & Company LLC,2026-01-29,N/A,Saks & Company LLC2026-01-29
+MD,Saks & Company LLC,2026-01-29,N/A,Saks & Company LLC2026-01-29
+OR,Kroger-00090,2026-01-29,N/A,Kroger-000902026-01-29
+OR,Kroger-00240,2026-01-29,N/A,Kroger-002402026-01-29
+OR,Kroger-00150-Prime,2026-01-29,N/A,Kroger-00150-Prime2026-01-29
 CA,Amazon,2026-01-29,89,Amazon2026-01-29
 CA,Amazon - MAM9,2026-01-28,179,Amazon - MAM92026-01-28
 CA,Amazon - MAC9,2026-01-28,168,Amazon - MAC92026-01-28
@@ -1405,7 +1405,7 @@ NAPLES, FL, 34103",2026-01-27,235,"Naples Grande Beach Resort
 
 NAPLES, FL, 341032026-01-27"
 TN,"NIKE Retail Services, Inc.",2026-01-27,N/A,"NIKE Retail Services, Inc.2026-01-27"
-AZ,Benchmark,2026-01-27,65,Benchmark2026-01-27
+AZ,Benchmark,2026-01-27,N/A,Benchmark2026-01-27
 IA,American Contract Systems ,2026-01-27,N/A,American Contract Systems 2026-01-27
 CA,"Catholic Charities, Diocese of San Diego - Pastoral Center",2026-01-27,6,"Catholic Charities, Diocese of San Diego - Pastoral Center2026-01-27"
 CA,Thermo Fisher Scientific,2026-01-27,173,Thermo Fisher Scientific2026-01-27
@@ -1628,7 +1628,7 @@ CA,Pomona Hospital Medical Center (1798),2026-01-07,108,Pomona Hospital Medical 
 CA,Pomona Hospital Medical Center (300),2026-01-07,4,Pomona Hospital Medical Center (300)2026-01-07
 CA,Pomona Hospital Medical Center (1601),2026-01-07,1,Pomona Hospital Medical Center (1601)2026-01-07
 AZ,Avelo Airlines,2026-01-07,N/A,Avelo Airlines2026-01-07
-AZ,GNC Distribution Center,2026-01-07,66,GNC Distribution Center2026-01-07
+AZ,GNC Distribution Center,2026-01-07,N/A,GNC Distribution Center2026-01-07
 CO,Tessera Therapeutics,2026-01-06,1,Tessera Therapeutics2026-01-06
 CA,Alameda Health System - Wilma Chan Highland Hospital,2026-01-06,128,Alameda Health System - Wilma Chan Highland Hospital2026-01-06
 WA,Tessera,2026-01-06,N/A,Tessera2026-01-06
