@@ -203,7 +203,7 @@ CA,The Primary School (750 Fargo Ave),2026-04-28,25,The Primary School (750 Farg
 CA,"Five Guys Operations, LLC",2026-04-28,13,"Five Guys Operations, LLC2026-04-28"
 NY,Amazon,2026-04-28,135,Amazon2026-04-28
 CA,California Academy of Sciences,2026-04-28,53,California Academy of Sciences2026-04-28
-VT,Perrigo Company,2026-04-28,162,Perrigo Company2026-04-28
+VT,Perrigo Company,2026-04-28,N/A,Perrigo Company2026-04-28
 IA,Wells Fargo,2026-04-28,N/A,Wells Fargo2026-04-28
 NJ,Amazon,2026-04-28,N/A,Amazon2026-04-28
 CA,Geodis,2026-04-28,238,Geodis2026-04-28
@@ -264,7 +264,7 @@ MD,Apple Inc.,2026-04-23,N/A,Apple Inc.2026-04-23
 MD,"Republic National Distributing Company, LLC",2026-04-23,N/A,"Republic National Distributing Company, LLC2026-04-23"
 CA,Epic Games Inc.,2026-04-23,28,Epic Games Inc.2026-04-23
 AL,LineQuest LLC,2026-04-23,113,LineQuest LLC2026-04-23
-AZ,"Republic National Distributing Company, LLC",2026-04-23,N/A,"Republic National Distributing Company, LLC2026-04-23"
+AZ,"Republic National Distributing Company, LLC",2026-04-23,213,"Republic National Distributing Company, LLC2026-04-23"
 FL,"Republic National Distributing Company 
 441 SW 12 Ave
 
@@ -341,7 +341,7 @@ CA,YMCA Bill Libbon Elementary School,2026-04-17,11,YMCA Bill Libbon Elementary 
 CA,YMCA Juan Pacifico Ontiveros Elementary School,2026-04-17,10,YMCA Juan Pacifico Ontiveros Elementary School2026-04-17
 CA,YMCA Rice Elementary School,2026-04-17,11,YMCA Rice Elementary School2026-04-17
 CA,YMCA Sanchez Elementary School,2026-04-17,8,YMCA Sanchez Elementary School2026-04-17
-AZ,DLH Solutions Inc,2026-04-17,N/A,DLH Solutions Inc2026-04-17
+AZ,DLH Solutions Inc,2026-04-17,312,DLH Solutions Inc2026-04-17
 CA,YMCA Liberty Elementary School,2026-04-17,9,YMCA Liberty Elementary School2026-04-17
 TN,"T-Mobile USA, Inc.",2026-04-16,N/A,"T-Mobile USA, Inc.2026-04-16"
 CA,Paramount Skydance Corporation (1575 N. Gower Street),2026-04-16,2,Paramount Skydance Corporation (1575 N. Gower Street)2026-04-16
@@ -357,7 +357,7 @@ WA,Snap Inc.,2026-04-15,N/A,Snap Inc.2026-04-15
 TN,Pave It Forward Logistics,2026-04-15,N/A,Pave It Forward Logistics2026-04-15
 CA,The Primary School,2026-04-15,147,The Primary School2026-04-15
 CA,Snap Inc.,2026-04-15,73,Snap Inc.2026-04-15
-AZ,"Marsden Services, LLC",2026-04-15,85,"Marsden Services, LLC2026-04-15"
+AZ,"Marsden Services, LLC",2026-04-15,N/A,"Marsden Services, LLC2026-04-15"
 CA,Block by Block,2026-04-14,47,Block by Block2026-04-14
 NY,"Citibank, N.A.",2026-04-14,248,"Citibank, N.A.2026-04-14"
 CA,Redding Cement Plant,2026-04-14,53,Redding Cement Plant2026-04-14
@@ -365,7 +365,7 @@ IA,UnityPoint Health ,2026-04-14,N/A,UnityPoint Health 2026-04-14
 IA,Appliance Plus Cellular Inc,2026-04-14,N/A,Appliance Plus Cellular Inc2026-04-14
 IA,Appliance Plus Cellular Inc,2026-04-14,N/A,Appliance Plus Cellular Inc2026-04-14
 IA,Appliance Plus Cellular Inc,2026-04-14,N/A,Appliance Plus Cellular Inc2026-04-14
-AZ,"The Tendit Group, LLC.",2026-04-14,143,"The Tendit Group, LLC.2026-04-14"
+AZ,"The Tendit Group, LLC.",2026-04-14,N/A,"The Tendit Group, LLC.2026-04-14"
 CA,McGee Air Services,2026-04-14,29,McGee Air Services2026-04-14
 IA,Appliance Plus Cellular Inc,2026-04-14,N/A,Appliance Plus Cellular Inc2026-04-14
 IA,Appliance Plus Cellular Inc,2026-04-14,N/A,Appliance Plus Cellular Inc2026-04-14
@@ -512,7 +512,7 @@ CA,Union of Pan Asian Communities - Positive Solutions and Elder Multicultural A
 CA,Union of Pan Asian Communities - East Wind Clubhouse,2026-04-01,5,Union of Pan Asian Communities - East Wind Clubhouse2026-04-01
 CA,Consolidated Entertainment LLC (Reading Cinemas,2026-04-01,63,Consolidated Entertainment LLC (Reading Cinemas2026-04-01
 CA,Victoria Nursery,2026-04-01,62,Victoria Nursery2026-04-01
-AZ,"Aramark Campus, LLC",2026-04-01,108,"Aramark Campus, LLC2026-04-01"
+AZ,"Aramark Campus, LLC",2026-04-01,N/A,"Aramark Campus, LLC2026-04-01"
 CA,"Oracle America, Inc.",2026-04-01,50,"Oracle America, Inc.2026-04-01"
 CA,Morgan Technical Ceramics,2026-04-01,94,Morgan Technical Ceramics2026-04-01
 CT,PerkinElmer U.S. LLC,2026-04-01,N/A,PerkinElmer U.S. LLC2026-04-01
@@ -1466,7 +1466,7 @@ SC,Sodexo (HCA Grand Strand Medical),2026-01-31,85,Sodexo (HCA Grand Strand Medi
 CA,Legacy Supply Chain,2026-01-31,92,Legacy Supply Chain2026-01-31
 CA,Legacy Supply Chain,2026-01-31,8,Legacy Supply Chain2026-01-31
 CA,"Intrepid Studios, Inc.",2026-01-31,123,"Intrepid Studios, Inc.2026-01-31"
-KS,"Vornado Air, LLC.",2026-01-30,N/A,"Vornado Air, LLC.2026-01-30"
+KS,"Vornado Air, LLC.",2026-01-30,72,"Vornado Air, LLC.2026-01-30"
 MO,Unknown,2026-01-30,93,Unknown2026-01-30
 CA,Del Monte Foods Corporation II Inc - Modesto,2026-01-30,765,Del Monte Foods Corporation II Inc - Modesto2026-01-30
 CA,Del Monte Foods Corporation II Inc. - Hughson,2026-01-30,11,Del Monte Foods Corporation II Inc. - Hughson2026-01-30
@@ -1481,7 +1481,7 @@ CA,"Mercury Systems, Inc.",2026-01-30,18,"Mercury Systems, Inc.2026-01-30"
 IN,National Distribution Centers,2026-01-30,53,National Distribution Centers2026-01-30
 WA,Amazon,2026-01-30,N/A,Amazon2026-01-30
 WA,International Paper Company,2026-01-30,N/A,International Paper Company2026-01-30
-AZ,"Automated Harvesting, LLC.",2026-01-30,46,"Automated Harvesting, LLC.2026-01-30"
+AZ,"Automated Harvesting, LLC.",2026-01-30,N/A,"Automated Harvesting, LLC.2026-01-30"
 OK,Bright Horizons,2026-01-30,N/A,Bright Horizons2026-01-30
 CA,"MINACT, Inc.",2026-01-30,118,"MINACT, Inc.2026-01-30"
 MD,"MUFG Investor Services (US), LLC (MUIS)",2026-01-30,N/A,"MUFG Investor Services (US), LLC (MUIS)2026-01-30"
@@ -1489,7 +1489,7 @@ CA,V2X - NASA Armstrong Flight Research Center MS 1714,2026-01-30,62,V2X - NASA 
 SC,"SC Industrial Holdings, LLC",2026-01-30,78,"SC Industrial Holdings, LLC2026-01-30"
 OR,Kroger-00075-Prime,2026-01-29,N/A,Kroger-00075-Prime2026-01-29
 OR,Kroger-00040,2026-01-29,N/A,Kroger-000402026-01-29
-AZ,Shell Recharge Solutions,2026-01-29,2,Shell Recharge Solutions2026-01-29
+AZ,Shell Recharge Solutions,2026-01-29,N/A,Shell Recharge Solutions2026-01-29
 OR,"Lincare-Brookings, OR",2026-01-29,N/A,"Lincare-Brookings, OR2026-01-29"
 OR,"Three Pirates, LLC dba Point Blank Dist",2026-01-29,N/A,"Three Pirates, LLC dba Point Blank Dist2026-01-29"
 OR,Kroger-00125-Prime,2026-01-29,N/A,Kroger-00125-Prime2026-01-29
@@ -1581,7 +1581,7 @@ CA,"Catholic Charities, Diocese of San Diego - Mission Valley ASIP",2026-01-27,4
 VA,Bear Express LLC,2026-01-27,168,Bear Express LLC2026-01-27
 CA,JBT Marel Corporation,2026-01-27,59,JBT Marel Corporation2026-01-27
 CA,"Schultz Industrial Services, Inc.",2026-01-27,66,"Schultz Industrial Services, Inc.2026-01-27"
-AZ,Benchmark,2026-01-27,65,Benchmark2026-01-27
+AZ,Benchmark,2026-01-27,N/A,Benchmark2026-01-27
 IA,American Contract Systems ,2026-01-27,N/A,American Contract Systems 2026-01-27
 CA,Pinterest Inc. (San Francisco),2026-01-27,98,Pinterest Inc. (San Francisco)2026-01-27
 CA,"Catholic Charities, Diocese of San Diego - San Diego Migrant Shelter",2026-01-27,7,"Catholic Charities, Diocese of San Diego - San Diego Migrant Shelter2026-01-27"
