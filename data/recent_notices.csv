@@ -173,7 +173,7 @@ WA,Maersk,2026-05-01,N/A,Maersk2026-05-01
 IN,Cummins Inc,2026-05-01,59,Cummins Inc2026-05-01
 VA,KBR Wyle Services LLC,2026-05-01,118,KBR Wyle Services LLC2026-05-01
 CA,First Student,2026-05-01,170,First Student2026-05-01
-AZ,Advanced Call Center Technologies (ACT),2026-05-01,232,Advanced Call Center Technologies (ACT)2026-05-01
+AZ,Advanced Call Center Technologies (ACT),2026-05-01,N/A,Advanced Call Center Technologies (ACT)2026-05-01
 SC,"Parsec, LLC",2026-05-01,39,"Parsec, LLC2026-05-01"
 RI,Ideal US Talent Systems Worker OpCo LLC ,2026-05-01,98912,Ideal US Talent Systems Worker OpCo LLC 2026-05-01
 PA,"Post Consumer Brands, LLC",2026-05-01,11,"Post Consumer Brands, LLC2026-05-01"
@@ -199,7 +199,7 @@ MD,"Tuerk House, Inc.",2026-04-29,N/A,"Tuerk House, Inc.2026-04-29"
 MD,CBRE Government & Defense Services,2026-04-29,N/A,CBRE Government & Defense Services2026-04-29
 CA,"Skyline Avatar House, LP",2026-04-29,49,"Skyline Avatar House, LP2026-04-29"
 VA,Milestone Technologies Inc,2026-04-29,50,Milestone Technologies Inc2026-04-29
-AZ,Northpoint Expeditionary Learning Academy,2026-04-29,21,Northpoint Expeditionary Learning Academy2026-04-29
+AZ,Northpoint Expeditionary Learning Academy,2026-04-29,N/A,Northpoint Expeditionary Learning Academy2026-04-29
 OR,"Prineville, OR Facility",2026-04-29,N/A,"Prineville, OR Facility2026-04-29"
 VA,AeroFarms Inc. - Rescinded,2026-04-29,133,AeroFarms Inc. - Rescinded2026-04-29
 CA,Dudek,2026-04-29,36,Dudek2026-04-29
@@ -207,7 +207,7 @@ CA,"C&K Market, Inc.",2026-04-29,32,"C&K Market, Inc.2026-04-29"
 CA,Transdev,2026-04-29,126,Transdev2026-04-29
 UT,Milestone Technologies Inc.,2026-04-29,50,Milestone Technologies Inc.2026-04-29
 TN,Yanfeng International Automotive Technology US I LLC,2026-04-29,N/A,Yanfeng International Automotive Technology US I LLC2026-04-29
-AZ,Benchmark,2026-04-29,N/A,Benchmark2026-04-29
+AZ,Benchmark,2026-04-29,75,Benchmark2026-04-29
 CA,Geodis,2026-04-28,238,Geodis2026-04-28
 FL,"Atento 
 3350 SW 148th Avenue
@@ -228,7 +228,7 @@ NY,Amazon (Long Island),2026-04-28,71,Amazon (Long Island)2026-04-28
 NY,Amazon,2026-04-28,135,Amazon2026-04-28
 NJ,Amazon,2026-04-28,N/A,Amazon2026-04-28
 CA,"Raytheon, An RTX Business",2026-04-28,1,"Raytheon, An RTX Business2026-04-28"
-VT,Perrigo Company,2026-04-28,162,Perrigo Company2026-04-28
+VT,Perrigo Company,2026-04-28,N/A,Perrigo Company2026-04-28
 IA,Wells Fargo,2026-04-28,N/A,Wells Fargo2026-04-28
 CA,Black Tiger Medical Transportation,2026-04-27,82,Black Tiger Medical Transportation2026-04-27
 FL,"Msgr. Bryan Walsh Children’s Village 
@@ -292,7 +292,7 @@ AL,LineQuest LLC,2026-04-23,113,LineQuest LLC2026-04-23
 VA,Republic National Distributing Company LLC,2026-04-23,428,Republic National Distributing Company LLC2026-04-23
 MD,Apple Inc.,2026-04-23,N/A,Apple Inc.2026-04-23
 MD,"Republic National Distributing Company, LLC",2026-04-23,N/A,"Republic National Distributing Company, LLC2026-04-23"
-AZ,"Republic National Distributing Company, LLC",2026-04-23,213,"Republic National Distributing Company, LLC2026-04-23"
+AZ,"Republic National Distributing Company, LLC",2026-04-23,N/A,"Republic National Distributing Company, LLC2026-04-23"
 CA,Joe's Crab Shack,2026-04-22,44,Joe's Crab Shack2026-04-22
 FL,"Republic National Distributing Company 
 441 SW 12 Ave
@@ -384,7 +384,7 @@ CA,The Primary School,2026-04-15,147,The Primary School2026-04-15
 CA,Snap Inc.,2026-04-15,247,Snap Inc.2026-04-15
 AL,Serta Mattress Company,2026-04-15,102,Serta Mattress Company2026-04-15
 WA,Snap Inc.,2026-04-15,N/A,Snap Inc.2026-04-15
-AZ,"Marsden Services, LLC",2026-04-15,85,"Marsden Services, LLC2026-04-15"
+AZ,"Marsden Services, LLC",2026-04-15,N/A,"Marsden Services, LLC2026-04-15"
 TN,Pave It Forward Logistics,2026-04-15,N/A,Pave It Forward Logistics2026-04-15
 IA,Appliance Plus Cellular Inc,2026-04-14,N/A,Appliance Plus Cellular Inc2026-04-14
 IA,UnityPoint Health ,2026-04-14,N/A,UnityPoint Health 2026-04-14
@@ -474,7 +474,7 @@ CA,Sony Pictures Entertainment Inc.,2026-04-08,111,Sony Pictures Entertainment I
 CA,"Montessori West, Inc.",2026-04-08,35,"Montessori West, Inc.2026-04-08"
 CA,Qualcomm Incorporated (10445 Pacific Center Court),2026-04-08,2,Qualcomm Incorporated (10445 Pacific Center Court)2026-04-08
 CA,Qualcomm Incorporated (5565 Morehouse Drive),2026-04-08,10,Qualcomm Incorporated (5565 Morehouse Drive)2026-04-08
-AZ,"Catholic Community Services of Southern Arizona, Inc.",2026-04-08,N/A,"Catholic Community Services of Southern Arizona, Inc.2026-04-08"
+AZ,"Catholic Community Services of Southern Arizona, Inc.",2026-04-08,74,"Catholic Community Services of Southern Arizona, Inc.2026-04-08"
 CA,Prepa Tec Los Angeles campus,2026-04-07,42,Prepa Tec Los Angeles campus2026-04-07
 CA,Wellpath and CFMG - South Placer Jail,2026-04-07,35,Wellpath and CFMG - South Placer Jail2026-04-07
 CA,Wellpath and CFMG - Placer Juvi Detention,2026-04-07,4,Wellpath and CFMG - Placer Juvi Detention2026-04-07
@@ -530,7 +530,7 @@ MD,Leidos,2026-04-02,N/A,Leidos2026-04-02
 CA,Qualcomm Incorporated (5565 Morehouse Drive),2026-04-02,13,Qualcomm Incorporated (5565 Morehouse Drive)2026-04-02
 CA,Good Sports Plus Ltd. dba Brawley Union High School,2026-04-02,6,Good Sports Plus Ltd. dba Brawley Union High School2026-04-02
 IA,First Student,2026-04-02,N/A,First Student2026-04-02
-AZ,"Aramark Campus, LLC",2026-04-01,N/A,"Aramark Campus, LLC2026-04-01"
+AZ,"Aramark Campus, LLC",2026-04-01,108,"Aramark Campus, LLC2026-04-01"
 CA,"Oracle America, Inc.",2026-04-01,50,"Oracle America, Inc.2026-04-01"
 CA,Victoria Nursery,2026-04-01,62,Victoria Nursery2026-04-01
 CA,Consolidated Entertainment LLC (Reading Cinemas,2026-04-01,63,Consolidated Entertainment LLC (Reading Cinemas2026-04-01
@@ -630,7 +630,7 @@ CA,DASH Industries,2026-03-26,80,DASH Industries2026-03-26
 RI,"Allied Group, LLC",2026-03-26,154,"Allied Group, LLC2026-03-26"
 CA,"Kay and Associates, Inc.",2026-03-26,103,"Kay and Associates, Inc.2026-03-26"
 CA,Welcome Palm Springs LLC dba Riviera Resort & Spa Palm Springs,2026-03-26,233,Welcome Palm Springs LLC dba Riviera Resort & Spa Palm Springs2026-03-26
-AZ,"Sinomax East, Inc.",2026-03-26,89,"Sinomax East, Inc.2026-03-26"
+AZ,"Sinomax East, Inc.",2026-03-26,N/A,"Sinomax East, Inc.2026-03-26"
 MD,Evonik Corporation,2026-03-25,N/A,Evonik Corporation2026-03-25
 CA,Comprehensive Autism Center,2026-03-25,27,Comprehensive Autism Center2026-03-25
 CA,Comprehensive Autism Center,2026-03-25,35,Comprehensive Autism Center2026-03-25
@@ -1150,10 +1150,10 @@ MD,"Lowe’s Companies, Inc.",2026-02-17,N/A,"Lowe’s Companies, Inc.2026-02-17
 CA,California Resources Corporation - (River Run),2026-02-17,46,California Resources Corporation - (River Run)2026-02-17
 VA,AOL,2026-02-17,108,AOL2026-02-17
 CA,"Red O La Jolla, LCC",2026-02-16,91,"Red O La Jolla, LCC2026-02-16"
-AZ,"Lowe's Companies, Inc.",2026-02-16,12,"Lowe's Companies, Inc.2026-02-16"
+AZ,"Lowe's Companies, Inc.",2026-02-16,N/A,"Lowe's Companies, Inc.2026-02-16"
 WA,"Peshastin Pear Packers, LLC.",2026-02-16,N/A,"Peshastin Pear Packers, LLC.2026-02-16"
 UT,Sheraton,2026-02-15,100,Sheraton2026-02-15
-OR,Oregon - Remote Employees,2026-02-13,N/A,Oregon - Remote Employees2026-02-13
+OR,Albany/Millersburg,2026-02-13,N/A,Albany/Millersburg2026-02-13
 CA,De La Pena Eye Clinic - DLP Van Nuys,2026-02-13,19,De La Pena Eye Clinic - DLP Van Nuys2026-02-13
 CA,Med-Laser Surgical Center LLC,2026-02-13,22,Med-Laser Surgical Center LLC2026-02-13
 CA,Topanga Social Manager. LLC - Topanga Social Food Hall,2026-02-13,131,Topanga Social Manager. LLC - Topanga Social Food Hall2026-02-13
@@ -1170,7 +1170,7 @@ CA,Outdoor Research,2026-02-13,50,Outdoor Research2026-02-13
 CA,LPL Financial LLC,2026-02-13,72,LPL Financial LLC2026-02-13
 CA,De La Pena Eye Clinic - DLP Commerce,2026-02-13,38,De La Pena Eye Clinic - DLP Commerce2026-02-13
 NY,"Glossier, Inc.",2026-02-13,41,"Glossier, Inc.2026-02-13"
-OR,Albany/Millersburg,2026-02-13,N/A,Albany/Millersburg2026-02-13
+OR,Oregon - Remote Employees,2026-02-13,N/A,Oregon - Remote Employees2026-02-13
 KS,Lowe's,2026-02-13,3,Lowe's2026-02-13
 FL,"ILLUMUS 
 320 Knox McRae Drive
@@ -1517,11 +1517,11 @@ AZ,"Automated Harvesting, LLC.",2026-01-30,N/A,"Automated Harvesting, LLC.2026-0
 WA,International Paper Company,2026-01-30,N/A,International Paper Company2026-01-30
 OR,Kroger-00125-Prime,2026-01-29,N/A,Kroger-00125-Prime2026-01-29
 CA,Amazon,2026-01-29,89,Amazon2026-01-29
-OR,Kroger-00090,2026-01-29,N/A,Kroger-000902026-01-29
+OR,Kroger-00063,2026-01-29,N/A,Kroger-000632026-01-29
 OR,Kroger-00150-Prime,2026-01-29,N/A,Kroger-00150-Prime2026-01-29
 OR,Kroger-00240,2026-01-29,N/A,Kroger-002402026-01-29
 OR,Kroger-00600-Prime,2026-01-29,N/A,Kroger-00600-Prime2026-01-29
-OR,"Lincare-Brookings, OR",2026-01-29,N/A,"Lincare-Brookings, OR2026-01-29"
+OR,Kroger-00090,2026-01-29,N/A,Kroger-000902026-01-29
 CA,Amazon - SNA 16,2026-01-29,24,Amazon - SNA 162026-01-29
 CA,Amazon (SJC44),2026-01-29,49,Amazon (SJC44)2026-01-29
 OR,Kroger-00135,2026-01-29,N/A,Kroger-001352026-01-29
@@ -1537,7 +1537,7 @@ CA,Amazon,2026-01-29,72,Amazon2026-01-29
 OR,Kroger-00360-Prime,2026-01-29,N/A,Kroger-00360-Prime2026-01-29
 OR,Kroger-00417,2026-01-29,N/A,Kroger-004172026-01-29
 OR,Kroger-00075-Prime,2026-01-29,N/A,Kroger-00075-Prime2026-01-29
-OR,Kroger-00063,2026-01-29,N/A,Kroger-000632026-01-29
+OR,"Lincare-Brookings, OR",2026-01-29,N/A,"Lincare-Brookings, OR2026-01-29"
 OR,Kroger-00127-Prime,2026-01-29,N/A,Kroger-00127-Prime2026-01-29
 OR,Kroger-00153,2026-01-29,N/A,Kroger-001532026-01-29
 OR,Kroger-00128-Prime,2026-01-29,N/A,Kroger-00128-Prime2026-01-29
@@ -1607,7 +1607,7 @@ MD,Amazon - MAH5 facility,2026-01-28,N/A,Amazon - MAH5 facility2026-01-28
 MD,Amazon - MAT8 facility,2026-01-28,N/A,Amazon - MAT8 facility2026-01-28
 IA,American Contract Systems ,2026-01-27,N/A,American Contract Systems 2026-01-27
 CA,"Western Digital Technologies, Inc.",2026-01-27,47,"Western Digital Technologies, Inc.2026-01-27"
-AZ,Benchmark,2026-01-27,N/A,Benchmark2026-01-27
+AZ,Benchmark,2026-01-27,65,Benchmark2026-01-27
 CA,Thermo Fisher Scientific,2026-01-27,173,Thermo Fisher Scientific2026-01-27
 VA,Bear Express LLC,2026-01-27,168,Bear Express LLC2026-01-27
 CA,"Catholic Charities, Diocese of San Diego - San Diego Migrant Shelter",2026-01-27,7,"Catholic Charities, Diocese of San Diego - San Diego Migrant Shelter2026-01-27"
@@ -1759,7 +1759,7 @@ CA,Hupp Draft Services,2026-01-11,75,Hupp Draft Services2026-01-11
 CA,Local Initiative Health Authority for Los Angeles County dba L.A. Care Health Plan,2026-01-09,225,Local Initiative Health Authority for Los Angeles County dba L.A. Care Health Plan2026-01-09
 CA,Macy's,2026-01-09,77,Macy's2026-01-09
 CA,Cucina Enoteca Del Mar,2026-01-09,43,Cucina Enoteca Del Mar2026-01-09
-AZ,SMBC Group - JeniusBank,2026-01-08,N/A,SMBC Group - JeniusBank2026-01-08
+AZ,SMBC Group - JeniusBank,2026-01-08,33,SMBC Group - JeniusBank2026-01-08
 FL,"SMBC MANUBANK 
 Jacksonville
 515 South Figueroa Street Los Angeles, CA 90071
@@ -1846,7 +1846,7 @@ LAND O LAKES, FL, 335992026-01-08"
 CA,Pomona Hospital Medical Center (1798),2026-01-07,108,Pomona Hospital Medical Center (1798)2026-01-07
 CA,Pomona Hospital Medical Center (1601),2026-01-07,1,Pomona Hospital Medical Center (1601)2026-01-07
 CA,Pomona Hospital Medical Center (300),2026-01-07,4,Pomona Hospital Medical Center (300)2026-01-07
-AZ,GNC Distribution Center,2026-01-07,N/A,GNC Distribution Center2026-01-07
+AZ,GNC Distribution Center,2026-01-07,66,GNC Distribution Center2026-01-07
 AZ,Avelo Airlines,2026-01-07,N/A,Avelo Airlines2026-01-07
 WA,Tessera,2026-01-06,N/A,Tessera2026-01-06
 WA,Swedish Health Services,2026-01-06,N/A,Swedish Health Services2026-01-06
