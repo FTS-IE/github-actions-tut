@@ -1,15 +1,9 @@
 employer,notice_date,number_of_employees_affected,warn_type,city,zip,lwib_area,address,record_number,detail_page_url
 "Atlas Hospitality Group, LLC","Apr 30, 2026",67,WARN,Baltimore,21231,1 - Statewide,"1429 Aliceanna Street; Baltimore, Maryland 21231",110,https://joblink.delaware.gov/search/warn_lookups/110
 Quality Built LLC,"Jul 07, 2025",,WARN,Fort Lauderdale,33301,1 - Statewide,,109,https://joblink.delaware.gov/search/warn_lookups/109
-"Harrington Logistics, LLC","Mar 31, 2025",,WARN,Harrington,19952,1 - Statewide,,108,https://joblink.delaware.gov/search/warn_lookups/108
-ILC Dover,"Apr 26, 2023",41,WARN,Frederica,19946,1 - Statewide,"1 Moonwalker Rd; Frederica, Delaware 19946",106,https://joblink.delaware.gov/search/warn_lookups/106
+"Harrington Logistics, LLC","Mar 31, 2025",151,WARN,Harrington,19952,1 - Statewide,"111 Reese Ave; Harrington, Delaware 19952",108,https://joblink.delaware.gov/search/warn_lookups/108
+ILC Dover,"Apr 26, 2023",,WARN,Frederica,19946,1 - Statewide,,106,https://joblink.delaware.gov/search/warn_lookups/106
 "Centurion of Delaware, LLC","May 09, 2023",,WARN,Dover,19904,1 - Statewide,,107,https://joblink.delaware.gov/search/warn_lookups/107
-Thomson Reuters,"Dec 05, 2018",14,Non-WARN,,,1 - Statewide,,68,https://joblink.delaware.gov/search/warn_lookups/68
-PPG Architectural Coatings,"Jun 07, 2018",66,WARN,,,1 - Statewide,,60,https://joblink.delaware.gov/search/warn_lookups/60
-Sears Holdings Prices Corner,"Jan 04, 2018",,WARN,,,1 - Statewide,,62,https://joblink.delaware.gov/search/warn_lookups/62
-"Formosa Plastics Corp., USA","Jul 25, 2018",,WARN,,,1 - Statewide,,65,https://joblink.delaware.gov/search/warn_lookups/65
-Thomson Reuters,"Dec 05, 2018",,Non-WARN,,,1 - Statewide,,66,https://joblink.delaware.gov/search/warn_lookups/66
-Hygience,"Aug 02, 2018",,Non-WARN,,,1 - Statewide,,67,https://joblink.delaware.gov/search/warn_lookups/67
 Legacy Supply Chain Services,"Feb 06, 2015",122,WARN,,,1 - Statewide,,46,https://joblink.delaware.gov/search/warn_lookups/46
 OCI/Service Source,"Mar 06, 2015",33,Non-WARN,,,1 - Statewide,,47,https://joblink.delaware.gov/search/warn_lookups/47
 Chemours,"Jul 06, 2015",,WARN,974 Centre Road,19805,1 - Statewide,,48,https://joblink.delaware.gov/search/warn_lookups/48
@@ -35,8 +29,8 @@ Allied Automotive Group,"Jun 23, 2009",,WARN,,,1 - Statewide,,22,https://joblink
 Jacobson Companies,"Aug 28, 2009",,WARN,,,1 - Statewide,,24,https://joblink.delaware.gov/search/warn_lookups/24
 HGA Quest,"Jun 16, 2009",,WARN,,,1 - Statewide,,25,https://joblink.delaware.gov/search/warn_lookups/25
 Lyondell/Basell,"Jun 22, 2009",,WARN,,,1 - Statewide,,26,https://joblink.delaware.gov/search/warn_lookups/26
-WolfBlock LLP,"Mar 26, 2009",5,WARN,,,1 - Statewide,,27,https://joblink.delaware.gov/search/warn_lookups/27
-Valero Delaware City,"Sep 14, 2009",0,WARN,,,1 - Statewide,,28,https://joblink.delaware.gov/search/warn_lookups/28
-Valero Delaware City Refinery,"Nov 20, 2009",550,WARN,,,1 - Statewide,,29,https://joblink.delaware.gov/search/warn_lookups/29
+WolfBlock LLP,"Mar 26, 2009",,WARN,,,1 - Statewide,,27,https://joblink.delaware.gov/search/warn_lookups/27
+Valero Delaware City,"Sep 14, 2009",,WARN,,,1 - Statewide,,28,https://joblink.delaware.gov/search/warn_lookups/28
+Valero Delaware City Refinery,"Nov 20, 2009",,WARN,,,1 - Statewide,,29,https://joblink.delaware.gov/search/warn_lookups/29
 HMSHost,"Jul 01, 2009",,WARN,,,1 - Statewide,,32,https://joblink.delaware.gov/search/warn_lookups/32
 DHL Express,"Jan 06, 2009",,WARN,,,1 - Statewide,,33,https://joblink.delaware.gov/search/warn_lookups/33
