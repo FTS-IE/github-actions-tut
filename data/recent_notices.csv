@@ -76,7 +76,7 @@ NY,Rising Ground Inc.,2026-05-21,15,Rising Ground Inc.2026-05-21
 NY,Rising Ground Inc.,2026-05-21,27,Rising Ground Inc.2026-05-21
 NY,Rising Ground Inc.,2026-05-21,43,Rising Ground Inc.2026-05-21
 IA,"Rhiners' Plumbing Co, Inc",2026-05-21,N/A,"Rhiners' Plumbing Co, Inc2026-05-21"
-AZ,"National Distribution Centers, LLC",2026-05-21,96,"National Distribution Centers, LLC2026-05-21"
+AZ,"National Distribution Centers, LLC",2026-05-21,N/A,"National Distribution Centers, LLC2026-05-21"
 NY,Rising Ground Inc.,2026-05-21,17,Rising Ground Inc.2026-05-21
 CA,"Credit Karma, LLC",2026-05-20,117,"Credit Karma, LLC2026-05-20"
 CA,"Flagship Facilities Services, LLC",2026-05-20,178,"Flagship Facilities Services, LLC2026-05-20"
@@ -270,7 +270,7 @@ CA,Five Guys Operations - Store No. 1323,2026-05-03,13,Five Guys Operations - St
 PA,Federal Express Corporation,2026-05-02,63,Federal Express Corporation2026-05-02
 NJ,Spirit Airlines,2026-05-02,201,Spirit Airlines2026-05-02
 NY,"Spirit Airlines, LLC",2026-05-02,186,"Spirit Airlines, LLC2026-05-02"
-AZ,Advanced Call Center Technologies (ACT),2026-05-01,232,Advanced Call Center Technologies (ACT)2026-05-01
+AZ,Advanced Call Center Technologies (ACT),2026-05-01,N/A,Advanced Call Center Technologies (ACT)2026-05-01
 SC,"Parsec, LLC",2026-05-01,39,"Parsec, LLC2026-05-01"
 RI,Ideal US Talent Systems Worker OpCo LLC ,2026-05-01,98912,Ideal US Talent Systems Worker OpCo LLC 2026-05-01
 CA,Stepping Stone,2026-05-01,8,Stepping Stone2026-05-01
@@ -287,7 +287,7 @@ VA,Ideal US Talent Worker OpCo LLC,2026-05-01,776,Ideal US Talent Worker OpCo LL
 WA,Maersk,2026-05-01,N/A,Maersk2026-05-01
 CA,First Student,2026-05-01,170,First Student2026-05-01
 IN,Cummins Inc,2026-05-01,59,Cummins Inc2026-05-01
-KS,First Student,2026-05-01,N/A,First Student2026-05-01
+KS,First Student,2026-05-01,151,First Student2026-05-01
 CA,"Bayless Manufacturing, LLC",2026-05-01,16,"Bayless Manufacturing, LLC2026-05-01"
 CA,"Bayless Manufacturing, LLC",2026-05-01,3,"Bayless Manufacturing, LLC2026-05-01"
 CA,"Bayless Manufacturing, LLC",2026-05-01,43,"Bayless Manufacturing, LLC2026-05-01"
@@ -315,13 +315,13 @@ VA,Milestone Technologies Inc,2026-04-29,50,Milestone Technologies Inc2026-04-29
 VA,AeroFarms Inc. - Rescinded,2026-04-29,133,AeroFarms Inc. - Rescinded2026-04-29
 CA,"Skyline Avatar House, LP",2026-04-29,49,"Skyline Avatar House, LP2026-04-29"
 UT,Milestone Technologies Inc.,2026-04-29,50,Milestone Technologies Inc.2026-04-29
-AZ,Northpoint Expeditionary Learning Academy,2026-04-29,21,Northpoint Expeditionary Learning Academy2026-04-29
+AZ,Northpoint Expeditionary Learning Academy,2026-04-29,N/A,Northpoint Expeditionary Learning Academy2026-04-29
 OR,"Prineville, OR Facility",2026-04-29,N/A,"Prineville, OR Facility2026-04-29"
 MD,CBRE Government & Defense Services,2026-04-29,N/A,CBRE Government & Defense Services2026-04-29
 MD,Crothall Healthcare,2026-04-29,N/A,Crothall Healthcare2026-04-29
 MD,"Tuerk House, Inc.",2026-04-29,N/A,"Tuerk House, Inc.2026-04-29"
 TN,Yanfeng International Automotive Technology US I LLC,2026-04-29,N/A,Yanfeng International Automotive Technology US I LLC2026-04-29
-AZ,Benchmark,2026-04-29,75,Benchmark2026-04-29
+AZ,Benchmark,2026-04-29,N/A,Benchmark2026-04-29
 CA,Geodis,2026-04-28,238,Geodis2026-04-28
 NY,Amazon (Long Island),2026-04-28,71,Amazon (Long Island)2026-04-28
 CA,California Academy of Sciences,2026-04-28,53,California Academy of Sciences2026-04-28
@@ -331,7 +331,7 @@ NY,Amazon,2026-04-28,135,Amazon2026-04-28
 CA,"Raytheon, An RTX Business",2026-04-28,1,"Raytheon, An RTX Business2026-04-28"
 CA,The Primary School (1765 East Bayshore Rd. Ste. 111),2026-04-28,22,The Primary School (1765 East Bayshore Rd. Ste. 111)2026-04-28
 CA,The Primary School (2086 Clarke Ave),2026-04-28,100,The Primary School (2086 Clarke Ave)2026-04-28
-VT,Perrigo Company,2026-04-28,162,Perrigo Company2026-04-28
+VT,Perrigo Company,2026-04-28,N/A,Perrigo Company2026-04-28
 NY,Amazon (Long Island),2026-04-28,44,Amazon (Long Island)2026-04-28
 CA,The Primary School (750 Fargo Ave),2026-04-28,25,The Primary School (750 Fargo Ave)2026-04-28
 FL,"Atento 
@@ -409,7 +409,7 @@ HI,"Republic National Distributing Company, LLC (RNDC)",2026-04-23,N/A,"Republic
 CA,Epic Games Inc.,2026-04-23,16,Epic Games Inc.2026-04-23
 CA,Epic Games Inc.,2026-04-23,28,Epic Games Inc.2026-04-23
 AL,LineQuest LLC,2026-04-23,113,LineQuest LLC2026-04-23
-AZ,"Republic National Distributing Company, LLC",2026-04-23,213,"Republic National Distributing Company, LLC2026-04-23"
+AZ,"Republic National Distributing Company, LLC",2026-04-23,N/A,"Republic National Distributing Company, LLC2026-04-23"
 FL,"Republic National Distributing Company 
 Savarese Circle North
 
@@ -486,7 +486,7 @@ ORLANDO, FL, 32801",2026-04-17,50,"Iron Galaxy Studios, LLC
 189 S Orange Ave STE 1900
 
 ORLANDO, FL, 328012026-04-17"
-AZ,DLH Solutions Inc,2026-04-17,312,DLH Solutions Inc2026-04-17
+AZ,DLH Solutions Inc,2026-04-17,N/A,DLH Solutions Inc2026-04-17
 SC,Milliken (Cedar Hill Plant),2026-04-17,126,Milliken (Cedar Hill Plant)2026-04-17
 CA,YMCA Bill Libbon Elementary School,2026-04-17,11,YMCA Bill Libbon Elementary School2026-04-17
 CA,Paramount Skydance Corporation,2026-04-16,2,Paramount Skydance Corporation2026-04-16
@@ -747,7 +747,7 @@ CA,Welcome Palm Springs LLC dba Riviera Resort & Spa Palm Springs,2026-03-26,233
 RI,"Allied Group, LLC",2026-03-26,154,"Allied Group, LLC2026-03-26"
 CA,DASH Industries,2026-03-26,80,DASH Industries2026-03-26
 CA,"Kay and Associates, Inc.",2026-03-26,103,"Kay and Associates, Inc.2026-03-26"
-AZ,"Sinomax East, Inc.",2026-03-26,89,"Sinomax East, Inc.2026-03-26"
+AZ,"Sinomax East, Inc.",2026-03-26,N/A,"Sinomax East, Inc.2026-03-26"
 MD,"Maryland and Virginia Milk Producers Cooperative Association, Inc. d/b/a Maola",2026-03-26,N/A,"Maryland and Virginia Milk Producers Cooperative Association, Inc. d/b/a Maola2026-03-26"
 OR,Horizon Air - Rogue Valley Internationa,2026-03-26,N/A,Horizon Air - Rogue Valley Internationa2026-03-26
 CA,"MAG Brand Group, LLC",2026-03-25,53,"MAG Brand Group, LLC2026-03-25"
@@ -1270,7 +1270,7 @@ MD,Breakthru Beverage Group,2026-02-17,N/A,Breakthru Beverage Group2026-02-17
 MD,"Lowe’s Companies, Inc.",2026-02-17,N/A,"Lowe’s Companies, Inc.2026-02-17"
 CA,"Red O La Jolla, LCC",2026-02-16,91,"Red O La Jolla, LCC2026-02-16"
 WA,"Peshastin Pear Packers, LLC.",2026-02-16,N/A,"Peshastin Pear Packers, LLC.2026-02-16"
-AZ,"Lowe's Companies, Inc.",2026-02-16,12,"Lowe's Companies, Inc.2026-02-16"
+AZ,"Lowe's Companies, Inc.",2026-02-16,N/A,"Lowe's Companies, Inc.2026-02-16"
 UT,Sheraton,2026-02-15,100,Sheraton2026-02-15
 CA,LPL Financial LLC,2026-02-13,72,LPL Financial LLC2026-02-13
 CA,Outdoor Research,2026-02-13,50,Outdoor Research2026-02-13
@@ -1294,7 +1294,7 @@ OR,Albany/Millersburg,2026-02-13,N/A,Albany/Millersburg2026-02-13
 CA,De La Pena Eye Clinic - DLP Van Nuys,2026-02-13,19,De La Pena Eye Clinic - DLP Van Nuys2026-02-13
 OR,Oregon - Remote Employees,2026-02-13,N/A,Oregon - Remote Employees2026-02-13
 PA,"GIANT Company, LLC",2026-02-13,128,"GIANT Company, LLC2026-02-13"
-KS,Lowe's,2026-02-13,N/A,Lowe's2026-02-13
+KS,Lowe's,2026-02-13,3,Lowe's2026-02-13
 CA,"Main Street Sports Group, LLC",2026-02-13,97,"Main Street Sports Group, LLC2026-02-13"
 CA,De La Pena Eye Clinic - DLP Santa Ana,2026-02-13,6,De La Pena Eye Clinic - DLP Santa Ana2026-02-13
 CA,Med-Laser Surgical Center LLC,2026-02-13,22,Med-Laser Surgical Center LLC2026-02-13
@@ -1950,7 +1950,7 @@ BONITA SPRINGS, FL, 33931",2026-01-08,1,"SMBC MANUBANK
 Bonita Springs
 515 South Figueroa Street Los Angeles, CA 90071
 BONITA SPRINGS, FL, 339312026-01-08"
-AZ,SMBC Group - JeniusBank,2026-01-08,33,SMBC Group - JeniusBank2026-01-08
+AZ,SMBC Group - JeniusBank,2026-01-08,N/A,SMBC Group - JeniusBank2026-01-08
 FL,"SMBC MANUBANK 
 Miami
 515 South Figueroa Street Los Angeles, CA 90071
@@ -1963,10 +1963,10 @@ WA,SMBC Manubank,2026-01-08,N/A,SMBC Manubank2026-01-08
 VA,SMBC Manubank,2026-01-08,6,SMBC Manubank2026-01-08
 UT,SMBC Manubank,2026-01-08,1,SMBC Manubank2026-01-08
 CA,Pomona Hospital Medical Center (1798),2026-01-07,108,Pomona Hospital Medical Center (1798)2026-01-07
-AZ,Avelo Airlines,2026-01-07,97,Avelo Airlines2026-01-07
+AZ,Avelo Airlines,2026-01-07,N/A,Avelo Airlines2026-01-07
 CA,Pomona Hospital Medical Center (300),2026-01-07,4,Pomona Hospital Medical Center (300)2026-01-07
 CA,Pomona Hospital Medical Center (1601),2026-01-07,1,Pomona Hospital Medical Center (1601)2026-01-07
-AZ,GNC Distribution Center,2026-01-07,66,GNC Distribution Center2026-01-07
+AZ,GNC Distribution Center,2026-01-07,N/A,GNC Distribution Center2026-01-07
 WA,Tessera,2026-01-06,N/A,Tessera2026-01-06
 CO,Tessera Therapeutics,2026-01-06,1,Tessera Therapeutics2026-01-06
 CA,"Med-Pharmex, Inc.",2026-01-06,130,"Med-Pharmex, Inc.2026-01-06"
