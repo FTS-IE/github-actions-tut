@@ -85,13 +85,13 @@ MIAMI, FL, 33147",2026-05-29,56,"Maersk
 
 MIAMI, FL, 331472026-05-29"
 NJ,IPIC Theaters,2026-05-28,97,IPIC Theaters2026-05-28
-VT,Franklin Foods,2026-05-28,99,Franklin Foods2026-05-28
+VT,Franklin Foods,2026-05-28,N/A,Franklin Foods2026-05-28
 OR,PacificSource,2026-05-27,N/A,PacificSource2026-05-27
 OR,PacificSource - Bend,2026-05-27,N/A,PacificSource - Bend2026-05-27
 OR,PacificSource - Portland,2026-05-27,N/A,PacificSource - Portland2026-05-27
 OR,PacificSource - Salem,2026-05-27,N/A,PacificSource - Salem2026-05-27
 PA,Lineage Logistics,2026-05-27,208,Lineage Logistics2026-05-27
-AZ,Honeywell AZ0Y,2026-05-27,60,Honeywell AZ0Y2026-05-27
+AZ,Honeywell AZ0Y,2026-05-27,N/A,Honeywell AZ0Y2026-05-27
 TN,Dura-Shiloh,2026-05-26,N/A,Dura-Shiloh2026-05-26
 IA,Wells Fargo,2026-05-26,N/A,Wells Fargo2026-05-26
 OR,Safeway Store 0378 - Newport,2026-05-26,N/A,Safeway Store 0378 - Newport2026-05-26
@@ -331,7 +331,7 @@ NY,Saks & Company LLC,2026-05-01,3,Saks & Company LLC2026-05-01
 NY,Saks & Company LLC,2026-05-01,24,Saks & Company LLC2026-05-01
 NY,Saks & Company LLC,2026-05-01,136,Saks & Company LLC2026-05-01
 IN,Cummins Inc,2026-05-01,59,Cummins Inc2026-05-01
-KS,First Student,2026-05-01,151,First Student2026-05-01
+KS,First Student,2026-05-01,N/A,First Student2026-05-01
 WA,Maersk,2026-05-01,N/A,Maersk2026-05-01
 WA,Maersk,2026-05-01,N/A,Maersk2026-05-01
 PA,"Post Consumer Brands, LLC",2026-05-01,11,"Post Consumer Brands, LLC2026-05-01"
@@ -371,7 +371,7 @@ VA,Milestone Technologies Inc,2026-04-29,50,Milestone Technologies Inc2026-04-29
 TN,Yanfeng International Automotive Technology US I LLC,2026-04-29,N/A,Yanfeng International Automotive Technology US I LLC2026-04-29
 CA,"Skyline Avatar House, LP",2026-04-29,49,"Skyline Avatar House, LP2026-04-29"
 OR,"Prineville, OR Facility",2026-04-29,N/A,"Prineville, OR Facility2026-04-29"
-AZ,Benchmark,2026-04-29,N/A,Benchmark2026-04-29
+AZ,Benchmark,2026-04-29,75,Benchmark2026-04-29
 MD,"Tuerk House, Inc.",2026-04-29,N/A,"Tuerk House, Inc.2026-04-29"
 MD,Crothall Healthcare,2026-04-29,N/A,Crothall Healthcare2026-04-29
 CA,Dudek,2026-04-29,36,Dudek2026-04-29
@@ -560,7 +560,7 @@ CA,Snap Inc.,2026-04-15,247,Snap Inc.2026-04-15
 AL,Serta Mattress Company,2026-04-15,102,Serta Mattress Company2026-04-15
 IA,Appliance Plus Cellular Inc,2026-04-14,N/A,Appliance Plus Cellular Inc2026-04-14
 CA,Block by Block,2026-04-14,47,Block by Block2026-04-14
-AZ,"The Tendit Group, LLC.",2026-04-14,143,"The Tendit Group, LLC.2026-04-14"
+AZ,"The Tendit Group, LLC.",2026-04-14,N/A,"The Tendit Group, LLC.2026-04-14"
 CT,"Main Street Sports Group, LLC",2026-04-14,N/A,"Main Street Sports Group, LLC2026-04-14"
 VA,Central Garden &amp; Pet,2026-04-14,94,Central Garden &amp; Pet2026-04-14
 MO,Unknown,2026-04-14,25,Unknown2026-04-14
@@ -623,12 +623,12 @@ CA,"Aramark Campus, LLC",2026-04-10,49,"Aramark Campus, LLC2026-04-10"
 TN,Durham School Services,2026-04-10,N/A,Durham School Services2026-04-10
 TN,Legacy Supply Chain,2026-04-10,N/A,Legacy Supply Chain2026-04-10
 NJ,SFC Global Supply Chain,2026-04-10,170,SFC Global Supply Chain2026-04-10
-AZ,VisionQuest National LTD,2026-04-09,203,VisionQuest National LTD2026-04-09
+AZ,VisionQuest National LTD,2026-04-09,N/A,VisionQuest National LTD2026-04-09
 AL,Legacy Supply Chain Operations,2026-04-09,6,Legacy Supply Chain Operations2026-04-09
 CA,Sumisho Air Lease Corporation,2026-04-09,53,Sumisho Air Lease Corporation2026-04-09
 CA,Carnegie Science Institution of Washington,2026-04-09,27,Carnegie Science Institution of Washington2026-04-09
 CA,Qualcomm Incorporated (6455 Lusk Blvd.),2026-04-08,2,Qualcomm Incorporated (6455 Lusk Blvd.)2026-04-08
-AZ,"Catholic Community Services of Southern Arizona, Inc.",2026-04-08,74,"Catholic Community Services of Southern Arizona, Inc.2026-04-08"
+AZ,"Catholic Community Services of Southern Arizona, Inc.",2026-04-08,N/A,"Catholic Community Services of Southern Arizona, Inc.2026-04-08"
 CA,"Montessori West, Inc.",2026-04-08,35,"Montessori West, Inc.2026-04-08"
 CA,Sony Pictures Entertainment Inc.,2026-04-08,111,Sony Pictures Entertainment Inc.2026-04-08
 CA,Sony Pictures Entertainment Inc.,2026-04-08,6,Sony Pictures Entertainment Inc.2026-04-08
@@ -778,7 +778,7 @@ CA,"Sentinel Transportation, LLC",2026-03-30,10,"Sentinel Transportation, LLC202
 CA,"Sentinel Transportation, LLC",2026-03-30,1,"Sentinel Transportation, LLC2026-03-30"
 CA,"Sentinel Transportation, LLC",2026-03-30,3,"Sentinel Transportation, LLC2026-03-30"
 MD,General Dynamics Information Technology,2026-03-27,N/A,General Dynamics Information Technology2026-03-27
-KS,Ashley Clinic/Southeast Kansas Mental Health Center,2026-03-27,N/A,Ashley Clinic/Southeast Kansas Mental Health Center2026-03-27
+KS,Ashley Clinic/Southeast Kansas Mental Health Center,2026-03-27,116,Ashley Clinic/Southeast Kansas Mental Health Center2026-03-27
 CA,Crittenton (201 W. Amerige Ave),2026-03-27,37,Crittenton (201 W. Amerige Ave)2026-03-27
 FL,"HCL America, Inc 
 9002 San Marco Court
@@ -1217,7 +1217,7 @@ CA,Lumileds LLC,2026-02-24,24,Lumileds LLC2026-02-24
 NY,"Ultrepet, LLC. d/b/a Evergreen Recycling, LLC.",2026-02-24,59,"Ultrepet, LLC. d/b/a Evergreen Recycling, LLC.2026-02-24"
 CA,VCA Bay Area Veterinary Specialists & Emergency Hospital,2026-02-24,91,VCA Bay Area Veterinary Specialists & Emergency Hospital2026-02-24
 MD,Viskon-Aire Corporation,2026-02-24,N/A,Viskon-Aire Corporation2026-02-24
-KS,"First Brands Group, LLC (Hopkins)",2026-02-23,N/A,"First Brands Group, LLC (Hopkins)2026-02-23"
+KS,"First Brands Group, LLC (Hopkins)",2026-02-23,81,"First Brands Group, LLC (Hopkins)2026-02-23"
 MD,Duality Ventures LLC,2026-02-23,N/A,Duality Ventures LLC2026-02-23
 NY,Seaport Entertainment Management LLC,2026-02-23,93,Seaport Entertainment Management LLC2026-02-23
 FL,"Parsec, LLC 
@@ -1324,7 +1324,7 @@ WA,"Peshastin Pear Packers, LLC.",2026-02-16,N/A,"Peshastin Pear Packers, LLC.20
 UT,Sheraton,2026-02-15,100,Sheraton2026-02-15
 CA,Med-Laser Surgical Center LLC,2026-02-13,22,Med-Laser Surgical Center LLC2026-02-13
 CA,De La Pena Eye Clinic - DLP Santa Ana,2026-02-13,6,De La Pena Eye Clinic - DLP Santa Ana2026-02-13
-KS,Lowe's,2026-02-13,3,Lowe's2026-02-13
+KS,Lowe's,2026-02-13,N/A,Lowe's2026-02-13
 CA,De La Pena Eye Clinic - DLP Montebello,2026-02-13,38,De La Pena Eye Clinic - DLP Montebello2026-02-13
 CA,LPL Financial LLC,2026-02-13,72,LPL Financial LLC2026-02-13
 NY,"Glossier, Inc.",2026-02-13,41,"Glossier, Inc.2026-02-13"
@@ -1731,7 +1731,7 @@ CA,Amazon - SFO 28,2026-01-29,84,Amazon - SFO 282026-01-29
 MD,Saks & Company LLC,2026-01-29,N/A,Saks & Company LLC2026-01-29
 MD,Saks & Company LLC,2026-01-29,N/A,Saks & Company LLC2026-01-29
 OR,Kroger-00417,2026-01-29,N/A,Kroger-004172026-01-29
-AZ,Shell Recharge Solutions,2026-01-29,2,Shell Recharge Solutions2026-01-29
+AZ,Shell Recharge Solutions,2026-01-29,N/A,Shell Recharge Solutions2026-01-29
 CA,"Chan Zuckerberg Initiative, LLC - Remote",2026-01-29,32,"Chan Zuckerberg Initiative, LLC - Remote2026-01-29"
 CA,Shell Recharge Solutions,2026-01-29,29,Shell Recharge Solutions2026-01-29
 CA,Amazon - SFO 13,2026-01-29,19,Amazon - SFO 132026-01-29
@@ -1789,7 +1789,7 @@ CA,Pinterest Inc. (Palo Alto),2026-01-27,16,Pinterest Inc. (Palo Alto)2026-01-27
 CA,Pinterest Inc. (San Francisco),2026-01-27,98,Pinterest Inc. (San Francisco)2026-01-27
 VA,Bear Express LLC,2026-01-27,168,Bear Express LLC2026-01-27
 CA,Pinterest Inc. (CA Remote),2026-01-27,4,Pinterest Inc. (CA Remote)2026-01-27
-AZ,Benchmark,2026-01-27,65,Benchmark2026-01-27
+AZ,Benchmark,2026-01-27,N/A,Benchmark2026-01-27
 FL,"Naples Grande Beach Resort 
 475 Seagate Drive
 
@@ -1928,7 +1928,7 @@ CA,Hupp Draft Services,2026-01-11,75,Hupp Draft Services2026-01-11
 CA,Macy's,2026-01-09,77,Macy's2026-01-09
 CA,Cucina Enoteca Del Mar,2026-01-09,43,Cucina Enoteca Del Mar2026-01-09
 CA,Local Initiative Health Authority for Los Angeles County dba L.A. Care Health Plan,2026-01-09,225,Local Initiative Health Authority for Los Angeles County dba L.A. Care Health Plan2026-01-09
-AZ,SMBC Group - JeniusBank,2026-01-08,N/A,SMBC Group - JeniusBank2026-01-08
+AZ,SMBC Group - JeniusBank,2026-01-08,33,SMBC Group - JeniusBank2026-01-08
 FL,"SMBC MANUBANK 
 Orlando
 515 South Figueroa Street Los Angeles, CA 9007
@@ -2015,8 +2015,8 @@ JACKSONVILLE, FL, 320992026-01-08"
 CA,Pomona Hospital Medical Center (300),2026-01-07,4,Pomona Hospital Medical Center (300)2026-01-07
 CA,Pomona Hospital Medical Center (1601),2026-01-07,1,Pomona Hospital Medical Center (1601)2026-01-07
 CA,Pomona Hospital Medical Center (1798),2026-01-07,108,Pomona Hospital Medical Center (1798)2026-01-07
-AZ,GNC Distribution Center,2026-01-07,N/A,GNC Distribution Center2026-01-07
-AZ,Avelo Airlines,2026-01-07,N/A,Avelo Airlines2026-01-07
+AZ,GNC Distribution Center,2026-01-07,66,GNC Distribution Center2026-01-07
+AZ,Avelo Airlines,2026-01-07,97,Avelo Airlines2026-01-07
 CO,Alan Ritchey,2026-01-06,729,Alan Ritchey2026-01-06
 CA,Alameda Health System - Fairmont Rehabilitation and Wellness,2026-01-06,44,Alameda Health System - Fairmont Rehabilitation and Wellness2026-01-06
 WA,Tessera,2026-01-06,N/A,Tessera2026-01-06
