@@ -17,7 +17,7 @@ Global Foundries,"Dec 16, 2022",148,WARN,Essex Junction,05452,00 - Vermont Workf
 Jeld-Wen Windows & Doors,"Jun 20, 2022",80,WARN,North Springfield,05150,00 - Vermont Workforce Investment Area,"36 Precision Drive; North Springfield, Vermont 05150",324,https://www.vermontjoblink.com/search/warn_lookups/324
 Koffee Kup Bakery- Brattleboro,"Apr 26, 2021",91,WARN,Brattleboro,05301,00 - Vermont Workforce Investment Area,"80 Cotton Mill Hill; Brattleboro, Vermont 05301",317,https://www.vermontjoblink.com/search/warn_lookups/317
 Koffee Kup Bakery-Burlington,"Apr 26, 2021",156,WARN,Burlington,05401,00 - Vermont Workforce Investment Area,"436 Riverside Avenue; Burlington, Vermont 05401",316,https://www.vermontjoblink.com/search/warn_lookups/316
-Keurig Dr. Pepper,"Mar 05, 2021",78,WARN,Essex Junction,05452,00 - Vermont Workforce Investment Area,"30 Gauthier Drive; Essex Junction, Vermont 05452",318,https://www.vermontjoblink.com/search/warn_lookups/318
+Keurig Dr. Pepper,"Mar 05, 2021",,WARN,Essex Junction,05452,00 - Vermont Workforce Investment Area,,318,https://www.vermontjoblink.com/search/warn_lookups/318
 People's United Bank,"Jul 22, 2021",254,WARN,Montpelier,05601,00 - Vermont Workforce Investment Area,"various; Montpelier, Vermont 05601",320,https://www.vermontjoblink.com/search/warn_lookups/320
 Spire Hospitality/Top Notch Resort,"Mar 20, 2020",126,WARN,,,00 - Vermont Workforce Investment Area,,298,https://www.vermontjoblink.com/search/warn_lookups/298
 Equinox Golf Resort and Spa,"Mar 27, 2020",180,WARN,,,00 - Vermont Workforce Investment Area,,299,https://www.vermontjoblink.com/search/warn_lookups/299
@@ -50,15 +50,6 @@ Morrison Management Specialists,"Jan 22, 2016",97,WARN,,,00 - Vermont Workforce 
 Keurig Green Mountain,"Jun 07, 2016",110,WARN,,,00 - Vermont Workforce Investment Area,,222,https://www.vermontjoblink.com/search/warn_lookups/222
 VSAC,"Jun 15, 2016",55,WARN,,,00 - Vermont Workforce Investment Area,,223,https://www.vermontjoblink.com/search/warn_lookups/223
 "Dowlings, Inc","Aug 01, 2016",44,WARN,,,00 - Vermont Workforce Investment Area,,228,https://www.vermontjoblink.com/search/warn_lookups/228
-J. C. Penney,"Jan 07, 2015",30,WARN,,,00 - Vermont Workforce Investment Area,,164,https://www.vermontjoblink.com/search/warn_lookups/164
-"Plasan North America, Inc.","May 04, 2015",57,WARN,,,00 - Vermont Workforce Investment Area,,169,https://www.vermontjoblink.com/search/warn_lookups/169
-JC Penney,"Jan 07, 2015",35,WARN,,,00 - Vermont Workforce Investment Area,,170,https://www.vermontjoblink.com/search/warn_lookups/170
-Fairpoint Communications,"May 27, 2015",67,WARN,,,00 - Vermont Workforce Investment Area,,179,https://www.vermontjoblink.com/search/warn_lookups/179
-Keurig Green Mountain,"Aug 06, 2015",125,WARN,,,00 - Vermont Workforce Investment Area,,183,https://www.vermontjoblink.com/search/warn_lookups/183
-Vermont Castings Group,"Aug 25, 2015",43,WARN,,,00 - Vermont Workforce Investment Area,,186,https://www.vermontjoblink.com/search/warn_lookups/186
-Gildan Garments,"Aug 26, 2015",60,WARN,Northfield,05663,00 - Vermont Workforce Investment Area,"127 North Main Street; Northfield, Vermont 05663",187,https://www.vermontjoblink.com/search/warn_lookups/187
-G. Housen and Company Inc.,"Sep 14, 2015",50,WARN,,,00 - Vermont Workforce Investment Area,,190,https://www.vermontjoblink.com/search/warn_lookups/190
-Gap Inc.,"Dec 08, 2015",23,WARN,,,00 - Vermont Workforce Investment Area,,206,https://www.vermontjoblink.com/search/warn_lookups/206
 Plasan Carbon Composites Inc.,"Mar 14, 2014",160,WARN,,,00 - Vermont Workforce Investment Area,,145,https://www.vermontjoblink.com/search/warn_lookups/145
 Kennametal,"Mar 31, 2014",88,WARN,,,00 - Vermont Workforce Investment Area,,146,https://www.vermontjoblink.com/search/warn_lookups/146
 Entergy,"Nov 18, 2014",148,WARN,,,00 - Vermont Workforce Investment Area,,161,https://www.vermontjoblink.com/search/warn_lookups/161
@@ -69,13 +60,11 @@ Hostess Brands,"May 04, 2012",2,WARN,,,00 - Vermont Workforce Investment Area,,9
 Flextronics Americas LLC,"May 25, 2011",3,WARN,,,00 - Vermont Workforce Investment Area,,78,https://www.vermontjoblink.com/search/warn_lookups/78
 Flextronics Americas LLC,"May 25, 2011",8,WARN,,,00 - Vermont Workforce Investment Area,,79,https://www.vermontjoblink.com/search/warn_lookups/79
 Skyline Corporation,"Aug 08, 2011",78,WARN,,,00 - Vermont Workforce Investment Area,,82,https://www.vermontjoblink.com/search/warn_lookups/82
-Northrop Grumman,"Sep 27, 2010",106,WARN,St. Albans,05478,00 - Vermont Workforce Investment Area,"U.S. Citizenship & Immigration Services Center; St. Albans, Vermont 05478",74,https://www.vermontjoblink.com/search/warn_lookups/74
-"Stanley Associates, Inc.","Sep 29, 2010",173,WARN,St Albans,05478,00 - Vermont Workforce Investment Area,"30 Houghton Street (75 Lower Welden Street); St Albans, Vermont 05478",75,https://www.vermontjoblink.com/search/warn_lookups/75
 Monahan Filaments,"Sep 04, 2009",68,WARN,,,00 - Vermont Workforce Investment Area,,68,https://www.vermontjoblink.com/search/warn_lookups/68
 "Lydall Thermal/Acoustical, Inc.","Jan 30, 2009",207,WARN,,,00 - Vermont Workforce Investment Area,,48,https://www.vermontjoblink.com/search/warn_lookups/48
 Plasan Carbon Composites,"Jan 15, 2009",127,WARN,,,00 - Vermont Workforce Investment Area,,50,https://www.vermontjoblink.com/search/warn_lookups/50
 Monahan Filaments,"Apr 17, 2009",42,WARN,,,00 - Vermont Workforce Investment Area,,65,https://www.vermontjoblink.com/search/warn_lookups/65
-Ethan Allen,"Jun 24, 2009",238,WARN,,,00 - Vermont Workforce Investment Area,,66,https://www.vermontjoblink.com/search/warn_lookups/66
+Ethan Allen,"Jun 24, 2009",,WARN,,,00 - Vermont Workforce Investment Area,,66,https://www.vermontjoblink.com/search/warn_lookups/66
 Penn Traffic Company,"Nov 18, 2009",84,WARN,,,00 - Vermont Workforce Investment Area,,69,https://www.vermontjoblink.com/search/warn_lookups/69
 Home Depot,"Jun 03, 2008",69,WARN,,,00 - Vermont Workforce Investment Area,,8,https://www.vermontjoblink.com/search/warn_lookups/8
 CFM Corporation/Vermont Castings,"Apr 09, 2008",170,WARN,,,00 - Vermont Workforce Investment Area,,9,https://www.vermontjoblink.com/search/warn_lookups/9
