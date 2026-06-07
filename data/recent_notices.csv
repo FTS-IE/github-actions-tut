@@ -73,7 +73,7 @@ MO,Unknown,2026-06-05,107,Unknown2026-06-05
 NY,Villa Mary Immaculate d/b/a St. Peter’s Nursing and Rehabilitation Center (SPNRC),2026-06-05,133,Villa Mary Immaculate d/b/a St. Peter’s Nursing and Rehabilitation Center (SPNRC)2026-06-05
 IA,Whirlpool Corporation,2026-06-04,N/A,Whirlpool Corporation2026-06-04
 MD,Kennedy Krieger Institute,2026-06-04,N/A,Kennedy Krieger Institute2026-06-04
-AZ,SMBC MANUBANK,2026-06-04,N/A,SMBC MANUBANK2026-06-04
+AZ,SMBC MANUBANK,2026-06-04,12,SMBC MANUBANK2026-06-04
 MD,Kennedy Krieger Institute,2026-06-04,N/A,Kennedy Krieger Institute2026-06-04
 WA,SMBC Manubank,2026-06-04,N/A,SMBC Manubank2026-06-04
 MD,Federal Express Corporation,2026-06-03,N/A,Federal Express Corporation2026-06-03
@@ -96,7 +96,7 @@ CA,"Off Duty Officers, Inc. (8 Crestwood Rd.)",2026-06-02,1,"Off Duty Officers, 
 CA,"Off Duty Officers, Inc. (3333 National Ave.)",2026-06-02,2,"Off Duty Officers, Inc. (3333 National Ave.)2026-06-02"
 CA,"Off Duty Officers, Inc. (123 35th St.)",2026-06-02,2,"Off Duty Officers, Inc. (123 35th St.)2026-06-02"
 CA,"Off Duty Officers, Inc. (151 Van Houten Ave.)",2026-06-02,3,"Off Duty Officers, Inc. (151 Van Houten Ave.)2026-06-02"
-AZ,Federal Express Corporation,2026-06-02,101,Federal Express Corporation2026-06-02
+AZ,Federal Express Corporation,2026-06-02,N/A,Federal Express Corporation2026-06-02
 ME,SP+ Parking,2026-06-02,100,SP+ Parking2026-06-02
 CA,"Off Duty Officers, Inc. (1250 Delevan Dr.)",2026-06-02,5,"Off Duty Officers, Inc. (1250 Delevan Dr.)2026-06-02"
 CA,"Off Duty Officers, Inc. (262 North El Camino Real)",2026-06-02,3,"Off Duty Officers, Inc. (262 North El Camino Real)2026-06-02"
@@ -207,7 +207,7 @@ NY,Rising Ground Inc.,2026-05-21,29,Rising Ground Inc.2026-05-21
 NY,Rising Ground Inc.,2026-05-21,24,Rising Ground Inc.2026-05-21
 VA,Bingham &amp; Taylor,2026-05-21,92,Bingham &amp; Taylor2026-05-21
 NY,Rising Ground Inc.,2026-05-21,5,Rising Ground Inc.2026-05-21
-AZ,"National Distribution Centers, LLC",2026-05-21,96,"National Distribution Centers, LLC2026-05-21"
+AZ,"National Distribution Centers, LLC",2026-05-21,N/A,"National Distribution Centers, LLC2026-05-21"
 NY,Rising Ground Inc.,2026-05-21,29,Rising Ground Inc.2026-05-21
 WA,"Flagship Facilities Services, LLC",2026-05-20,N/A,"Flagship Facilities Services, LLC2026-05-20"
 MD,U.S. Bank,2026-05-20,N/A,U.S. Bank2026-05-20
@@ -427,7 +427,7 @@ WA,Maersk,2026-05-01,N/A,Maersk2026-05-01
 NY,Saks & Company LLC,2026-05-01,3,Saks & Company LLC2026-05-01
 VA,Ideal US Talent Worker OpCo LLC,2026-05-01,776,Ideal US Talent Worker OpCo LLC2026-05-01
 NY,Saks & Company LLC,2026-05-01,136,Saks & Company LLC2026-05-01
-KS,First Student,2026-05-01,N/A,First Student2026-05-01
+KS,First Student,2026-05-01,151,First Student2026-05-01
 CA,"Bayless Manufacturing, LLC",2026-05-01,16,"Bayless Manufacturing, LLC2026-05-01"
 CA,"Bayless Manufacturing, LLC",2026-05-01,3,"Bayless Manufacturing, LLC2026-05-01"
 IN,Cummins Inc,2026-05-01,59,Cummins Inc2026-05-01
@@ -665,7 +665,7 @@ IA,Appliance Plus Cellular Inc,2026-04-14,N/A,Appliance Plus Cellular Inc2026-04
 IA,Appliance Plus Cellular Inc,2026-04-14,N/A,Appliance Plus Cellular Inc2026-04-14
 IA,Appliance Plus Cellular Inc ,2026-04-14,N/A,Appliance Plus Cellular Inc 2026-04-14
 CT,"Main Street Sports Group, LLC",2026-04-14,N/A,"Main Street Sports Group, LLC2026-04-14"
-AZ,"The Tendit Group, LLC.",2026-04-14,N/A,"The Tendit Group, LLC.2026-04-14"
+AZ,"The Tendit Group, LLC.",2026-04-14,143,"The Tendit Group, LLC.2026-04-14"
 VA,Central Garden &amp; Pet,2026-04-14,94,Central Garden &amp; Pet2026-04-14
 MD,Hendall Inc.,2026-04-14,N/A,Hendall Inc.2026-04-14
 MO,Unknown,2026-04-14,25,Unknown2026-04-14
@@ -717,7 +717,7 @@ CA,"Satco, Inc.",2026-04-10,34,"Satco, Inc.2026-04-10"
 CA,"Aramark Campus, LLC",2026-04-10,49,"Aramark Campus, LLC2026-04-10"
 WA,"Astellas US Holding, Inc.",2026-04-10,N/A,"Astellas US Holding, Inc.2026-04-10"
 TN,Legacy Supply Chain,2026-04-10,N/A,Legacy Supply Chain2026-04-10
-AZ,VisionQuest National LTD,2026-04-09,N/A,VisionQuest National LTD2026-04-09
+AZ,VisionQuest National LTD,2026-04-09,203,VisionQuest National LTD2026-04-09
 AL,Legacy Supply Chain Operations,2026-04-09,6,Legacy Supply Chain Operations2026-04-09
 CA,Carnegie Science Institution of Washington,2026-04-09,27,Carnegie Science Institution of Washington2026-04-09
 CA,Sumisho Air Lease Corporation,2026-04-09,53,Sumisho Air Lease Corporation2026-04-09
@@ -731,7 +731,7 @@ CA,Qualcomm Incorporated (5525 Morehouse Drive),2026-04-08,11,Qualcomm Incorpora
 CA,Qualcomm Incorporated (5665 Morehouse Drive),2026-04-08,6,Qualcomm Incorporated (5665 Morehouse Drive)2026-04-08
 CA,Sony Pictures Entertainment Inc.,2026-04-08,7,Sony Pictures Entertainment Inc.2026-04-08
 CA,Sony Pictures Entertainment Inc.,2026-04-08,6,Sony Pictures Entertainment Inc.2026-04-08
-AZ,"Catholic Community Services of Southern Arizona, Inc.",2026-04-08,N/A,"Catholic Community Services of Southern Arizona, Inc.2026-04-08"
+AZ,"Catholic Community Services of Southern Arizona, Inc.",2026-04-08,74,"Catholic Community Services of Southern Arizona, Inc.2026-04-08"
 CA,Qualcomm Incorporated (6455 Lusk Blvd.),2026-04-08,2,Qualcomm Incorporated (6455 Lusk Blvd.)2026-04-08
 CA,Qualcomm Incorporated (10185 McKellar Ct.),2026-04-08,1,Qualcomm Incorporated (10185 McKellar Ct.)2026-04-08
 CA,Qualcomm Incorporated (5745 Pacific Center Blvd.),2026-04-08,2,Qualcomm Incorporated (5745 Pacific Center Blvd.)2026-04-08
@@ -889,7 +889,7 @@ CA,Rb Wine Associates LLC dba Rack & Riddle,2026-03-27,32,Rb Wine Associates LLC
 OR,Sunstone Way,2026-03-27,N/A,Sunstone Way2026-03-27
 RI,"Allied Group, LLC",2026-03-26,154,"Allied Group, LLC2026-03-26"
 MD,"Maryland and Virginia Milk Producers Cooperative Association, Inc. d/b/a Maola",2026-03-26,N/A,"Maryland and Virginia Milk Producers Cooperative Association, Inc. d/b/a Maola2026-03-26"
-AZ,"Sinomax East, Inc.",2026-03-26,89,"Sinomax East, Inc.2026-03-26"
+AZ,"Sinomax East, Inc.",2026-03-26,N/A,"Sinomax East, Inc.2026-03-26"
 CA,DASH Industries,2026-03-26,80,DASH Industries2026-03-26
 CA,"Kay and Associates, Inc.",2026-03-26,103,"Kay and Associates, Inc.2026-03-26"
 OR,Horizon Air - Rogue Valley Internationa,2026-03-26,N/A,Horizon Air - Rogue Valley Internationa2026-03-26
@@ -1424,7 +1424,7 @@ FORT LAUDERDALE, FL, 33394",2026-02-13,20,"Main Street Sports Group, LLC
 
 FORT LAUDERDALE, FL, 333942026-02-13"
 CA,De La Pena Eye Clinic - DLP Montebello,2026-02-13,38,De La Pena Eye Clinic - DLP Montebello2026-02-13
-KS,Lowe's,2026-02-13,N/A,Lowe's2026-02-13
+KS,Lowe's,2026-02-13,3,Lowe's2026-02-13
 CA,De La Pena Eye Clinic - DLP Huntington Park,2026-02-13,15,De La Pena Eye Clinic - DLP Huntington Park2026-02-13
 CA,De La Pena Eye Clinic - DLP Los Angeles,2026-02-13,12,De La Pena Eye Clinic - DLP Los Angeles2026-02-13
 FL,"ILLUMUS 
@@ -1768,7 +1768,7 @@ MO,Unknown,2026-01-30,93,Unknown2026-01-30
 CA,V2X - NASA Armstrong Flight Research Center MS 1714,2026-01-30,62,V2X - NASA Armstrong Flight Research Center MS 17142026-01-30
 TN,Danfoss Power Solutions,2026-01-30,N/A,Danfoss Power Solutions2026-01-30
 IN,National Distribution Centers,2026-01-30,53,National Distribution Centers2026-01-30
-KS,"Vornado Air, LLC.",2026-01-30,N/A,"Vornado Air, LLC.2026-01-30"
+KS,"Vornado Air, LLC.",2026-01-30,72,"Vornado Air, LLC.2026-01-30"
 CA,Del Monte Foods Corporation II Inc - Modesto,2026-01-30,765,Del Monte Foods Corporation II Inc - Modesto2026-01-30
 CA,Del Monte Foods Corporation II Inc. - Hughson,2026-01-30,11,Del Monte Foods Corporation II Inc. - Hughson2026-01-30
 CA,City National Bank,2026-01-30,9,City National Bank2026-01-30
@@ -1798,7 +1798,7 @@ OR,"Lincare-Brookings, OR",2026-01-29,N/A,"Lincare-Brookings, OR2026-01-29"
 OR,"Three Pirates, LLC dba Point Blank Dist",2026-01-29,N/A,"Three Pirates, LLC dba Point Blank Dist2026-01-29"
 OR,Eugene Location,2026-01-29,N/A,Eugene Location2026-01-29
 OR,Bend Location,2026-01-29,N/A,Bend Location2026-01-29
-AZ,Shell Recharge Solutions,2026-01-29,N/A,Shell Recharge Solutions2026-01-29
+AZ,Shell Recharge Solutions,2026-01-29,2,Shell Recharge Solutions2026-01-29
 OR,Kroger-00125-Prime,2026-01-29,N/A,Kroger-00125-Prime2026-01-29
 CA,Amazon (LAX78),2026-01-29,45,Amazon (LAX78)2026-01-29
 CA,Amazon - SAN 13,2026-01-29,38,Amazon - SAN 132026-01-29
@@ -1876,7 +1876,7 @@ NAPLES, FL, 34103",2026-01-27,235,"Naples Grande Beach Resort
 475 Seagate Drive
 
 NAPLES, FL, 341032026-01-27"
-AZ,Benchmark,2026-01-27,N/A,Benchmark2026-01-27
+AZ,Benchmark,2026-01-27,65,Benchmark2026-01-27
 VA,Bear Express LLC,2026-01-27,168,Bear Express LLC2026-01-27
 CA,Pinterest Inc. (CA Remote),2026-01-27,4,Pinterest Inc. (CA Remote)2026-01-27
 CA,JBT Marel Corporation,2026-01-27,59,JBT Marel Corporation2026-01-27
@@ -2098,18 +2098,18 @@ BONITA SPRINGS, FL, 33931",2026-01-08,1,"SMBC MANUBANK
 Bonita Springs
 515 South Figueroa Street Los Angeles, CA 90071
 BONITA SPRINGS, FL, 339312026-01-08"
-AZ,SMBC Group - JeniusBank,2026-01-08,33,SMBC Group - JeniusBank2026-01-08
+AZ,SMBC Group - JeniusBank,2026-01-08,N/A,SMBC Group - JeniusBank2026-01-08
 HI,DFS Group L.P.,2026-01-08,N/A,DFS Group L.P.2026-01-08
 VA,SMBC Manubank,2026-01-08,6,SMBC Manubank2026-01-08
 WA,SMBC Manubank,2026-01-08,N/A,SMBC Manubank2026-01-08
 OR,Oregon - Remote Employees,2026-01-08,N/A,Oregon - Remote Employees2026-01-08
 CA,Sealed Air Corporation,2026-01-08,51,Sealed Air Corporation2026-01-08
 UT,SMBC Manubank,2026-01-08,1,SMBC Manubank2026-01-08
-AZ,GNC Distribution Center,2026-01-07,66,GNC Distribution Center2026-01-07
+AZ,GNC Distribution Center,2026-01-07,N/A,GNC Distribution Center2026-01-07
 CA,Pomona Hospital Medical Center (300),2026-01-07,4,Pomona Hospital Medical Center (300)2026-01-07
 CA,Pomona Hospital Medical Center (1601),2026-01-07,1,Pomona Hospital Medical Center (1601)2026-01-07
 CA,Pomona Hospital Medical Center (1798),2026-01-07,108,Pomona Hospital Medical Center (1798)2026-01-07
-AZ,Avelo Airlines,2026-01-07,97,Avelo Airlines2026-01-07
+AZ,Avelo Airlines,2026-01-07,N/A,Avelo Airlines2026-01-07
 CA,Alameda Health System - San Leandro Hospital,2026-01-06,22,Alameda Health System - San Leandro Hospital2026-01-06
 CA,Alameda Health System - Wilma Chan Highland Hospital,2026-01-06,128,Alameda Health System - Wilma Chan Highland Hospital2026-01-06
 CA,Alameda Health System - System Support Center,2026-01-06,18,Alameda Health System - System Support Center2026-01-06
