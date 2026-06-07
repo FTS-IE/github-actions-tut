@@ -73,7 +73,7 @@ MO,Unknown,2026-06-05,107,Unknown2026-06-05
 NY,Villa Mary Immaculate d/b/a St. Peter’s Nursing and Rehabilitation Center (SPNRC),2026-06-05,133,Villa Mary Immaculate d/b/a St. Peter’s Nursing and Rehabilitation Center (SPNRC)2026-06-05
 IA,Whirlpool Corporation,2026-06-04,N/A,Whirlpool Corporation2026-06-04
 MD,Kennedy Krieger Institute,2026-06-04,N/A,Kennedy Krieger Institute2026-06-04
-AZ,SMBC MANUBANK,2026-06-04,12,SMBC MANUBANK2026-06-04
+AZ,SMBC MANUBANK,2026-06-04,N/A,SMBC MANUBANK2026-06-04
 MD,Kennedy Krieger Institute,2026-06-04,N/A,Kennedy Krieger Institute2026-06-04
 WA,SMBC Manubank,2026-06-04,N/A,SMBC Manubank2026-06-04
 MD,Federal Express Corporation,2026-06-03,N/A,Federal Express Corporation2026-06-03
@@ -451,7 +451,7 @@ IN,CICOA Aging & In-Home Solutions,2026-04-30,90,CICOA Aging & In-Home Solutions
 NY,Krispy Kreme Doughnut Corporation,2026-04-30,52,Krispy Kreme Doughnut Corporation2026-04-30
 NY,"BMC Benchmark Management Company, LLC. (Edith Macy Center Hotel)",2026-04-30,49,"BMC Benchmark Management Company, LLC. (Edith Macy Center Hotel)2026-04-30"
 PA,"Bush Industries, Inc.",2026-04-30,51,"Bush Industries, Inc.2026-04-30"
-AZ,Benchmark,2026-04-29,N/A,Benchmark2026-04-29
+AZ,Benchmark,2026-04-29,75,Benchmark2026-04-29
 MD,CBRE Government & Defense Services,2026-04-29,N/A,CBRE Government & Defense Services2026-04-29
 CA,Dudek,2026-04-29,36,Dudek2026-04-29
 OR,"Prineville, OR Facility",2026-04-29,N/A,"Prineville, OR Facility2026-04-29"
@@ -1315,7 +1315,7 @@ CA,"C3.ai, Inc.",2026-02-23,71,"C3.ai, Inc.2026-02-23"
 CA,"Safari West, Inc.",2026-02-23,134,"Safari West, Inc.2026-02-23"
 HI,"Honolulu Roofing Company, Inc.",2026-02-23,N/A,"Honolulu Roofing Company, Inc.2026-02-23"
 VA,Speyside Bourbon Cooperage in Virginia Inc.,2026-02-23,52,Speyside Bourbon Cooperage in Virginia Inc.2026-02-23
-KS,"First Brands Group, LLC (Hopkins)",2026-02-23,81,"First Brands Group, LLC (Hopkins)2026-02-23"
+KS,"First Brands Group, LLC (Hopkins)",2026-02-23,N/A,"First Brands Group, LLC (Hopkins)2026-02-23"
 MD,Duality Ventures LLC,2026-02-23,N/A,Duality Ventures LLC2026-02-23
 KS,"First Brands Group, LLC (Hopkins)",2026-02-23,130,"First Brands Group, LLC (Hopkins)2026-02-23"
 OK,Hopkins Mfg- Miami,2026-02-23,N/A,Hopkins Mfg- Miami2026-02-23
@@ -1424,7 +1424,7 @@ FORT LAUDERDALE, FL, 33394",2026-02-13,20,"Main Street Sports Group, LLC
 
 FORT LAUDERDALE, FL, 333942026-02-13"
 CA,De La Pena Eye Clinic - DLP Montebello,2026-02-13,38,De La Pena Eye Clinic - DLP Montebello2026-02-13
-KS,Lowe's,2026-02-13,3,Lowe's2026-02-13
+KS,Lowe's,2026-02-13,N/A,Lowe's2026-02-13
 CA,De La Pena Eye Clinic - DLP Huntington Park,2026-02-13,15,De La Pena Eye Clinic - DLP Huntington Park2026-02-13
 CA,De La Pena Eye Clinic - DLP Los Angeles,2026-02-13,12,De La Pena Eye Clinic - DLP Los Angeles2026-02-13
 FL,"ILLUMUS 
@@ -1798,7 +1798,7 @@ OR,"Lincare-Brookings, OR",2026-01-29,N/A,"Lincare-Brookings, OR2026-01-29"
 OR,"Three Pirates, LLC dba Point Blank Dist",2026-01-29,N/A,"Three Pirates, LLC dba Point Blank Dist2026-01-29"
 OR,Eugene Location,2026-01-29,N/A,Eugene Location2026-01-29
 OR,Bend Location,2026-01-29,N/A,Bend Location2026-01-29
-AZ,Shell Recharge Solutions,2026-01-29,2,Shell Recharge Solutions2026-01-29
+AZ,Shell Recharge Solutions,2026-01-29,N/A,Shell Recharge Solutions2026-01-29
 OR,Kroger-00125-Prime,2026-01-29,N/A,Kroger-00125-Prime2026-01-29
 CA,Amazon (LAX78),2026-01-29,45,Amazon (LAX78)2026-01-29
 CA,Amazon - SAN 13,2026-01-29,38,Amazon - SAN 132026-01-29
@@ -1876,7 +1876,7 @@ NAPLES, FL, 34103",2026-01-27,235,"Naples Grande Beach Resort
 475 Seagate Drive
 
 NAPLES, FL, 341032026-01-27"
-AZ,Benchmark,2026-01-27,65,Benchmark2026-01-27
+AZ,Benchmark,2026-01-27,N/A,Benchmark2026-01-27
 VA,Bear Express LLC,2026-01-27,168,Bear Express LLC2026-01-27
 CA,Pinterest Inc. (CA Remote),2026-01-27,4,Pinterest Inc. (CA Remote)2026-01-27
 CA,JBT Marel Corporation,2026-01-27,59,JBT Marel Corporation2026-01-27
@@ -2098,7 +2098,7 @@ BONITA SPRINGS, FL, 33931",2026-01-08,1,"SMBC MANUBANK
 Bonita Springs
 515 South Figueroa Street Los Angeles, CA 90071
 BONITA SPRINGS, FL, 339312026-01-08"
-AZ,SMBC Group - JeniusBank,2026-01-08,N/A,SMBC Group - JeniusBank2026-01-08
+AZ,SMBC Group - JeniusBank,2026-01-08,33,SMBC Group - JeniusBank2026-01-08
 HI,DFS Group L.P.,2026-01-08,N/A,DFS Group L.P.2026-01-08
 VA,SMBC Manubank,2026-01-08,6,SMBC Manubank2026-01-08
 WA,SMBC Manubank,2026-01-08,N/A,SMBC Manubank2026-01-08
@@ -2109,7 +2109,7 @@ AZ,GNC Distribution Center,2026-01-07,N/A,GNC Distribution Center2026-01-07
 CA,Pomona Hospital Medical Center (300),2026-01-07,4,Pomona Hospital Medical Center (300)2026-01-07
 CA,Pomona Hospital Medical Center (1601),2026-01-07,1,Pomona Hospital Medical Center (1601)2026-01-07
 CA,Pomona Hospital Medical Center (1798),2026-01-07,108,Pomona Hospital Medical Center (1798)2026-01-07
-AZ,Avelo Airlines,2026-01-07,N/A,Avelo Airlines2026-01-07
+AZ,Avelo Airlines,2026-01-07,97,Avelo Airlines2026-01-07
 CA,Alameda Health System - San Leandro Hospital,2026-01-06,22,Alameda Health System - San Leandro Hospital2026-01-06
 CA,Alameda Health System - Wilma Chan Highland Hospital,2026-01-06,128,Alameda Health System - Wilma Chan Highland Hospital2026-01-06
 CA,Alameda Health System - System Support Center,2026-01-06,18,Alameda Health System - System Support Center2026-01-06
