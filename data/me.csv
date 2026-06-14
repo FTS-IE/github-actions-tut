@@ -2,7 +2,7 @@ employer,notice_date,number_of_employees_affected,warn_type,city,zip,lwib_area,a
 SMBC-Sumitomo Mitsui Banking Corporation,"Jan 13, 2026",1,WARN,New York,10172,3 - Central Western Local Area 3,"277 Park Avenue; New York, New York 10172",649,https://joblink.maine.gov/search/warn_lookups/649
 Pride Manufacturing -gathr Outdoors,"Jan 13, 2026",115,WARN,Burnham,04922,4 - Coastal Counties Local Area 4,"10 North Main Street; Burnham, Maine 04922",651,https://joblink.maine.gov/search/warn_lookups/651
 SP+ Parking,"Jun 02, 2026",100,WARN,Portland,04101,4 - Coastal Counties Local Area 4,"181 High st; Portland, Maine 04101",693,https://joblink.maine.gov/search/warn_lookups/693
-Sonoco,"Mar 13, 2025",,WARN,Scarborough,04074,4 - Coastal Counties Local Area 4,,626,https://joblink.maine.gov/search/warn_lookups/626
+Sonoco,"Mar 13, 2025",67,WARN,Scarborough,04074,4 - Coastal Counties Local Area 4,"16 Washington St; Scarborough, Maine 04074",626,https://joblink.maine.gov/search/warn_lookups/626
 US Cellular,"Apr 07, 2025",,WARN,Washington,20019,3 - Central Western Local Area 3,,628,https://joblink.maine.gov/search/warn_lookups/628
 Northern Light - Inland Hospital,"Mar 25, 2025",,WARN,Waterville,04901,3 - Central Western Local Area 3,,624,https://joblink.maine.gov/search/warn_lookups/624
 Charter Communications,"Dec 10, 2025",,WARN,Portland,04103,4 - Coastal Counties Local Area 4,,645,https://joblink.maine.gov/search/warn_lookups/645
@@ -14,6 +14,5 @@ Yelloh!,"Sep 23, 2024",14,WARN,Hermon,04401,1 - Northeastern Workforce Board,"20
 Vimo dba GetInsured,"Dec 27, 2024",,WARN,Augusta,04333,3 - Central Western Local Area 3,,606,https://joblink.maine.gov/search/warn_lookups/606
 Parker Hannifin,"Apr 22, 2024",,WARN,Kittery,03904,4 - Coastal Counties Local Area 4,,568,https://joblink.maine.gov/search/warn_lookups/568
 Spurwink,"Apr 26, 2024",,WARN,Augusta,04330,3 - Central Western Local Area 3,,570,https://joblink.maine.gov/search/warn_lookups/570
-Expera,"Oct 12, 2015",220,WARN,,,1 - Northeastern Workforce Board,,50,https://joblink.maine.gov/search/warn_lookups/50
-Lincoln Paper and Tissue,"Sep 28, 2015",200,WARN,,,1 - Northeastern Workforce Board,,86,https://joblink.maine.gov/search/warn_lookups/86
-Cascade Fiber,"Jun 29, 2015",,WARN,,,3 - Central Western Local Area 3,,132,https://joblink.maine.gov/search/warn_lookups/132
+Ledgeview Living Center,"Aug 10, 2018",122,WARN,,,3 - Central Western Local Area 3,,149,https://joblink.maine.gov/search/warn_lookups/149
+Emery Waterhouse,"Oct 10, 2018",150,WARN,,,4 - Coastal Counties Local Area 4,,162,https://joblink.maine.gov/search/warn_lookups/162
