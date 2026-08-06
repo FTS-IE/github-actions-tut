@@ -2,8 +2,8 @@ name: Matrix WARN Scraper with Slack Alerts
 
 on:
   schedule:
-    # Runs at 15:00 and 20:00 UTC (10am and 3pm EST)
-    - cron: '0 15,20 * * *'
+    # Runs at 14:00 and 190:00 UTC (9am and 2pm EST)
+    - cron: '0 14,19 * * *'
   workflow_dispatch:
 
 permissions:
@@ -18,7 +18,7 @@ jobs:
       fail-fast: false
       max-parallel: 15 # Speeds up execution by running more states at once
       matrix:
-        # TESTING: Missouri need to sign up for email. Use [ca, ny, ia] for your first run
+        # TESTING: Missouri need to sign up for email. Use [ca, ny, ia] for the first run
         # state: [ny]
         state: [al, ak, az, ca, co, ct, de, fl, ga, hi, id, il, in, ia, ks, me, md, mo, mt, ne, nj, nm, ny, ok, or, pa, ri, sc, sd, tn, tx, ut, vt, va, wa, wi]
     steps:
