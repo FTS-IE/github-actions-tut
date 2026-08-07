@@ -80,7 +80,7 @@ TN,TikTok USDS JV,2026-08-05,N/A,TikTok USDS JV2026-08-05
 CA,"Eclipse Advantage, LLC",2026-08-05,18,"Eclipse Advantage, LLC2026-08-05"
 CA,"Salesforce, Inc.",2026-08-05,74,"Salesforce, Inc.2026-08-05"
 TN,Wellpath,2026-08-04,N/A,Wellpath2026-08-04
-AZ,Essendant,2026-08-04,N/A,Essendant2026-08-04
+AZ,Essendant,2026-08-04,53,Essendant2026-08-04
 CA,"Nutanix, Inc.",2026-08-04,65,"Nutanix, Inc.2026-08-04"
 WA,Zillow Group,2026-08-04,N/A,Zillow Group2026-08-04
 AL,Biocryst Pharmaceuticals Inc,2026-08-04,47,Biocryst Pharmaceuticals Inc2026-08-04
@@ -468,7 +468,7 @@ CA,Ubisoft,2026-06-10,93,Ubisoft2026-06-10
 IA,Iowa Department of Management,2026-06-09,N/A,Iowa Department of Management2026-06-09
 VA,General Dynamics Information Technology ,2026-06-09,174,General Dynamics Information Technology 2026-06-09
 HI,Ben Bridge (Pearlridge Store),2026-06-09,N/A,Ben Bridge (Pearlridge Store)2026-06-09
-VT,University of Vermont Health,2026-06-09,142,University of Vermont Health2026-06-09
+VT,University of Vermont Health,2026-06-09,N/A,University of Vermont Health2026-06-09
 HI,Hyatt Centric Waikiki Rack (Nordstrom),2026-06-08,N/A,Hyatt Centric Waikiki Rack (Nordstrom)2026-06-08
 FL,"Sanitas Medical Centers 
 7342 W Commercial Blvd,
@@ -597,7 +597,7 @@ CA,Morgan Advance Ceramics Inc.,2026-06-05,96,Morgan Advance Ceramics Inc.2026-0
 VA,SMBC Manubank,2026-06-04,6,SMBC Manubank2026-06-04
 WA,SMBC Manubank,2026-06-04,N/A,SMBC Manubank2026-06-04
 IA,Whirlpool Corporation,2026-06-04,N/A,Whirlpool Corporation2026-06-04
-AZ,SMBC MANUBANK,2026-06-04,12,SMBC MANUBANK2026-06-04
+AZ,SMBC MANUBANK,2026-06-04,N/A,SMBC MANUBANK2026-06-04
 CA,Highlands Community Charter and Technical Schools (800 Todhunter Ave),2026-06-03,5,Highlands Community Charter and Technical Schools (800 Todhunter Ave)2026-06-03
 CA,"Uber Technologies, Inc. (Remote)",2026-06-03,5,"Uber Technologies, Inc. (Remote)2026-06-03"
 CA,"Uber Technologies, Inc. (1725 3rd St.)",2026-06-03,22,"Uber Technologies, Inc. (1725 3rd St.)2026-06-03"
@@ -692,7 +692,7 @@ MAITLAND, FL, 32751",2026-05-29,74,"Rifle, LLC
 MAITLAND, FL, 327512026-05-29"
 WA,Maverick Washington LLC Silver Dollar Mill Creek Casino,2026-05-29,N/A,Maverick Washington LLC Silver Dollar Mill Creek Casino2026-05-29
 WA,Maverick Washington LLC Crazy Moose Mountlake Casino,2026-05-29,N/A,Maverick Washington LLC Crazy Moose Mountlake Casino2026-05-29
-VT,Franklin Foods,2026-05-28,99,Franklin Foods2026-05-28
+VT,Franklin Foods,2026-05-28,N/A,Franklin Foods2026-05-28
 CA,Acumen LLC & The SPHERE,2026-05-28,11,Acumen LLC & The SPHERE2026-05-28
 NJ,IPIC Theaters,2026-05-28,97,IPIC Theaters2026-05-28
 NY,"IPIC Theaters, LLC.",2026-05-28,58,"IPIC Theaters, LLC.2026-05-28"
@@ -706,7 +706,7 @@ OR,PacificSource - Salem,2026-05-27,N/A,PacificSource - Salem2026-05-27
 NY,Morgan Stanley,2026-05-27,1,Morgan Stanley2026-05-27
 NY,Morgan Stanley,2026-05-27,61,Morgan Stanley2026-05-27
 NY,Morgan Stanley,2026-05-27,120,Morgan Stanley2026-05-27
-AZ,Honeywell AZ0Y,2026-05-27,60,Honeywell AZ0Y2026-05-27
+AZ,Honeywell AZ0Y,2026-05-27,N/A,Honeywell AZ0Y2026-05-27
 NY,Morgan Stanley,2026-05-27,1,Morgan Stanley2026-05-27
 OR,PacificSource,2026-05-27,N/A,PacificSource2026-05-27
 OR,PacificSource - Bend,2026-05-27,N/A,PacificSource - Bend2026-05-27
@@ -823,7 +823,7 @@ IA,UnityPoint Health ,2026-05-14,N/A,UnityPoint Health 2026-05-14
 NY,"Main Street Sports Group, LLC",2026-05-14,66,"Main Street Sports Group, LLC2026-05-14"
 NJ,Scudetto Logistics,2026-05-14,120,Scudetto Logistics2026-05-14
 TN,"Greenbean Ventures, LLC",2026-05-14,N/A,"Greenbean Ventures, LLC2026-05-14"
-AZ,"SDH Education West, LLC",2026-05-14,489,"SDH Education West, LLC2026-05-14"
+AZ,"SDH Education West, LLC",2026-05-14,N/A,"SDH Education West, LLC2026-05-14"
 CA,PET CLUB,2026-05-13,6,PET CLUB2026-05-13
 CA,Boys & Girls Club of the LA Harbor - Barton Hill Elementary,2026-05-13,3,Boys & Girls Club of the LA Harbor - Barton Hill Elementary2026-05-13
 CA,Durham School Services,2026-05-13,51,Durham School Services2026-05-13
@@ -1047,7 +1047,7 @@ AZ,Northpoint Expeditionary Learning Academy,2026-04-29,N/A,Northpoint Expeditio
 CA,"Raytheon, An RTX Business",2026-04-28,1,"Raytheon, An RTX Business2026-04-28"
 NY,Amazon,2026-04-28,135,Amazon2026-04-28
 IA,Wells Fargo,2026-04-28,N/A,Wells Fargo2026-04-28
-VT,Perrigo Company,2026-04-28,162,Perrigo Company2026-04-28
+VT,Perrigo Company,2026-04-28,N/A,Perrigo Company2026-04-28
 NY,Amazon (Long Island),2026-04-28,44,Amazon (Long Island)2026-04-28
 CA,Geodis,2026-04-28,238,Geodis2026-04-28
 NJ,Amazon,2026-04-28,N/A,Amazon2026-04-28
@@ -1199,7 +1199,7 @@ ORLANDO, FL, 32801",2026-04-17,50,"Iron Galaxy Studios, LLC
 ORLANDO, FL, 328012026-04-17"
 CA,"Best Formulations PC, LLC",2026-04-17,32,"Best Formulations PC, LLC2026-04-17"
 CA,YMCA Sanchez Elementary School,2026-04-17,8,YMCA Sanchez Elementary School2026-04-17
-AZ,DLH Solutions,2026-04-17,N/A,DLH Solutions2026-04-17
+AZ,DLH Solutions,2026-04-17,312,DLH Solutions2026-04-17
 CA,YMCA Fairlawn Elementary School,2026-04-17,6,YMCA Fairlawn Elementary School2026-04-17
 CA,YMCA Arellanes Elementary School,2026-04-17,6,YMCA Arellanes Elementary School2026-04-17
 CA,YMCA Arellanes Junior High,2026-04-17,4,YMCA Arellanes Junior High2026-04-17
@@ -1366,7 +1366,7 @@ CA,Good Sports Plus Ltd. dba Arc - Desert Valley High School,2026-04-02,3,Good S
 CA,Morgan Technical Ceramics,2026-04-01,94,Morgan Technical Ceramics2026-04-01
 CA,"Oracle America, Inc.",2026-04-01,158,"Oracle America, Inc.2026-04-01"
 CA,Victoria Nursery,2026-04-01,62,Victoria Nursery2026-04-01
-AZ,"Aramark Campus, LLC",2026-04-01,108,"Aramark Campus, LLC2026-04-01"
+AZ,"Aramark Campus, LLC",2026-04-01,N/A,"Aramark Campus, LLC2026-04-01"
 MO,Unknown,2026-04-01,48,Unknown2026-04-01
 CA,"Oracle America, Inc.",2026-04-01,310,"Oracle America, Inc.2026-04-01"
 CA,"Oracle America, Inc.",2026-04-01,50,"Oracle America, Inc.2026-04-01"
@@ -2635,7 +2635,7 @@ CA,Pomona Hospital Medical Center (300),2026-01-07,4,Pomona Hospital Medical Cen
 CA,Pomona Hospital Medical Center (1601),2026-01-07,1,Pomona Hospital Medical Center (1601)2026-01-07
 CA,Pomona Hospital Medical Center (1798),2026-01-07,108,Pomona Hospital Medical Center (1798)2026-01-07
 AZ,GNC Distribution Center,2026-01-07,66,GNC Distribution Center2026-01-07
-AZ,Avelo Airlines,2026-01-07,N/A,Avelo Airlines2026-01-07
+AZ,Avelo Airlines,2026-01-07,97,Avelo Airlines2026-01-07
 WA,Tessera,2026-01-06,N/A,Tessera2026-01-06
 CA,"Med-Pharmex, Inc.",2026-01-06,130,"Med-Pharmex, Inc.2026-01-06"
 CA,"FormFactor, Inc.",2026-01-06,107,"FormFactor, Inc.2026-01-06"
