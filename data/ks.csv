@@ -1,75 +1,121 @@
 employer,notice_date,number_of_employees_affected,warn_type,city,zip,lwib_area,address,record_number,detail_page_url
 "First Brands Group, LLC (Hopkins)","Feb 23, 2026",130,WARN,Emporia,66801,1 - Kansas WorkforceONE,"428 Peyton St.; Emporia, Kansas 66801",2300,https://www.kansasworks.com/search/warn_lookups/2300
 "First Brands Group, LLC (Hopkins)","Feb 23, 2026",81,WARN,Edgerton,66030,3 - Workforce Partnership,"W 185th St.; Edgerton, Kansas 66030",2299,https://www.kansasworks.com/search/warn_lookups/2299
-Ashley Clinic/Southeast Kansas Mental Health Center,"Mar 27, 2026",,WARN,Iola,66749,1 - Kansas WorkforceONE,,2303,https://www.kansasworks.com/search/warn_lookups/2303
-First Student,"May 01, 2026",,WARN,Cincinnati,45202,1 - Kansas WorkforceONE,,2304,https://www.kansasworks.com/search/warn_lookups/2304
+Ashley Clinic/Southeast Kansas Mental Health Center,"Mar 27, 2026",116,WARN,Iola,66749,1 - Kansas WorkforceONE,"304 N. Jefferson Ave; Iola, Kansas 66749",2303,https://www.kansasworks.com/search/warn_lookups/2303
+First Student,"May 01, 2026",151,WARN,Cincinnati,45202,1 - Kansas WorkforceONE,"191 Rosa Parks St; Cincinnati, Ohio 45202",2304,https://www.kansasworks.com/search/warn_lookups/2304
 "First Brands Group, LLC (Horizon Global)","Feb 27, 2026",,WARN,Edgerton,66021,3 - Workforce Partnership,,2301,https://www.kansasworks.com/search/warn_lookups/2301
-"Vornado Air, LLC.","Jan 30, 2026",72,WARN,Andover,67002,4 - Workforce Alliance,"415 E. 13th ; Andover, Kansas 67002",2297,https://www.kansasworks.com/search/warn_lookups/2297
-Lowe's,"Feb 13, 2026",3,WARN,Charlotte,28203,3 - Workforce Partnership,"100 W Worthington Avenue; Charlotte, North Carolina 28203",2298,https://www.kansasworks.com/search/warn_lookups/2298
-S&S Activewear,"Jan 20, 2025",,WARN,Edwardsville,66111,3 - Workforce Partnership,,2259,https://www.kansasworks.com/search/warn_lookups/2259
-"Jack Cooper Transport Company, LLC","Feb 10, 2025",,WARN,Kansas City,66115,3 - Workforce Partnership,,2261,https://www.kansasworks.com/search/warn_lookups/2261
-DEMDACO,"May 21, 2025",,WARN,Leawood,66209,3 - Workforce Partnership,,2282,https://www.kansasworks.com/search/warn_lookups/2282
-Coperion K-Tron,"Jan 22, 2025",,WARN,Salina,67401,1 - Kansas WorkforceONE,,2260,https://www.kansasworks.com/search/warn_lookups/2260
-"SPO Management, LLC","Jul 29, 2025",,WARN,Manhattan,66502,2 - Workforce Investment Area II,,2286,https://www.kansasworks.com/search/warn_lookups/2286
-United BioSource LLC (UBC),"Sep 26, 2025",123,WARN,Overland Park,66213,3 - Workforce Partnership,"12900 Foster Street ; Overland Park, Kansas 66213",2290,https://www.kansasworks.com/search/warn_lookups/2290
-"Gates Corporation ""Gates""","Oct 02, 2025",81,WARN,Iola,66749,5 - Workforce Investment Area V,"1450 Montana Road; Iola, Kansas 66749",2291,https://www.kansasworks.com/search/warn_lookups/2291
-TC Transcontinental,"Feb 26, 2025",45,WARN,Lenexa,66219,3 - Workforce Partnership,"10810 Mid AMerica Dr. ; Lenexa, Kansas 66219",2266,https://www.kansasworks.com/search/warn_lookups/2266
-Unrivaled Teamwear,"Jul 29, 2025",,WARN,Manhattan,66502,1 - Kansas WorkforceONE,,2289,https://www.kansasworks.com/search/warn_lookups/2289
-ORBIS Corporation,"Mar 21, 2025",,WARN,Osage City,66523,2 - Workforce Investment Area II,,2273,https://www.kansasworks.com/search/warn_lookups/2273
-"Panera, LLC","Mar 21, 2025",,WARN,Lenexa,66215,3 - Workforce Partnership,,2275,https://www.kansasworks.com/search/warn_lookups/2275
-Federal Express Corporation (FedEx),"Apr 30, 2025",,WARN,Wichita,67209,4 - Workforce Alliance,,2279,https://www.kansasworks.com/search/warn_lookups/2279
-"Veyer, LLC","May 16, 2025",,WARN,Edwardsville,66111,3 - Workforce Partnership,,2281,https://www.kansasworks.com/search/warn_lookups/2281
-Learjet,"Apr 07, 2021",206,WARN,Wichita,67209,4 - Workforce Alliance,"One Learjet Way; Wichita, Kansas 67209",2142,https://www.kansasworks.com/search/warn_lookups/2142
-"Forest River, Inc.","Mar 08, 2021",146,WARN,Salina,67401,1 - Kansas WorkforceONE,"1655 Wall Street; Salina, Kansas 67401",2140,https://www.kansasworks.com/search/warn_lookups/2140
-Medova Healthcare,"May 27, 2021",,WARN,Wichita,67226,4 - Workforce Alliance,,2144,https://www.kansasworks.com/search/warn_lookups/2144
-"Chewy, Inc.","Jun 10, 2021",,WARN,Edgerton,66021,3 - Workforce Partnership,,2147,https://www.kansasworks.com/search/warn_lookups/2147
-Waddell & Reed,"Feb 26, 2021",,WARN,Mission,66202,3 - Workforce Partnership,,2135,https://www.kansasworks.com/search/warn_lookups/2135
-"Cowley Distributing, Inc.","Sep 16, 2021",,WARN,Jefferson City,65109,3 - Workforce Partnership,,2149,https://www.kansasworks.com/search/warn_lookups/2149
-"Cowley Distributing, Inc.","Sep 16, 2021",,WARN,Jefferson City,65109,4 - Workforce Alliance,,2150,https://www.kansasworks.com/search/warn_lookups/2150
-PAE,"Oct 01, 2021",,WARN,Falls Church,22043,3 - Workforce Partnership,,2153,https://www.kansasworks.com/search/warn_lookups/2153
-Sprint,"Jan 22, 2016",829,WARN,,,3 - Workforce Partnership,,1780,https://www.kansasworks.com/search/warn_lookups/1780
-Walmart,"Jan 15, 2016",71,WARN,,,4 - Workforce Alliance,,1777,https://www.kansasworks.com/search/warn_lookups/1777
-Walmart,"Jan 15, 2016",,WARN,,,4 - Workforce Alliance,,1778,https://www.kansasworks.com/search/warn_lookups/1778
-Walmart,"Jan 15, 2016",,WARN,,,4 - Workforce Alliance,,1779,https://www.kansasworks.com/search/warn_lookups/1779
-QuadGraphics,"Jan 28, 2016",,WARN,,,3 - Workforce Partnership,,1784,https://www.kansasworks.com/search/warn_lookups/1784
-PolyOne,"Feb 03, 2016",,WARN,,,4 - Workforce Alliance,,1785,https://www.kansasworks.com/search/warn_lookups/1785
-The Wichita Eagle,"Mar 15, 2016",74,WARN,,,4 - Workforce Alliance,,1793,https://www.kansasworks.com/search/warn_lookups/1793
-Sprint,"Apr 26, 2016",113,WARN,,,3 - Workforce Partnership,,1799,https://www.kansasworks.com/search/warn_lookups/1799
-Machine Laboratory,"May 02, 2016",150,WARN,,,3 - Workforce Partnership,,1800,https://www.kansasworks.com/search/warn_lookups/1800
-Arvos Group,"May 09, 2016",,WARN,,,1 - Kansas WorkforceONE,,1801,https://www.kansasworks.com/search/warn_lookups/1801
-Arvos,"Apr 26, 2016",178,WARN,,,1 - Kansas WorkforceONE,,1809,https://www.kansasworks.com/search/warn_lookups/1809
-Ray E. Dillon Living Center,"Jul 07, 2016",85,WARN,,,1 - Kansas WorkforceONE,,1814,https://www.kansasworks.com/search/warn_lookups/1814
-Ray E. Dillon Living Center,"Jul 07, 2016",68,WARN,,,1 - Kansas WorkforceONE,,1818,https://www.kansasworks.com/search/warn_lookups/1818
-"Affliated Foods Midwest Cooperative, Inc.","Aug 17, 2016",,WARN,,,2 - Workforce Investment Area II,,1820,https://www.kansasworks.com/search/warn_lookups/1820
-Anadarko Petroleum Corporation,"Aug 23, 2016",,WARN,,,1 - Kansas WorkforceONE,,1821,https://www.kansasworks.com/search/warn_lookups/1821
-LSI MidWest Lighting Inc,"Sep 22, 2016",,WARN,,,3 - Workforce Partnership,,1826,https://www.kansasworks.com/search/warn_lookups/1826
-"Impresa Aerospace, LLC","Sep 30, 2016",,WARN,,,4 - Workforce Alliance,,1827,https://www.kansasworks.com/search/warn_lookups/1827
-NetApp,"Nov 03, 2016",,WARN,,,4 - Workforce Alliance,,1834,https://www.kansasworks.com/search/warn_lookups/1834
-Unilever Food Solutions,"Jan 22, 2009",60,WARN,,,4 - Workforce Alliance,,1061,https://www.kansasworks.com/search/warn_lookups/1061
-Boeing,"Jan 19, 2009",22,WARN,,,4 - Workforce Alliance,,1063,https://www.kansasworks.com/search/warn_lookups/1063
-Cessna,"Jan 29, 2009",,WARN,,,4 - Workforce Alliance,,1066,https://www.kansasworks.com/search/warn_lookups/1066
-Accenture,"Jan 28, 2009",,WARN,,,4 - Workforce Alliance,,1068,https://www.kansasworks.com/search/warn_lookups/1068
-Sprint Nextel,"Feb 03, 2009",,WARN,,,3 - Workforce Partnership,,1070,https://www.kansasworks.com/search/warn_lookups/1070
-Hawker Beechcraft,"Feb 06, 2009",,WARN,,,4 - Workforce Alliance,,1071,https://www.kansasworks.com/search/warn_lookups/1071
-Hawker Beechcraft,"Feb 06, 2009",,WARN,,,1 - Kansas WorkforceONE,,1075,https://www.kansasworks.com/search/warn_lookups/1075
-Cessna,"Feb 26, 2009",,WARN,,,4 - Workforce Alliance,,1086,https://www.kansasworks.com/search/warn_lookups/1086
-Boeing,"Feb 24, 2009",,WARN,,,4 - Workforce Alliance,,1087,https://www.kansasworks.com/search/warn_lookups/1087
-Sears Holdings,"Feb 26, 2009",,WARN,,,3 - Workforce Partnership,,1095,https://www.kansasworks.com/search/warn_lookups/1095
-Anderson Services/Prologix,"Feb 24, 2009",,WARN,,,3 - Workforce Partnership,,1096,https://www.kansasworks.com/search/warn_lookups/1096
-Unilever Food Solutions,"Mar 04, 2009",,WARN,,,4 - Workforce Alliance,,1109,https://www.kansasworks.com/search/warn_lookups/1109
-Sportsman's Warehouse,"Mar 11, 2009",45,WARN,,,4 - Workforce Alliance,,1114,https://www.kansasworks.com/search/warn_lookups/1114
-"CDG Management, LLC","Mar 17, 2009",29,WARN,,,2 - Workforce Investment Area II,,1121,https://www.kansasworks.com/search/warn_lookups/1121
-Sprint,"Mar 20, 2009",116,WARN,,,3 - Workforce Partnership,,1132,https://www.kansasworks.com/search/warn_lookups/1132
-Boeing,"Mar 23, 2009",,WARN,,,4 - Workforce Alliance,,1133,https://www.kansasworks.com/search/warn_lookups/1133
-Durham School Services,"Mar 28, 2009",,WARN,,,3 - Workforce Partnership,,1136,https://www.kansasworks.com/search/warn_lookups/1136
-Sun Microsystems,"Mar 30, 2009",,WARN,Overland Park,66210,3 - Workforce Partnership,,1137,https://www.kansasworks.com/search/warn_lookups/1137
-"Empire Today, LLC","Mar 17, 2009",,WARN,Northlake,60164,2 - Workforce Investment Area II,,1138,https://www.kansasworks.com/search/warn_lookups/1138
-CNH America LLC,"Apr 03, 2009",,WARN,,,4 - Workforce Alliance,,1140,https://www.kansasworks.com/search/warn_lookups/1140
-International Paper,"Apr 03, 2009",,WARN,,,3 - Workforce Partnership,,1141,https://www.kansasworks.com/search/warn_lookups/1141
-Snorkel International Inc.,"Apr 10, 2009",,WARN,,,2 - Workforce Investment Area II,,1142,https://www.kansasworks.com/search/warn_lookups/1142
-Nordam Group,"Apr 14, 2009",,WARN,,,4 - Workforce Alliance,,1144,https://www.kansasworks.com/search/warn_lookups/1144
-Nordam Group,"Apr 20, 2009",,WARN,,,4 - Workforce Alliance,,1146,https://www.kansasworks.com/search/warn_lookups/1146
-Boeing,"Apr 20, 2009",,WARN,,,4 - Workforce Alliance,,1147,https://www.kansasworks.com/search/warn_lookups/1147
+"Vornado Air, LLC.","Jan 30, 2026",,WARN,Andover,67002,4 - Workforce Alliance,,2297,https://www.kansasworks.com/search/warn_lookups/2297
+Lowe's,"Feb 13, 2026",,WARN,Charlotte,28203,3 - Workforce Partnership,,2298,https://www.kansasworks.com/search/warn_lookups/2298
+Unidine,"Jan 02, 2024",67,WARN,Wichita,67226,4 - Workforce Alliance,"7373 East 29th Street; Wichita, Kansas 67226",2222,https://www.kansasworks.com/search/warn_lookups/2222
+Valu Merchandisers Company,"Jan 08, 2024",118,WARN,Fort Scott,66701,5 - Workforce Investment Area V,"4805 Campbell Drive; Fort Scott, Kansas 66701",2223,https://www.kansasworks.com/search/warn_lookups/2223
+Timken Belts,"Jan 08, 2024",,WARN,Fort Scott,66701,5 - Workforce Investment Area V,,2224,https://www.kansasworks.com/search/warn_lookups/2224
+Walmart,"May 17, 2024",,WARN,Edgerton,66021,3 - Workforce Partnership,,2240,https://www.kansasworks.com/search/warn_lookups/2240
+Legacy,"Jun 13, 2024",,WARN,Kansas City,66106,3 - Workforce Partnership,,2242,https://www.kansasworks.com/search/warn_lookups/2242
+Hostess Brands,"Jul 29, 2024",,WARN,Lenexa,66215,3 - Workforce Partnership,,2245,https://www.kansasworks.com/search/warn_lookups/2245
+Penske Logistics LLC,"Sep 16, 2024",,WARN,Kansas City,66115,3 - Workforce Partnership,,2247,https://www.kansasworks.com/search/warn_lookups/2247
+OPmobility,"Sep 18, 2024",72,WARN,Kansas City,66115,3 - Workforce Partnership,"220 Kindleberger Rd; Kansas City, Kansas 66115",2248,https://www.kansasworks.com/search/warn_lookups/2248
+"Comprehensive Logistics, Inc LLC","Sep 20, 2024",18,WARN,Kansas City,66115,3 - Workforce Partnership,"230 Kindleberger Road; Kansas City, Kansas 66115",2250,https://www.kansasworks.com/search/warn_lookups/2250
+General Motors LLC,"Sep 19, 2024",1695,WARN,Kansas City,66115,3 - Workforce Partnership,"3201 Fairfax Trafficway; Kansas City, Kansas 66115",2249,https://www.kansasworks.com/search/warn_lookups/2249
+"Vimo, Inc. dba GetInsured","Dec 20, 2024",,WARN,Junction City,66441,2 - Workforce Investment Area II,,2254,https://www.kansasworks.com/search/warn_lookups/2254
+Caterpillar,"Nov 12, 2024",,WARN,Wamego,66547,2 - Workforce Investment Area II,,2255,https://www.kansasworks.com/search/warn_lookups/2255
+D&A Consulting Service,"Dec 30, 2024",,WARN,Mountain View,94043,3 - Workforce Partnership,,2258,https://www.kansasworks.com/search/warn_lookups/2258
+"Tyson Food, Inc.","Dec 02, 2024",809,WARN,Emporia,66801,5 - Workforce Investment Area V,"2101 West 6th Street; Emporia, Kansas 66801",2253,https://www.kansasworks.com/search/warn_lookups/2253
+AGI Suretrack LLC (AGI),"Jan 11, 2023",73,WARN,Leawood,66211,3 - Workforce Partnership,"4001 W 114th Street; Leawood, Kansas 66211",2182,https://www.kansasworks.com/search/warn_lookups/2182
+John Deere,"Jan 24, 2023",,WARN,Coffeyville,67337,5 - Workforce Investment Area V,,2183,https://www.kansasworks.com/search/warn_lookups/2183
+HealthHelp,"Jan 23, 2023",,WARN,Houston,77060,1 - Kansas WorkforceONE,,2186,https://www.kansasworks.com/search/warn_lookups/2186
+Sonoco Products,"Mar 06, 2023",,WARN,Hutchinson,67501,1 - Kansas WorkforceONE,,2188,https://www.kansasworks.com/search/warn_lookups/2188
+Durham School Services,"Mar 22, 2023",,WARN,Andover,67002,4 - Workforce Alliance,,2189,https://www.kansasworks.com/search/warn_lookups/2189
+Sonoco,"Mar 03, 2023",,WARN,Hutchinson,67501,1 - Kansas WorkforceONE,,2193,https://www.kansasworks.com/search/warn_lookups/2193
+"Husky Liners, Inc","Apr 17, 2023",,WARN,Wichita,67219,4 - Workforce Alliance,,2194,https://www.kansasworks.com/search/warn_lookups/2194
+"Husky Liners, Inc","Apr 17, 2023",89,WARN,Winfield,67156,4 - Workforce Alliance,"22425 D Street; Winfield, Kansas 67156",2195,https://www.kansasworks.com/search/warn_lookups/2195
+Walmart,"May 03, 2023",106,WARN,Overland Park,66212,3 - Workforce Partnership,"10303Metcalf Avenue; Overland Park, Kansas 66212",2200,https://www.kansasworks.com/search/warn_lookups/2200
+"Compass Group USA, Inc.","May 04, 2023",121,WARN,Hays,67601,1 - Kansas WorkforceONE,"600 Park Street; Hays, Kansas 67601",2201,https://www.kansasworks.com/search/warn_lookups/2201
+"Packers Sanitation Services, Inc.","May 05, 2023",,WARN,Dodge City,67801,1 - Kansas WorkforceONE,,2202,https://www.kansasworks.com/search/warn_lookups/2202
+"PPC Flexible Packaging, LLC","Jun 22, 2023",,WARN,Mission,66202,3 - Workforce Partnership,,2206,https://www.kansasworks.com/search/warn_lookups/2206
+National Safety Apparel,"Aug 01, 2023",,WARN,Cleveland,44135,5 - Workforce Investment Area V,,2210,https://www.kansasworks.com/search/warn_lookups/2210
+PT Solutions,"Aug 14, 2023",,WARN,Atlanta,30339,3 - Workforce Partnership,,2212,https://www.kansasworks.com/search/warn_lookups/2212
+Yellow Corp,"Jul 30, 2023",,WARN,Washington,20001,1 - Kansas WorkforceONE,,2214,https://www.kansasworks.com/search/warn_lookups/2214
+Sheridan,"Aug 28, 2023",,WARN,Lawrence,66044,2 - Workforce Investment Area II,,2215,https://www.kansasworks.com/search/warn_lookups/2215
+Yellow Corporation,"Jul 30, 2023",,WARN,Washington,20001,3 - Workforce Partnership,,2211,https://www.kansasworks.com/search/warn_lookups/2211
+Silgan Dispensing Systems Corporation,"Nov 28, 2023",,WARN,Winfield,67156,4 - Workforce Alliance,,2229,https://www.kansasworks.com/search/warn_lookups/2229
+John Deere Coffeyville Works,"Nov 28, 2023",10,WARN,Coffeyville,67337,5 - Workforce Investment Area V,"2624 N US Hwy 169; Coffeyville, Kansas 67337",2232,https://www.kansasworks.com/search/warn_lookups/2232
+Saint Francis MInistries,"Nov 28, 2023",240,WARN,Wichita,67218,4 - Workforce Alliance,"4155 E. Harry Street; Wichita, Kansas 67218",2236,https://www.kansasworks.com/search/warn_lookups/2236
+Convey Health Solutions,"Nov 28, 2023",141,WARN,Lenexa,66219,3 - Workforce Partnership,"15610 W. 100th Terrace; Lenexa, Kansas 66219",2239,https://www.kansasworks.com/search/warn_lookups/2239
+Learjet,"Jan 15, 2015",720,WARN,,,4 - Workforce Alliance,,1711,https://www.kansasworks.com/search/warn_lookups/1711
+Boeing,"Jan 16, 2015",1,WARN,,,4 - Workforce Alliance,,1712,https://www.kansasworks.com/search/warn_lookups/1712
+"NCO Financial Systems, Inc","Jan 29, 2015",,WARN,,,3 - Workforce Partnership,,1713,https://www.kansasworks.com/search/warn_lookups/1713
+Boeing,"Feb 20, 2015",,WARN,,,4 - Workforce Alliance,,1717,https://www.kansasworks.com/search/warn_lookups/1717
+Select Medical Corporation,"Mar 04, 2015",,WARN,,,2 - Workforce Investment Area II,,1718,https://www.kansasworks.com/search/warn_lookups/1718
+Northwest Pipe Company,"Apr 06, 2015",,WARN,,,2 - Workforce Investment Area II,,1721,https://www.kansasworks.com/search/warn_lookups/1721
+Worthington Industries,"Mar 27, 2015",,WARN,,,1 - Kansas WorkforceONE,,1723,https://www.kansasworks.com/search/warn_lookups/1723
+Worthington Industries,"Apr 07, 2015",,WARN,,,1 - Kansas WorkforceONE,,1724,https://www.kansasworks.com/search/warn_lookups/1724
+Boeing,"Apr 17, 2015",,WARN,,,4 - Workforce Alliance,,1727,https://www.kansasworks.com/search/warn_lookups/1727
+Ally Servicing,"Apr 22, 2015",178,WARN,,,4 - Workforce Alliance,,1729,https://www.kansasworks.com/search/warn_lookups/1729
+Convergys,"May 19, 2015",56,WARN,Wichita,67226,4 - Workforce Alliance,"3718 N Rock Rd; Wichita, Kansas 67226",1734,https://www.kansasworks.com/search/warn_lookups/1734
+"ServiceLink NLS, LLS","Jun 24, 2015",53,WARN,,,3 - Workforce Partnership,,1736,https://www.kansasworks.com/search/warn_lookups/1736
+Armed Forces Bank,"Jun 29, 2015",,WARN,,,3 - Workforce Partnership,,1737,https://www.kansasworks.com/search/warn_lookups/1737
+"ServiceLink NLS, LLS","Jun 24, 2015",,WARN,,,3 - Workforce Partnership,,1738,https://www.kansasworks.com/search/warn_lookups/1738
+"Herff Jones, Inc.","Jul 07, 2015",,WARN,,,5 - Workforce Investment Area V,,1739,https://www.kansasworks.com/search/warn_lookups/1739
+Herff Jones,"Jul 08, 2015",,WARN,,,5 - Workforce Investment Area V,,1743,https://www.kansasworks.com/search/warn_lookups/1743
+Royal Oakes,"May 20, 2015",,WARN,,,5 - Workforce Investment Area V,,1744,https://www.kansasworks.com/search/warn_lookups/1744
+Boeing,"Jul 17, 2015",,WARN,,,4 - Workforce Alliance,,1745,https://www.kansasworks.com/search/warn_lookups/1745
+EC Manufacturing,"Sep 30, 2015",,WARN,,,3 - Workforce Partnership,,1752,https://www.kansasworks.com/search/warn_lookups/1752
+"Sodexo, Inc.","Oct 31, 2015",116,WARN,,,2 - Workforce Investment Area II,,1757,https://www.kansasworks.com/search/warn_lookups/1757
+Valassis,"Dec 08, 2015",114,WARN,,,4 - Workforce Alliance,,1767,https://www.kansasworks.com/search/warn_lookups/1767
+Sprint,"Jan 16, 2015",92,WARN,,,3 - Workforce Partnership,,1773,https://www.kansasworks.com/search/warn_lookups/1773
+Sprint,"Apr 10, 2015",,WARN,,,3 - Workforce Partnership,,1774,https://www.kansasworks.com/search/warn_lookups/1774
+Sprint,"Aug 28, 2015",,WARN,,,3 - Workforce Partnership,,1775,https://www.kansasworks.com/search/warn_lookups/1775
+Zumiez,"Dec 28, 2015",,WARN,,,3 - Workforce Partnership,,1791,https://www.kansasworks.com/search/warn_lookups/1791
+"Grede Foundries, Inc.","Jan 07, 2010",91,WARN,,,4 - Workforce Alliance,,1268,https://www.kansasworks.com/search/warn_lookups/1268
+Hawker Beechcraft,"Jan 11, 2010",70,WARN,,,4 - Workforce Alliance,,1269,https://www.kansasworks.com/search/warn_lookups/1269
+Boeing,"Jan 15, 2010",,WARN,,,4 - Workforce Alliance,,1270,https://www.kansasworks.com/search/warn_lookups/1270
+Hawker Beechcraft,"Jan 25, 2010",,WARN,,,4 - Workforce Alliance,,1272,https://www.kansasworks.com/search/warn_lookups/1272
+Boeing,"Feb 19, 2010",,WARN,,,4 - Workforce Alliance,,1281,https://www.kansasworks.com/search/warn_lookups/1281
+BlueCross BlueShield of Kansas City,"Feb 25, 2010",,WARN,,,3 - Workforce Partnership,,1283,https://www.kansasworks.com/search/warn_lookups/1283
+CT General Life Insurance Company,"Mar 15, 2010",100,WARN,,,5 - Workforce Investment Area V,,1286,https://www.kansasworks.com/search/warn_lookups/1286
+Boeing,"Mar 19, 2010",25,WARN,,,4 - Workforce Alliance,,1287,https://www.kansasworks.com/search/warn_lookups/1287
+Schuff Steel Midwest,"Mar 24, 2010",50,WARN,,,2 - Workforce Investment Area II,,1288,https://www.kansasworks.com/search/warn_lookups/1288
+Cessna,"Mar 26, 2010",,WARN,,,4 - Workforce Alliance,,1289,https://www.kansasworks.com/search/warn_lookups/1289
+Durham School Services,"Mar 24, 2010",,WARN,,,4 - Workforce Alliance,,1290,https://www.kansasworks.com/search/warn_lookups/1290
+Hawker Beechcraft,"Apr 05, 2010",,WARN,,,4 - Workforce Alliance,,1291,https://www.kansasworks.com/search/warn_lookups/1291
+"NCO Customer Management, Inc.","Apr 06, 2010",,WARN,,,3 - Workforce Partnership,,1292,https://www.kansasworks.com/search/warn_lookups/1292
+Hawker Beechcraft,"Apr 15, 2010",,WARN,,,4 - Workforce Alliance,,1295,https://www.kansasworks.com/search/warn_lookups/1295
+Boeing,"Apr 16, 2010",,WARN,,,4 - Workforce Alliance,,1296,https://www.kansasworks.com/search/warn_lookups/1296
+Hawker Beechcraft,"Apr 19, 2010",,WARN,,,4 - Workforce Alliance,,1297,https://www.kansasworks.com/search/warn_lookups/1297
+Hawker Beechcraft,"May 17, 2010",,WARN,,,4 - Workforce Alliance,,1302,https://www.kansasworks.com/search/warn_lookups/1302
+Boeing,"May 21, 2010",22,WARN,,,4 - Workforce Alliance,,1303,https://www.kansasworks.com/search/warn_lookups/1303
+Boeing,"Jun 18, 2010",37,WARN,,,4 - Workforce Alliance,,1306,https://www.kansasworks.com/search/warn_lookups/1306
+Hawker Beechcraft,"Jul 01, 2010",130,WARN,,,4 - Workforce Alliance,,1308,https://www.kansasworks.com/search/warn_lookups/1308
+Alorica,"Jul 06, 2010",,WARN,,,2 - Workforce Investment Area II,,1310,https://www.kansasworks.com/search/warn_lookups/1310
+Haldex Brake Products Corporation,"Jul 15, 2010",,WARN,,,5 - Workforce Investment Area V,,1311,https://www.kansasworks.com/search/warn_lookups/1311
+Hawker Beechcraft,"Jul 23, 2010",,WARN,,,1 - Kansas WorkforceONE,,1318,https://www.kansasworks.com/search/warn_lookups/1318
+Boeing,"Jul 23, 2010",,WARN,,,4 - Workforce Alliance,,1319,https://www.kansasworks.com/search/warn_lookups/1319
+Boeing,"Aug 20, 2010",,WARN,,,4 - Workforce Alliance,,1321,https://www.kansasworks.com/search/warn_lookups/1321
+Snorkel,"Nov 04, 2008",185,WARN,,,2 - Workforce Investment Area II,,1019,https://www.kansasworks.com/search/warn_lookups/1019
+Dillon Stores,"Jan 29, 2008",96,WARN,,,3 - Workforce Partnership,,959,https://www.kansasworks.com/search/warn_lookups/959
+"Schult Homes and CMH Manufacturing IN.,","Jan 21, 2008",,WARN,,,1 - Kansas WorkforceONE,,955,https://www.kansasworks.com/search/warn_lookups/955
+Sprint,"Jan 25, 2008",,WARN,,,3 - Workforce Partnership,,956,https://www.kansasworks.com/search/warn_lookups/956
+"Tyson Fresh Meats, Inc.","Jan 25, 2008",,WARN,,,5 - Workforce Investment Area V,,957,https://www.kansasworks.com/search/warn_lookups/957
+Dillon Stores,"Jan 29, 2008",,WARN,,,3 - Workforce Partnership,,958,https://www.kansasworks.com/search/warn_lookups/958
+"Tyson Fresh Meats, Inc.","Feb 06, 2008",,WARN,,,5 - Workforce Investment Area V,,960,https://www.kansasworks.com/search/warn_lookups/960
+Sprint,"Apr 04, 2008",,WARN,,,3 - Workforce Partnership,,964,https://www.kansasworks.com/search/warn_lookups/964
+Pizza Hut,"May 01, 2008",,WARN,,,3 - Workforce Partnership,,968,https://www.kansasworks.com/search/warn_lookups/968
+Brooke Capital Corporation,"May 05, 2008",44,WARN,,,3 - Workforce Partnership,,969,https://www.kansasworks.com/search/warn_lookups/969
+Air Midwest,"May 19, 2008",89,WARN,,,4 - Workforce Alliance,,974,https://www.kansasworks.com/search/warn_lookups/974
+Brooke Capital Corporation,"Jun 06, 2008",56,WARN,,,3 - Workforce Partnership,,976,https://www.kansasworks.com/search/warn_lookups/976
+Heartland Cement Company,"May 28, 2008",,WARN,,,5 - Workforce Investment Area V,,977,https://www.kansasworks.com/search/warn_lookups/977
+Embarq,"Jun 12, 2008",,WARN,,,3 - Workforce Partnership,,978,https://www.kansasworks.com/search/warn_lookups/978
+Meridian Automotive Systems,"Jul 01, 2008",,WARN,,,3 - Workforce Partnership,,979,https://www.kansasworks.com/search/warn_lookups/979
+The Woodlands,"Jul 22, 2008",,WARN,,,3 - Workforce Partnership,,982,https://www.kansasworks.com/search/warn_lookups/982
+"Superior Industries International, Inc.","Aug 19, 2008",,WARN,,,5 - Workforce Investment Area V,,987,https://www.kansasworks.com/search/warn_lookups/987
+Nu Wa Industries Inc.,"Aug 21, 2008",,WARN,,,5 - Workforce Investment Area V,,988,https://www.kansasworks.com/search/warn_lookups/988
+Hawker Beechcraft,"Nov 03, 2008",,WARN,,,4 - Workforce Alliance,,1018,https://www.kansasworks.com/search/warn_lookups/1018
+YRC Worldwide's Norht American Transportation,"Sep 29, 2008",,WARN,,,2 - Workforce Investment Area II,,1000,https://www.kansasworks.com/search/warn_lookups/1000
+APL Logistics,"Oct 08, 2008",104,WARN,,,4 - Workforce Alliance,,1003,https://www.kansasworks.com/search/warn_lookups/1003
+"CDG Management, LLC","Oct 08, 2008",58,WARN,,,5 - Workforce Investment Area V,,1004,https://www.kansasworks.com/search/warn_lookups/1004
+Progress Rail Services,"Oct 14, 2008",44,WARN,,,2 - Workforce Investment Area II,,1013,https://www.kansasworks.com/search/warn_lookups/1013
+"Nu Wa Industries, Inc.","Nov 06, 2008",,WARN,,,5 - Workforce Investment Area V,,1024,https://www.kansasworks.com/search/warn_lookups/1024
+BlueCross BlueShield of Kansas City,"Nov 07, 2008",,WARN,,,3 - Workforce Partnership,,1025,https://www.kansasworks.com/search/warn_lookups/1025
 Tyco Capital Corporation,"Feb 01, 2002",40,WARN,,,3 - Workforce Partnership,,161,https://www.kansasworks.com/search/warn_lookups/161
 CNA INSURANCE,"Feb 06, 2002",89,WARN,,,3 - Workforce Partnership,,170,https://www.kansasworks.com/search/warn_lookups/170
 VECTRON INTERNATIONAL,"Feb 25, 2002",,WARN,,,3 - Workforce Partnership,,176,https://www.kansasworks.com/search/warn_lookups/176
@@ -79,19 +125,19 @@ HOBART CORPORATION,"Feb 25, 2002",,WARN,,,3 - Workforce Partnership,,190,https:/
 Modine Mfg,"Mar 21, 2002",,WARN,,,5 - Workforce Investment Area V,,199,https://www.kansasworks.com/search/warn_lookups/199
 "Genmar Manufacturing of Kansas, L.L.C.","Mar 18, 2002",,WARN,,,2 - Workforce Investment Area II,,200,https://www.kansasworks.com/search/warn_lookups/200
 Farmland Industries-Lawrence,"Jan 10, 2002",,WARN,,,2 - Workforce Investment Area II,,209,https://www.kansasworks.com/search/warn_lookups/209
-"Hill's Pet Nutrition, Inc. and Subsidiaries","Jan 18, 2002",,WARN,,,2 - Workforce Investment Area II,,212,https://www.kansasworks.com/search/warn_lookups/212
-Burlington Northern Santa Fe Railway,"Feb 21, 2002",,WARN,,,2 - Workforce Investment Area II,,227,https://www.kansasworks.com/search/warn_lookups/227
-Spiegel Group Telemarketing Service Inc.,"Mar 12, 2002",,WARN,,,4 - Workforce Alliance,,291,https://www.kansasworks.com/search/warn_lookups/291
+"Hill's Pet Nutrition, Inc. and Subsidiaries","Jan 18, 2002",27,WARN,,,2 - Workforce Investment Area II,,212,https://www.kansasworks.com/search/warn_lookups/212
+Burlington Northern Santa Fe Railway,"Feb 21, 2002",100,WARN,,,2 - Workforce Investment Area II,,227,https://www.kansasworks.com/search/warn_lookups/227
+Spiegel Group Telemarketing Service Inc.,"Mar 12, 2002",670,WARN,,,4 - Workforce Alliance,same,291,https://www.kansasworks.com/search/warn_lookups/291
 KMart,"Mar 11, 2002",,WARN,,,1 - Kansas WorkforceONE,,275,https://www.kansasworks.com/search/warn_lookups/275
 Albertsons,"Apr 10, 2002",,WARN,,,4 - Workforce Alliance,,279,https://www.kansasworks.com/search/warn_lookups/279
 Boeing Company,"Apr 22, 2002",,WARN,,,4 - Workforce Alliance,,289,https://www.kansasworks.com/search/warn_lookups/289
 Padgett Thompson Seminar Division,"Jun 25, 2002",,WARN,,,3 - Workforce Partnership,,310,https://www.kansasworks.com/search/warn_lookups/310
 International Paper,"May 14, 2002",,WARN,,,3 - Workforce Partnership,,312,https://www.kansasworks.com/search/warn_lookups/312
-The Boeing Company,"Jun 24, 2002",81,WARN,,,4 - Workforce Alliance,,313,https://www.kansasworks.com/search/warn_lookups/313
-"Penske Logistics, Inc.","Jun 25, 2002",10,WARN,,,3 - Workforce Partnership,,315,https://www.kansasworks.com/search/warn_lookups/315
-"Penske Logistics, Inc.","Jun 25, 2002",10,WARN,,,2 - Workforce Investment Area II,,316,https://www.kansasworks.com/search/warn_lookups/316
-"Penske Logistics, Inc.","Jun 25, 2002",,WARN,,,4 - Workforce Alliance,,317,https://www.kansasworks.com/search/warn_lookups/317
-Dearborn Mid-West Conveyor Co.,"Jul 25, 2002",,WARN,,,3 - Workforce Partnership,,354,https://www.kansasworks.com/search/warn_lookups/354
-Boeing Company,"Jul 22, 2002",,WARN,,,4 - Workforce Alliance,,355,https://www.kansasworks.com/search/warn_lookups/355
+The Boeing Company,"Jun 24, 2002",,WARN,,,4 - Workforce Alliance,,313,https://www.kansasworks.com/search/warn_lookups/313
+"Penske Logistics, Inc.","Jun 25, 2002",,WARN,,,3 - Workforce Partnership,,315,https://www.kansasworks.com/search/warn_lookups/315
+"Penske Logistics, Inc.","Jun 25, 2002",,WARN,,,2 - Workforce Investment Area II,,316,https://www.kansasworks.com/search/warn_lookups/316
+"Penske Logistics, Inc.","Jun 25, 2002",10,WARN,,,4 - Workforce Alliance,,317,https://www.kansasworks.com/search/warn_lookups/317
+Dearborn Mid-West Conveyor Co.,"Jul 25, 2002",119,WARN,,,3 - Workforce Partnership,,354,https://www.kansasworks.com/search/warn_lookups/354
+Boeing Company,"Jul 22, 2002",70,WARN,,,4 - Workforce Alliance,,355,https://www.kansasworks.com/search/warn_lookups/355
 Bank of America,"Jul 23, 2002",,WARN,,,4 - Workforce Alliance,,357,https://www.kansasworks.com/search/warn_lookups/357
 Vanguard Airlines,"Jul 29, 2002",,WARN,,,3 - Workforce Partnership,,358,https://www.kansasworks.com/search/warn_lookups/358
