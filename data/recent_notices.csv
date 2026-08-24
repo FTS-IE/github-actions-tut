@@ -512,7 +512,7 @@ CA,Lumileds LLC,2026-06-17,11,Lumileds LLC2026-06-17
 TN,Smurfit Westrock,2026-06-17,N/A,Smurfit Westrock2026-06-17
 TN,YesCare Corp.,2026-06-17,N/A,YesCare Corp.2026-06-17
 CA,"Comedy Club Oxnard, LLC",2026-06-17,69,"Comedy Club Oxnard, LLC2026-06-17"
-VT,"St. Albans Creamery, LLC",2026-06-17,81,"St. Albans Creamery, LLC2026-06-17"
+VT,"St. Albans Creamery, LLC",2026-06-17,N/A,"St. Albans Creamery, LLC2026-06-17"
 TN,JBS USA Food Company,2026-06-17,N/A,JBS USA Food Company2026-06-17
 WA,"First Student, Inc.",2026-06-17,N/A,"First Student, Inc.2026-06-17"
 IN,"SIMOS Insourcing Solutions, LLC",2026-06-17,572,"SIMOS Insourcing Solutions, LLC2026-06-17"
@@ -522,7 +522,7 @@ CA,"Cisco Systems, Inc.",2026-06-16,236,"Cisco Systems, Inc.2026-06-16"
 CA,"Cisco Systems, Inc.",2026-06-16,81,"Cisco Systems, Inc.2026-06-16"
 CA,"Cisco Systems, Inc.",2026-06-16,154,"Cisco Systems, Inc.2026-06-16"
 TN,Pilgrim's Pride Corporation,2026-06-16,N/A,Pilgrim's Pride Corporation2026-06-16
-AZ,"Leona Arizona Employment Group, Inc.",2026-06-16,N/A,"Leona Arizona Employment Group, Inc.2026-06-16"
+AZ,"Leona Arizona Employment Group, Inc.",2026-06-16,66,"Leona Arizona Employment Group, Inc.2026-06-16"
 PA,"Vestis Services, LLC",2026-06-15,5,"Vestis Services, LLC2026-06-15"
 TN,"CACI, Inc.",2026-06-15,N/A,"CACI, Inc.2026-06-15"
 VA,Vestis Services LLC,2026-06-15,19,Vestis Services LLC2026-06-15
@@ -551,7 +551,7 @@ CA,"Veritone, Inc.",2026-06-10,31,"Veritone, Inc.2026-06-10"
 CA,"ServiceNow, Inc.",2026-06-10,63,"ServiceNow, Inc.2026-06-10"
 VA,General Dynamics Information Technology ,2026-06-09,174,General Dynamics Information Technology 2026-06-09
 HI,Ben Bridge (Pearlridge Store),2026-06-09,N/A,Ben Bridge (Pearlridge Store)2026-06-09
-VT,University of Vermont Health,2026-06-09,142,University of Vermont Health2026-06-09
+VT,University of Vermont Health,2026-06-09,N/A,University of Vermont Health2026-06-09
 IA,Iowa Department of Management,2026-06-09,N/A,Iowa Department of Management2026-06-09
 FL,"Sanitas Medical Centers 
 3001 Coral Hills Dr #360
@@ -679,7 +679,7 @@ CA,Blue Diamond Growers,2026-06-05,40,Blue Diamond Growers2026-06-05
 MO,Unknown,2026-06-05,107,Unknown2026-06-05
 CA,Morgan Advance Ceramics Inc.,2026-06-05,96,Morgan Advance Ceramics Inc.2026-06-05
 VA,SMBC Manubank,2026-06-04,6,SMBC Manubank2026-06-04
-AZ,SMBC MANUBANK,2026-06-04,12,SMBC MANUBANK2026-06-04
+AZ,SMBC MANUBANK,2026-06-04,N/A,SMBC MANUBANK2026-06-04
 WA,SMBC Manubank,2026-06-04,N/A,SMBC Manubank2026-06-04
 IA,Whirlpool Corporation,2026-06-04,N/A,Whirlpool Corporation2026-06-04
 CA,Highlands Community Charter and Technical Schools (5655 Hillsdale Blvd),2026-06-03,5,Highlands Community Charter and Technical Schools (5655 Hillsdale Blvd)2026-06-03
@@ -1030,7 +1030,7 @@ NJ,Spirit Airlines,2026-05-02,201,Spirit Airlines2026-05-02
 NY,"Spirit Airlines, LLC",2026-05-02,186,"Spirit Airlines, LLC2026-05-02"
 PA,Federal Express Corporation,2026-05-02,63,Federal Express Corporation2026-05-02
 NY,Saks & Company LLC,2026-05-01,136,Saks & Company LLC2026-05-01
-KS,First Student,2026-05-01,151,First Student2026-05-01
+KS,First Student,2026-05-01,N/A,First Student2026-05-01
 WA,Maersk,2026-05-01,N/A,Maersk2026-05-01
 WA,Maersk,2026-05-01,N/A,Maersk2026-05-01
 NY,Saks & Company LLC,2026-05-01,24,Saks & Company LLC2026-05-01
@@ -1123,7 +1123,7 @@ VA,Milestone Technologies Inc,2026-04-29,50,Milestone Technologies Inc2026-04-29
 UT,Milestone Technologies Inc.,2026-04-29,50,Milestone Technologies Inc.2026-04-29
 AZ,Northpoint Expeditionary Learning Academy,2026-04-29,21,Northpoint Expeditionary Learning Academy2026-04-29
 CA,Dudek,2026-04-29,36,Dudek2026-04-29
-AZ,Benchmark,2026-04-29,N/A,Benchmark2026-04-29
+AZ,Benchmark,2026-04-29,75,Benchmark2026-04-29
 CA,"C&K Market, Inc.",2026-04-29,32,"C&K Market, Inc.2026-04-29"
 TN,Yanfeng International Automotive Technology US I LLC,2026-04-29,N/A,Yanfeng International Automotive Technology US I LLC2026-04-29
 CA,Transdev,2026-04-29,126,Transdev2026-04-29
@@ -1270,7 +1270,7 @@ ORLANDO, FL, 32801",2026-04-17,50,"Iron Galaxy Studios, LLC
 
 ORLANDO, FL, 328012026-04-17"
 CA,YMCA Juan Pacifico Ontiveros Elementary School,2026-04-17,10,YMCA Juan Pacifico Ontiveros Elementary School2026-04-17
-AZ,DLH Solutions,2026-04-17,N/A,DLH Solutions2026-04-17
+AZ,DLH Solutions,2026-04-17,312,DLH Solutions2026-04-17
 CA,YMCA Liberty Elementary School,2026-04-17,9,YMCA Liberty Elementary School2026-04-17
 CA,YMCA Arellanes Junior High,2026-04-17,4,YMCA Arellanes Junior High2026-04-17
 CA,YMCA Fairlawn Elementary School,2026-04-17,6,YMCA Fairlawn Elementary School2026-04-17
@@ -1326,7 +1326,7 @@ IA,Appliance Plus Cellular Inc,2026-04-14,N/A,Appliance Plus Cellular Inc2026-04
 IA,UnityPoint Health ,2026-04-14,N/A,UnityPoint Health 2026-04-14
 IA,Appliance Plus Cellular Inc,2026-04-14,N/A,Appliance Plus Cellular Inc2026-04-14
 IA,Appliance Plus Cellular Inc,2026-04-14,N/A,Appliance Plus Cellular Inc2026-04-14
-AZ,"The Tendit Group, LLC.",2026-04-14,143,"The Tendit Group, LLC.2026-04-14"
+AZ,"The Tendit Group, LLC.",2026-04-14,N/A,"The Tendit Group, LLC.2026-04-14"
 NY,"Citigroup Global Markets, Inc.",2026-04-14,58,"Citigroup Global Markets, Inc.2026-04-14"
 NY,"Citibank, N.A.",2026-04-14,820,"Citibank, N.A.2026-04-14"
 IA,Appliance Plus Cellular Inc,2026-04-14,N/A,Appliance Plus Cellular Inc2026-04-14
@@ -1452,7 +1452,7 @@ CA,Union of Pan Asian Communities - East Wind Clubhouse,2026-04-01,5,Union of Pa
 CA,Consolidated Entertainment LLC (Reading Cinemas,2026-04-01,63,Consolidated Entertainment LLC (Reading Cinemas2026-04-01
 CA,Victoria Nursery,2026-04-01,62,Victoria Nursery2026-04-01
 IN,"Oakland City University, Inc",2026-04-01,167,"Oakland City University, Inc2026-04-01"
-AZ,"Aramark Campus, LLC",2026-04-01,N/A,"Aramark Campus, LLC2026-04-01"
+AZ,"Aramark Campus, LLC",2026-04-01,108,"Aramark Campus, LLC2026-04-01"
 FL,"U.S. Committee for Refugees and Immigrants 
 4445 Pine Forest Drive
 
@@ -2413,7 +2413,7 @@ CA,Amazon,2026-01-29,58,Amazon2026-01-29
 CA,"Chan Zuckerberg Biohub, Inc.",2026-01-29,1,"Chan Zuckerberg Biohub, Inc.2026-01-29"
 CA,Amazon - SAN 15,2026-01-29,1,Amazon - SAN 152026-01-29
 CA,Amazon,2026-01-29,72,Amazon2026-01-29
-AZ,Shell Recharge Solutions,2026-01-29,2,Shell Recharge Solutions2026-01-29
+AZ,Shell Recharge Solutions,2026-01-29,N/A,Shell Recharge Solutions2026-01-29
 CA,Amazon,2026-01-29,11,Amazon2026-01-29
 CA,Amazon,2026-01-29,32,Amazon2026-01-29
 CA,Amazon,2026-01-29,3,Amazon2026-01-29
@@ -2632,7 +2632,7 @@ CA,Local Initiative Health Authority for Los Angeles County dba L.A. Care Health
 CA,Macy's,2026-01-09,77,Macy's2026-01-09
 OR,Oregon - Remote Employees,2026-01-08,N/A,Oregon - Remote Employees2026-01-08
 CA,Sealed Air Corporation,2026-01-08,51,Sealed Air Corporation2026-01-08
-AZ,SMBC Group - JeniusBank,2026-01-08,33,SMBC Group - JeniusBank2026-01-08
+AZ,SMBC Group - JeniusBank,2026-01-08,N/A,SMBC Group - JeniusBank2026-01-08
 WA,SMBC Manubank,2026-01-08,N/A,SMBC Manubank2026-01-08
 FL,"SMBC MANUBANK 
 Orlando
