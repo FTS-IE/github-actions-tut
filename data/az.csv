@@ -1,13 +1,13 @@
 employer,notice_date,number_of_employees_affected,warn_type,city,zip,lwib_area,address,record_number,detail_page_url
 "Block, Inc.","Feb 26, 2026",83,WARN,Oakland,94612,7 - ARIZONA@WORK - Maricopa County,"1955 Broadway, Suite 600; Oakland, California 94612",954,https://www.azjobconnection.gov/search/warn_lookups/954
 C2 Technologies,"Mar 05, 2026",1,WARN,Mc Lean,22102,7 - ARIZONA@WORK - Maricopa County,"7601 Lewinsville Road, Ste. 200; Mc Lean, Virginia 22102",955,https://www.azjobconnection.gov/search/warn_lookups/955
-"Sinomax East, Inc.","Mar 26, 2026",,WARN,Houston,77042,5 - ARIZONA@WORK - City of Phoenix,,956,https://www.azjobconnection.gov/search/warn_lookups/956
-GNC Distribution Center,"Jan 07, 2026",,WARN,Phoenix,85041,5 - ARIZONA@WORK - City of Phoenix,,937,https://www.azjobconnection.gov/search/warn_lookups/937
+"Sinomax East, Inc.","Mar 26, 2026",89,WARN,Houston,77042,5 - ARIZONA@WORK - City of Phoenix,"10111 Richmond Ave, Suite 130; Houston, Texas 77042",956,https://www.azjobconnection.gov/search/warn_lookups/956
+GNC Distribution Center,"Jan 07, 2026",66,WARN,Phoenix,85041,5 - ARIZONA@WORK - City of Phoenix,"1002 S 63rd Ave.; Phoenix, Arizona 85041",937,https://www.azjobconnection.gov/search/warn_lookups/937
 "Aramark Campus, LLC","Apr 01, 2026",,WARN,Vail,85641,6 - ARIZONA@WORK - Pima,,959,https://www.azjobconnection.gov/search/warn_lookups/959
-"Catholic Community Services of Southern Arizona, Inc.","Apr 08, 2026",74,WARN,Tucson,85705,6 - ARIZONA@WORK - Pima,"268 W. Adams St.; Tucson, Arizona 85705",961,https://www.azjobconnection.gov/search/warn_lookups/961
+"Catholic Community Services of Southern Arizona, Inc.","Apr 08, 2026",,WARN,Tucson,85705,6 - ARIZONA@WORK - Pima,,961,https://www.azjobconnection.gov/search/warn_lookups/961
 VisionQuest National LTD,"Apr 09, 2026",203,WARN,Tucson,85719,6 - ARIZONA@WORK - Pima,"1304 E. Copper St; Tucson, Arizona 85719",962,https://www.azjobconnection.gov/search/warn_lookups/962
 "The Tendit Group, LLC.","Apr 14, 2026",143,WARN,Phoenix,85050,7 - ARIZONA@WORK - Maricopa County,"2503 E. Rose Garden Lane; Phoenix, Arizona 85050",964,https://www.azjobconnection.gov/search/warn_lookups/964
-"Marsden Services, LLC","Apr 15, 2026",,WARN,Tucson,85705,6 - ARIZONA@WORK - Pima,,965,https://www.azjobconnection.gov/search/warn_lookups/965
+"Marsden Services, LLC","Apr 15, 2026",85,WARN,Tucson,85705,6 - ARIZONA@WORK - Pima,"3760 N. Commerce Drive; Tucson, Arizona 85705",965,https://www.azjobconnection.gov/search/warn_lookups/965
 Paragon Space Development Corporation,"Jun 12, 2026",,WARN,Tucson,85706,6 - ARIZONA@WORK - Pima,,977,https://www.azjobconnection.gov/search/warn_lookups/977
 Northpoint Expeditionary Learning Academy,"Apr 29, 2026",,WARN,Prescott,86301,12 - ARIZONA@WORK - Yavapai County,,968,https://www.azjobconnection.gov/search/warn_lookups/968
 "Republic National Distributing Company, LLC","Apr 23, 2026",,WARN,Phoenix,85034,5 - ARIZONA@WORK - City of Phoenix,,967,https://www.azjobconnection.gov/search/warn_lookups/967
@@ -19,58 +19,134 @@ SMBC Group - JeniusBank,"Jan 08, 2026",33,WARN,Scottsdale,85255,7 - ARIZONA@WORK
 Benchmark,"Apr 29, 2026",,WARN,Phoenix,85034,5 - ARIZONA@WORK - City of Phoenix,,969,https://www.azjobconnection.gov/search/warn_lookups/969
 "SDH Education West, LLC","May 14, 2026",,WARN,Phoenix,85017,5 - ARIZONA@WORK - City of Phoenix,,972,https://www.azjobconnection.gov/search/warn_lookups/972
 Honeywell AZ0Y,"May 27, 2026",,WARN,Chandler,85226,7 - ARIZONA@WORK - Maricopa County,,974,https://www.azjobconnection.gov/search/warn_lookups/974
-SMBC MANUBANK,"Jun 04, 2026",,WARN,New York,10172,7 - ARIZONA@WORK - Maricopa County,,976,https://www.azjobconnection.gov/search/warn_lookups/976
-"Leona Arizona Employment Group, Inc.","Jun 16, 2026",,WARN,Phoenix,85016,7 - ARIZONA@WORK - Maricopa County,,978,https://www.azjobconnection.gov/search/warn_lookups/978
+SMBC MANUBANK,"Jun 04, 2026",12,WARN,New York,10172,7 - ARIZONA@WORK - Maricopa County,"277 Park Avenue; New York, New York 10172",976,https://www.azjobconnection.gov/search/warn_lookups/976
+"Leona Arizona Employment Group, Inc.","Jun 16, 2026",66,WARN,Phoenix,85016,7 - ARIZONA@WORK - Maricopa County,"6150 N. 16th St, Suite A; Phoenix, Arizona 85016",978,https://www.azjobconnection.gov/search/warn_lookups/978
 "Conduent Commercial Solutions, LLC","Jun 29, 2026",3,WARN,Florham Park,07932,7 - ARIZONA@WORK - Maricopa County,"100 Campus; Florham Park, New Jersey 07932",982,https://www.azjobconnection.gov/search/warn_lookups/982
-Benchmark,"Jan 27, 2026",65,WARN,Phoenix,85034,5 - ARIZONA@WORK - City of Phoenix,"3201 S. Harbour Drive; Phoenix, Arizona 85034",946,https://www.azjobconnection.gov/search/warn_lookups/946
-Shell Recharge Solutions,"Jan 29, 2026",2,WARN,Los Angeles,90021,7 - ARIZONA@WORK - Maricopa County,"767 S Alameda, Suite 200; Los Angeles, California 90021",947,https://www.azjobconnection.gov/search/warn_lookups/947
+Benchmark,"Jan 27, 2026",,WARN,Phoenix,85034,5 - ARIZONA@WORK - City of Phoenix,,946,https://www.azjobconnection.gov/search/warn_lookups/946
+Shell Recharge Solutions,"Jan 29, 2026",,WARN,Los Angeles,90021,7 - ARIZONA@WORK - Maricopa County,,947,https://www.azjobconnection.gov/search/warn_lookups/947
+"American Airlines, Inc.","Jan 29, 2024",335,WARN,Tempe,85281,7 - ARIZONA@WORK - Maricopa County,"1921 W Rio Salado Parkway; Tempe, Arizona 85281",766,https://www.azjobconnection.gov/search/warn_lookups/766
+"Lost Boys Interactive, LLC","Jan 12, 2024",125,WARN,Madison,53719,6 - ARIZONA@WORK - Pima,"6417 NORMANDY LANE STE 300; Madison, Wisconsin 53719",762,https://www.azjobconnection.gov/search/warn_lookups/762
+Michael Foods,"Jan 15, 2024",,WARN,Yuma,85365,9 - ARIZONA@WORK - Yuma County,,763,https://www.azjobconnection.gov/search/warn_lookups/763
+"Forever Nutraceuticals, LLC","Mar 07, 2024",,WARN,Phoenix,85040,5 - ARIZONA@WORK - City of Phoenix,,773,https://www.azjobconnection.gov/search/warn_lookups/773
+Kett Engineering Corporation,"Mar 11, 2024",,WARN,Surprise,85374,7 - ARIZONA@WORK - Maricopa County,,774,https://www.azjobconnection.gov/search/warn_lookups/774
+Jacobs Technology Inc.,"Feb 01, 2024",239,WARN,Sierra Vista,85635,1 - ARIZONA@WORK - Southeastern Arizona,"180 W. Fry Blvd; Sierra Vista, Arizona 85635",768,https://www.azjobconnection.gov/search/warn_lookups/768
+"ABM Industry Group, Inc.","Jan 18, 2024",87,WARN,Goodyear,85338,7 - ARIZONA@WORK - Maricopa County,"580 S. 143rd Ave.; Goodyear, Arizona 85338",764,https://www.azjobconnection.gov/search/warn_lookups/764
+"Block, INC.","Jan 30, 2024",6,WARN,Oakland,94612,7 - ARIZONA@WORK - Maricopa County,"1955 Broadway, Suite 600; Oakland, California 94612",769,https://www.azjobconnection.gov/search/warn_lookups/769
+"TuSimple, Inc.","Feb 15, 2024",,WARN,Tucson,85747,6 - ARIZONA@WORK - Pima,,771,https://www.azjobconnection.gov/search/warn_lookups/771
+"TuSimple, Inc.","Mar 15, 2024",,WARN,Tucson,85747,6 - ARIZONA@WORK - Pima,,775,https://www.azjobconnection.gov/search/warn_lookups/775
+Carclo Technical Plastics,"Mar 22, 2024",,WARN,Tucson,85705,6 - ARIZONA@WORK - Pima,,777,https://www.azjobconnection.gov/search/warn_lookups/777
+US Foods,"Mar 25, 2024",,WARN,Phoenix,85044,5 - ARIZONA@WORK - City of Phoenix,,778,https://www.azjobconnection.gov/search/warn_lookups/778
+"Bionano Genomics, Inc.","Mar 22, 2024",1,WARN,San Diego,92121,7 - ARIZONA@WORK - Maricopa County,"9540 Towne Creek Dr, Suite. 100; San Diego, California 92121",779,https://www.azjobconnection.gov/search/warn_lookups/779
+"Volta Charging Industries, LLC","Apr 01, 2024",2,WARN,San Francisco,94103,7 - ARIZONA@WORK - Maricopa County,"155 De Haro Street; San Francisco, California 94103",782,https://www.azjobconnection.gov/search/warn_lookups/782
+"TuSimple, Inc.","May 31, 2024",1,WARN,Tucson,85701,6 - ARIZONA@WORK - Pima,"9538 E. Old Vail Rd, ; Tucson, Arizona 85701",799,https://www.azjobconnection.gov/search/warn_lookups/799
+Spectrum Home Healthcare LLC,"Apr 05, 2024",,WARN,Phoenix,85012,5 - ARIZONA@WORK - City of Phoenix,,784,https://www.azjobconnection.gov/search/warn_lookups/784
+"COR Restaurant Services, LLC","Apr 09, 2024",,WARN,Avondale,85392,7 - ARIZONA@WORK - Maricopa County,,785,https://www.azjobconnection.gov/search/warn_lookups/785
+Kalil Bottling Company,"May 31, 2024",,WARN,Tucson,85719,6 - ARIZONA@WORK - Pima,,800,https://www.azjobconnection.gov/search/warn_lookups/800
+"Packers Sanitation Services, Inc","Apr 12, 2024",,WARN,Tolleson,85353,7 - ARIZONA@WORK - Maricopa County,,787,https://www.azjobconnection.gov/search/warn_lookups/787
+Savers,"May 02, 2024",,WARN,Phoenix,85017,5 - ARIZONA@WORK - City of Phoenix,,789,https://www.azjobconnection.gov/search/warn_lookups/789
+Kuehne+Nagel,"Apr 22, 2024",227,WARN,Tempe,85284,7 - ARIZONA@WORK - Maricopa County,"1300 W Warner Rd; Tempe, Arizona 85284",788,https://www.azjobconnection.gov/search/warn_lookups/788
+Devine Holdings LLC,"May 02, 2024",6,WARN,Mohave Valley,86440,11 - ARIZONA@WORK - Mohave and La Paz Counties,"1297 Boundary Cone Road; Mohave Valley, Arizona 86440",790,https://www.azjobconnection.gov/search/warn_lookups/790
+"Obvio Health USA, Inc. - ObvioHealth","May 28, 2024",51,WARN,New York,10001,7 - ARIZONA@WORK - Maricopa County,"545 W. 25th Street, 20th Floor; New York, New York 10001",801,https://www.azjobconnection.gov/search/warn_lookups/801
+Schuff Steel,"Jul 03, 2024",,WARN,Bellemont,86015,10 - ARIZONA@WORK - Coconino County,,811,https://www.azjobconnection.gov/search/warn_lookups/811
+Amentum,"Jul 31, 2024",,WARN,Fort Worth,76177,9 - ARIZONA@WORK - Yuma County,,815,https://www.azjobconnection.gov/search/warn_lookups/815
+Hyatt Corporation,"Jan 13, 2022",152,WARN,Scottsdale,85258,7 - ARIZONA@WORK - Maricopa County,"7700 E. McCormick Parkway ; Scottsdale, Arizona 85258",652,https://www.azjobconnection.gov/search/warn_lookups/652
+Peloton,"Feb 08, 2022",52,WARN,New York,10001,7 - ARIZONA@WORK - Maricopa County,"441 9th Avenue; New York, New York 10001",655,https://www.azjobconnection.gov/search/warn_lookups/655
+Honeywell Chandler,"May 13, 2022",,WARN,Chandler,85226,7 - ARIZONA@WORK - Maricopa County,,658,https://www.azjobconnection.gov/search/warn_lookups/658
+Hunter Douglas,"Feb 03, 2022",,WARN,Phoenix,85043,7 - ARIZONA@WORK - Maricopa County,,654,https://www.azjobconnection.gov/search/warn_lookups/654
+Home Point Financial Corporation d/b/a Homepoint,"Nov 17, 2022",,WARN,Chandler,85224,7 - ARIZONA@WORK - Maricopa County,,673,https://www.azjobconnection.gov/search/warn_lookups/673
+Santa Cruz Valley Regional Hospital (SCVRH),"Jun 20, 2022",315,WARN,Green Valley,85614,6 - ARIZONA@WORK - Pima,"4455 S 1-19 Frontage Road; Green Valley, Arizona 85614",661,https://www.azjobconnection.gov/search/warn_lookups/661
+"AMMA Investment Group, LLC","Aug 18, 2022",103,WARN,Amado,85645,8 - ARIZONA@WORK - Santa Cruz County,"2935 East Frontage Rd; Amado, Arizona 85645",670,https://www.azjobconnection.gov/search/warn_lookups/670
+Community Health Associates,"Dec 19, 2022",11,WARN,Yuma,85364,9 - ARIZONA@WORK - Yuma County,"2851 S. Ave B Building 4; Yuma, Arizona 85364",676,https://www.azjobconnection.gov/search/warn_lookups/676
+"Robinhood Markets, Inc","Aug 03, 2022",,WARN,Tempe,85281,7 - ARIZONA@WORK - Maricopa County,,667,https://www.azjobconnection.gov/search/warn_lookups/667
+eegee’s LLC,"Aug 09, 2022",,WARN,Tucson,85713,6 - ARIZONA@WORK - Pima,,668,https://www.azjobconnection.gov/search/warn_lookups/668
+"Holsum Bakery, Inc.","Sep 01, 2022",,WARN,Phoenix,85009,5 - ARIZONA@WORK - City of Phoenix,,672,https://www.azjobconnection.gov/search/warn_lookups/672
+Home Point Financial Corporation d/b/a Homepoint,"Sep 01, 2022",,WARN,Chandler,85224,7 - ARIZONA@WORK - Maricopa County,,671,https://www.azjobconnection.gov/search/warn_lookups/671
+Honeywell Phoenix (Buckeye),"Jul 14, 2022",,WARN,Phoenix,85043,5 - ARIZONA@WORK - City of Phoenix,,665,https://www.azjobconnection.gov/search/warn_lookups/665
+Cardenas Markets LLC,"Dec 16, 2022",63,WARN,Tucson,85741,6 - ARIZONA@WORK - Pima,"902 W. Irvington; Tucson, Arizona 85741",675,https://www.azjobconnection.gov/search/warn_lookups/675
+"Freshly, LLC.","Dec 05, 2022",500,WARN,Phoenix,85043,5 - ARIZONA@WORK - City of Phoenix,"610 S 56th Ave.; Phoenix, Arizona 85043",674,https://www.azjobconnection.gov/search/warn_lookups/674
+"TuSimple, Inc.","Dec 22, 2022",135,WARN,Tucson,85747,6 - ARIZONA@WORK - Pima,"9538 E Old Vail Rd.; Tucson, Arizona 85747",677,https://www.azjobconnection.gov/search/warn_lookups/677
+Suddenlink Communications,"Aug 03, 2017",50,WARN,Lake Havasu,86403,,"2100 College Drive, suite 130; Lake Havasu, Arizona 86403",276,https://www.azjobconnection.gov/search/warn_lookups/276
+Albertson Company #1026,"Jan 06, 2017",77,WARN,,,7 - ARIZONA@WORK - Maricopa County,,260,https://www.azjobconnection.gov/search/warn_lookups/260
+Albertson Company #969,"Jan 06, 2017",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,262,https://www.azjobconnection.gov/search/warn_lookups/262
+Zenefits,"Feb 09, 2017",,WARN,Tempe,85281,7 - ARIZONA@WORK - Maricopa County,,263,https://www.azjobconnection.gov/search/warn_lookups/263
+Whole Foods,"Feb 10, 2017",,WARN,,,5 - ARIZONA@WORK - City of Phoenix,,264,https://www.azjobconnection.gov/search/warn_lookups/264
+Manpower Group,"Mar 17, 2017",,WARN,Tempe,85284,7 - ARIZONA@WORK - Maricopa County,,268,https://www.azjobconnection.gov/search/warn_lookups/268
+Da Vita Rx,"Apr 19, 2017",83,WARN,Chandler,85244,7 - ARIZONA@WORK - Maricopa County,"485 N. Juniper Drive; Chandler, Arizona 85244",272,https://www.azjobconnection.gov/search/warn_lookups/272
+"Royal Remanufacturing, LLC","Apr 25, 2017",52,WARN,Glendale,85301,7 - ARIZONA@WORK - Maricopa County,"5555 N. 51st Avenue; Glendale, Arizona 85301",273,https://www.azjobconnection.gov/search/warn_lookups/273
+Kellogg's,"May 26, 2017",180,WARN,Phoenix,85043,5 - ARIZONA@WORK - City of Phoenix,"6913 W. Buckeye Rd, #2; Phoenix, Arizona 85043",274,https://www.azjobconnection.gov/search/warn_lookups/274
+"SCA Tissue NA, LLC","Jun 08, 2017",,WARN,,,,,275,https://www.azjobconnection.gov/search/warn_lookups/275
+Rockwell collins,"Oct 19, 2017",,WARN,,,6 - ARIZONA@WORK - Pima,,279,https://www.azjobconnection.gov/search/warn_lookups/279
+Unitedhealth Group,"Nov 02, 2017",,WARN,,,5 - ARIZONA@WORK - City of Phoenix,,280,https://www.azjobconnection.gov/search/warn_lookups/280
+Marriott,"Nov 29, 2017",,WARN,Scottsdale,85254,7 - ARIZONA@WORK - Maricopa County,,283,https://www.azjobconnection.gov/search/warn_lookups/283
+Xchange Leasing LLC (XCL),"Oct 31, 2017",,WARN,,,5 - ARIZONA@WORK - City of Phoenix,,281,https://www.azjobconnection.gov/search/warn_lookups/281
 "Philidor Rx Services, LLC","Jan 05, 2016",264,WARN,Phoenix,85040,5 - ARIZONA@WORK - City of Phoenix,"4217 East Cotton Center Boulevard, Suite 125; Phoenix, Arizona 85040",225,https://www.azjobconnection.gov/search/warn_lookups/225
 "Golden EagleDistributors, Inc.","Jan 11, 2016",229,WARN,Tucson,85712,6 - ARIZONA@WORK - Pima,"705 East Ajo Way; Tucson, Arizona 85712",226,https://www.azjobconnection.gov/search/warn_lookups/226
 "Golden EagleDistributors, Inc.","Jan 11, 2016",,WARN,Buckeye,85326,7 - ARIZONA@WORK - Maricopa County,,228,https://www.azjobconnection.gov/search/warn_lookups/228
 "Golden EagleDistributors, Inc.","Jan 11, 2016",,WARN,Flagstaff,86001,,,229,https://www.azjobconnection.gov/search/warn_lookups/229
 "Golden EagleDistributors, Inc.","Jan 11, 2016",,WARN,Show Low,85901,,,230,https://www.azjobconnection.gov/search/warn_lookups/230
-"Golden EagleDistributors, Inc.","Jan 11, 2016",,WARN,Tempe,85271,7 - ARIZONA@WORK - Maricopa County,,231,https://www.azjobconnection.gov/search/warn_lookups/231
-ASARCO Grupo Mexico,"Feb 11, 2016",,WARN,Hayden,85135,,,232,https://www.azjobconnection.gov/search/warn_lookups/232
-Aeroturbine,"Jan 27, 2016",,WARN,Phoenix,85340,7 - ARIZONA@WORK - Maricopa County,,233,https://www.azjobconnection.gov/search/warn_lookups/233
+"Golden EagleDistributors, Inc.","Jan 11, 2016",31,WARN,Tempe,85271,7 - ARIZONA@WORK - Maricopa County,"1618 West 12th Place; Tempe, Arizona 85271",231,https://www.azjobconnection.gov/search/warn_lookups/231
+ASARCO Grupo Mexico,"Feb 11, 2016",162,WARN,Hayden,85135,,"6094 N. Asarco Road, PO Box 8; Hayden, Arizona 85135",232,https://www.azjobconnection.gov/search/warn_lookups/232
+Aeroturbine,"Jan 27, 2016",61,WARN,Phoenix,85340,7 - ARIZONA@WORK - Maricopa County,"1658 S Litchfield Road; Phoenix, Arizona 85340",233,https://www.azjobconnection.gov/search/warn_lookups/233
 Intel Corporation,"Apr 25, 2016",,WARN,Chandler,85248,7 - ARIZONA@WORK - Maricopa County,,234,https://www.azjobconnection.gov/search/warn_lookups/234
 Intel Corporation,"Apr 25, 2016",,WARN,Chandler,85226,7 - ARIZONA@WORK - Maricopa County,,235,https://www.azjobconnection.gov/search/warn_lookups/235
 "ACS, LLC","May 04, 2016",,WARN,Yuma,85365,9 - ARIZONA@WORK - Yuma County,,236,https://www.azjobconnection.gov/search/warn_lookups/236
 "ACS, LLC","May 04, 2016",,WARN,Yuma,85365,9 - ARIZONA@WORK - Yuma County,,237,https://www.azjobconnection.gov/search/warn_lookups/237
 GENCO,"Mar 29, 2016",,WARN,Phoenix,85043,7 - ARIZONA@WORK - Maricopa County,,238,https://www.azjobconnection.gov/search/warn_lookups/238
-ZMC,"May 02, 2016",,WARN,Scottsdale,85253,7 - ARIZONA@WORK - Maricopa County,,239,https://www.azjobconnection.gov/search/warn_lookups/239
-livingsocial,"Mar 16, 2016",,WARN,Tucson,85711,6 - ARIZONA@WORK - Pima,,240,https://www.azjobconnection.gov/search/warn_lookups/240
+ZMC,"May 02, 2016",15,WARN,Scottsdale,85253,7 - ARIZONA@WORK - Maricopa County,"10101 N. Scottsdale Road; Scottsdale, Arizona 85253",239,https://www.azjobconnection.gov/search/warn_lookups/239
+livingsocial,"Mar 16, 2016",122,WARN,Tucson,85711,6 - ARIZONA@WORK - Pima,"250 W. Willimas Blvd, Floor 4; Tucson, Arizona 85711",240,https://www.azjobconnection.gov/search/warn_lookups/240
 Vitron manufacturing solutions,"Jan 06, 2016",87,WARN,,,5 - ARIZONA@WORK - City of Phoenix,,241,https://www.azjobconnection.gov/search/warn_lookups/241
-DataSphere Technologies,"May 30, 2016",84,WARN,Tempe,85282,7 - ARIZONA@WORK - Maricopa County,"1560 W. Fountainhead Pkwy, Suite 200; Tempe, Arizona 85282",242,https://www.azjobconnection.gov/search/warn_lookups/242
-"Advantage Logistics Southwest, Inc.","Jun 06, 2016",507,WARN,,,7 - ARIZONA@WORK - Maricopa County,,243,https://www.azjobconnection.gov/search/warn_lookups/243
+DataSphere Technologies,"May 30, 2016",,WARN,Tempe,85282,7 - ARIZONA@WORK - Maricopa County,,242,https://www.azjobconnection.gov/search/warn_lookups/242
+"Advantage Logistics Southwest, Inc.","Jun 06, 2016",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,243,https://www.azjobconnection.gov/search/warn_lookups/243
 ABB Inc.,"May 31, 2016",,WARN,,,5 - ARIZONA@WORK - City of Phoenix,,244,https://www.azjobconnection.gov/search/warn_lookups/244
 Select Medical Corporation,"Aug 03, 2016",,WARN,Scottsdale,85251,7 - ARIZONA@WORK - Maricopa County,,245,https://www.azjobconnection.gov/search/warn_lookups/245
-ManpowerGroup,"Aug 04, 2016",,WARN,Tempe,85280,7 - ARIZONA@WORK - Maricopa County,,246,https://www.azjobconnection.gov/search/warn_lookups/246
-ARRIS Group Inc.,"Aug 24, 2016",,WARN,Phoenix,85044,5 - ARIZONA@WORK - City of Phoenix,,247,https://www.azjobconnection.gov/search/warn_lookups/247
-ARRIS Group Inc.,"Aug 24, 2016",,WARN,Tempe,85283,7 - ARIZONA@WORK - Maricopa County,,248,https://www.azjobconnection.gov/search/warn_lookups/248
+ManpowerGroup,"Aug 04, 2016",59,WARN,Tempe,85280,7 - ARIZONA@WORK - Maricopa County,"2050 E. ASU Circle, Ste. 120; Tempe, Arizona 85280",246,https://www.azjobconnection.gov/search/warn_lookups/246
+ARRIS Group Inc.,"Aug 24, 2016",20,WARN,Phoenix,85044,5 - ARIZONA@WORK - City of Phoenix,"8222 S. 48th Street  #225; Phoenix, Arizona 85044",247,https://www.azjobconnection.gov/search/warn_lookups/247
+ARRIS Group Inc.,"Aug 24, 2016",139,WARN,Tempe,85283,7 - ARIZONA@WORK - Maricopa County,"1100 W. Grove Parkway #102; Tempe, Arizona 85283",248,https://www.azjobconnection.gov/search/warn_lookups/248
 ARRIS Group Inc.,"Aug 24, 2016",,WARN,Mesa,85201,7 - ARIZONA@WORK - Maricopa County,,249,https://www.azjobconnection.gov/search/warn_lookups/249
 RICOH USA Inc.,"Sep 01, 2016",,WARN,Tempe,85281,7 - ARIZONA@WORK - Maricopa County,,250,https://www.azjobconnection.gov/search/warn_lookups/250
-CardWorks Processing LLC,"Dec 01, 2011",146,WARN,,,6 - ARIZONA@WORK - Pima,,33,https://www.azjobconnection.gov/search/warn_lookups/33
-UTi Intergrated Logistics,"Dec 12, 2011",144,WARN,,,7 - ARIZONA@WORK - Maricopa County,,34,https://www.azjobconnection.gov/search/warn_lookups/34
-"TCIM Services, Inc.","Nov 01, 2011",,WARN,,,6 - ARIZONA@WORK - Pima,,35,https://www.azjobconnection.gov/search/warn_lookups/35
-"Healthways, Inc.","Nov 16, 2011",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,36,https://www.azjobconnection.gov/search/warn_lookups/36
-International Bedding,"Oct 21, 2011",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,37,https://www.azjobconnection.gov/search/warn_lookups/37
-Milgard Windows & Doors,"Oct 17, 2011",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,38,https://www.azjobconnection.gov/search/warn_lookups/38
-Kmart  Store # 4269,"Oct 15, 2011",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,39,https://www.azjobconnection.gov/search/warn_lookups/39
-"Schenker, Inc.","Sep 16, 2011",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,41,https://www.azjobconnection.gov/search/warn_lookups/41
-"Video Monitoring Services of America, LP","Aug 26, 2011",,WARN,,,6 - ARIZONA@WORK - Pima,,42,https://www.azjobconnection.gov/search/warn_lookups/42
-Hualapai Mountain Medical Center,"Aug 26, 2011",,WARN,,,,,43,https://www.azjobconnection.gov/search/warn_lookups/43
-SOLON Corporation,"Aug 15, 2011",,WARN,,,6 - ARIZONA@WORK - Pima,,44,https://www.azjobconnection.gov/search/warn_lookups/44
-"ShelterClean of Arizona, Inc.","Aug 15, 2011",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,45,https://www.azjobconnection.gov/search/warn_lookups/45
-"THQ,  Inc. Digital Studio Phoenix","Aug 08, 2011",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,46,https://www.azjobconnection.gov/search/warn_lookups/46
-Bridgeway Health Solutions,"Jul 29, 2011",,WARN,,,6 - ARIZONA@WORK - Pima,,48,https://www.azjobconnection.gov/search/warn_lookups/48
-Cellco Partnership dba Verizon Wireless,"Jul 27, 2011",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,49,https://www.azjobconnection.gov/search/warn_lookups/49
-Supervalu Logistics,"Jul 12, 2011",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,50,https://www.azjobconnection.gov/search/warn_lookups/50
-Mike Campbell & Associates,"Jul 06, 2011",7,WARN,,,7 - ARIZONA@WORK - Maricopa County,,51,https://www.azjobconnection.gov/search/warn_lookups/51
-"DeVry, Inc.","Jun 17, 2011",150,WARN,,,7 - ARIZONA@WORK - Maricopa County,,52,https://www.azjobconnection.gov/search/warn_lookups/52
-"Semiconductor Component Industries, LLC dba ON Sem","Jun 03, 2011",173,WARN,,,7 - ARIZONA@WORK - Maricopa County,,53,https://www.azjobconnection.gov/search/warn_lookups/53
-"Superior Technical Resources, Inc.","Jun 02, 2011",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,54,https://www.azjobconnection.gov/search/warn_lookups/54
-Hometown America,"May 31, 2011",,WARN,,,6 - ARIZONA@WORK - Pima,,55,https://www.azjobconnection.gov/search/warn_lookups/55
-Republic National Distributing Company,"May 27, 2011",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,56,https://www.azjobconnection.gov/search/warn_lookups/56
-Deluxe Corporation,"May 24, 2011",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,57,https://www.azjobconnection.gov/search/warn_lookups/57
-Ameron International Phoenix Division,"Apr 06, 2011",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,58,https://www.azjobconnection.gov/search/warn_lookups/58
-Robb & Stucky Limited LLLP,"Mar 09, 2011",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,59,https://www.azjobconnection.gov/search/warn_lookups/59
+"SYKES Enterprises, Incorporated","Jan 24, 2012",85,WARN,,,8 - ARIZONA@WORK - Santa Cruz County,,3,https://www.azjobconnection.gov/search/warn_lookups/3
+VT Services,"Jan 31, 2012",107,WARN,,,1 - ARIZONA@WORK - Southeastern Arizona,,4,https://www.azjobconnection.gov/search/warn_lookups/4
+Wells Fargo,"Mar 26, 2012",,WARN,Chandler,85286,7 - ARIZONA@WORK - Maricopa County,,5,https://www.azjobconnection.gov/search/warn_lookups/5
+"Chevron Mining, Inc. McKinley Mine","Feb 08, 2012",,WARN,,,,,6,https://www.azjobconnection.gov/search/warn_lookups/6
+Schuff Steel Company,"Feb 24, 2012",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,7,https://www.azjobconnection.gov/search/warn_lookups/7
+SCAN Health Plan Arizona,"Feb 29, 2012",64,WARN,,,7 - ARIZONA@WORK - Maricopa County,,8,https://www.azjobconnection.gov/search/warn_lookups/8
+Armor Works,"Mar 12, 2012",124,WARN,,,7 - ARIZONA@WORK - Maricopa County,,9,https://www.azjobconnection.gov/search/warn_lookups/9
+The Great Indoors  #1901,"Apr 18, 2012",75,WARN,,,7 - ARIZONA@WORK - Maricopa County,,10,https://www.azjobconnection.gov/search/warn_lookups/10
+The Great Indoors #1913,"Apr 18, 2012",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,11,https://www.azjobconnection.gov/search/warn_lookups/11
+"American Airlines, Inc.","May 01, 2012",,WARN,,,6 - ARIZONA@WORK - Pima,,40,https://www.azjobconnection.gov/search/warn_lookups/40
+Covance Laboratories Inc.,"May 02, 2012",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,63,https://www.azjobconnection.gov/search/warn_lookups/63
+MetLife,"May 01, 2012",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,64,https://www.azjobconnection.gov/search/warn_lookups/64
+"O.P.E.N. America, Inc. dba: OpenWorks","May 01, 2012",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,65,https://www.azjobconnection.gov/search/warn_lookups/65
+"Hostess Brands, Inc.","May 04, 2012",2,WARN,,,1 - ARIZONA@WORK - Southeastern Arizona,,66,https://www.azjobconnection.gov/search/warn_lookups/66
+Hostess Brand Inc.,"May 04, 2012",9,WARN,,,,,67,https://www.azjobconnection.gov/search/warn_lookups/67
+"Hostess Brands, Inc.","May 04, 2012",1,WARN,,,,,70,https://www.azjobconnection.gov/search/warn_lookups/70
+"Hostess Brands, Inc.","May 04, 2012",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,71,https://www.azjobconnection.gov/search/warn_lookups/71
+"Hostess Brands, Inc.","May 04, 2012",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,72,https://www.azjobconnection.gov/search/warn_lookups/72
+"Hostess Brands, Inc.","May 04, 2012",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,73,https://www.azjobconnection.gov/search/warn_lookups/73
+"Hostess Brand, Inc.","May 04, 2012",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,74,https://www.azjobconnection.gov/search/warn_lookups/74
+"Hostess Brands, Inc.","May 04, 2012",1,WARN,,,7 - ARIZONA@WORK - Maricopa County,,75,https://www.azjobconnection.gov/search/warn_lookups/75
+"Hostess Brands, Inc.","May 04, 2012",7,WARN,,,,,76,https://www.azjobconnection.gov/search/warn_lookups/76
+"Hostess Brand, Inc.","May 04, 2012",5,WARN,,,,,77,https://www.azjobconnection.gov/search/warn_lookups/77
+"Hostess Brands, Inc.","May 04, 2012",,WARN,,,,,78,https://www.azjobconnection.gov/search/warn_lookups/78
+"Hostess Brands, Inc.","May 04, 2012",,WARN,,,,,79,https://www.azjobconnection.gov/search/warn_lookups/79
+International Window Arizona,"Dec 30, 2010",64,WARN,,,7 - ARIZONA@WORK - Maricopa County,,12,https://www.azjobconnection.gov/search/warn_lookups/12
+Kaplan University,"Dec 07, 2010",56,WARN,,,7 - ARIZONA@WORK - Maricopa County,,13,https://www.azjobconnection.gov/search/warn_lookups/13
+John C. Lincoln Health Network's North Mountain,"Dec 06, 2010",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,14,https://www.azjobconnection.gov/search/warn_lookups/14
+ZipRealty,"Nov 29, 2010",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,15,https://www.azjobconnection.gov/search/warn_lookups/15
+CEMEX,"Nov 22, 2010",,WARN,,,6 - ARIZONA@WORK - Pima,,16,https://www.azjobconnection.gov/search/warn_lookups/16
+Palm Harbor Homes,"Nov 19, 2010",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,17,https://www.azjobconnection.gov/search/warn_lookups/17
+Plastican division of BWAY Corporation,"Nov 17, 2010",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,18,https://www.azjobconnection.gov/search/warn_lookups/18
+Pulte Building Services (PBS),"Nov 12, 2010",351,WARN,,,7 - ARIZONA@WORK - Maricopa County,,19,https://www.azjobconnection.gov/search/warn_lookups/19
+Hines Nurseries,"Oct 06, 2010",133,WARN,,,,,20,https://www.azjobconnection.gov/search/warn_lookups/20
+"AB Car Rental Services, Inc.","Sep 28, 2010",70,WARN,,,7 - ARIZONA@WORK - Maricopa County,,21,https://www.azjobconnection.gov/search/warn_lookups/21
+Xanodyne Pharamaceuticals,"Sep 21, 2010",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,22,https://www.azjobconnection.gov/search/warn_lookups/22
+"O'Reilly Automotive, Inc.","Sep 09, 2010",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,23,https://www.azjobconnection.gov/search/warn_lookups/23
+"Dole Fresh Vegetables, Inc.","Aug 27, 2010",,WARN,,,9 - ARIZONA@WORK - Yuma County,,24,https://www.azjobconnection.gov/search/warn_lookups/24
+Whirlaway Corporation,"Aug 10, 2010",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,25,https://www.azjobconnection.gov/search/warn_lookups/25
+"Citigroup, Inc.","Jul 30, 2010",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,26,https://www.azjobconnection.gov/search/warn_lookups/26
+Coach-Net Services Group,"Jul 27, 2010",160,WARN,,,,,27,https://www.azjobconnection.gov/search/warn_lookups/27
+Microsemi Corporation,"Jul 12, 2010",255,WARN,,,7 - ARIZONA@WORK - Maricopa County,,28,https://www.azjobconnection.gov/search/warn_lookups/28
+Crowne Plaza Hotel,"Jun 30, 2010",79,WARN,,,7 - ARIZONA@WORK - Maricopa County,,29,https://www.azjobconnection.gov/search/warn_lookups/29
+Embassy Suites Hotel (Phoenix),"Jun 14, 2010",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,30,https://www.azjobconnection.gov/search/warn_lookups/30
+Marketfare Foods,"Jun 11, 2010",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,31,https://www.azjobconnection.gov/search/warn_lookups/31
+ATC/Vancom of Arizona L.P. dba Veolia Tranport.,"Apr 28, 2010",,WARN,,,7 - ARIZONA@WORK - Maricopa County,,32,https://www.azjobconnection.gov/search/warn_lookups/32
