@@ -1,24 +1,18 @@
 employer,notice_date,number_of_employees_affected,warn_type,city,zip,lwib_area,address,record_number,detail_page_url
 "Atlas Hospitality Group, LLC","Apr 30, 2026",67,WARN,Baltimore,21231,1 - Statewide,"1429 Aliceanna Street; Baltimore, Maryland 21231",110,https://joblink.delaware.gov/search/warn_lookups/110
 Conduent,"Jun 29, 2026",1,WARN,Florham Park,07932,1 - Statewide,"Sarah Amoriell, 100 Campus Dr. ; Florham Park, New Jersey 07932",111,https://joblink.delaware.gov/search/warn_lookups/111
-JeniusBank,"Aug 10, 2026",,WARN,New York,10172,1 - Statewide,,112,https://joblink.delaware.gov/search/warn_lookups/112
-ILC Dover,"Apr 26, 2023",41,WARN,Frederica,19946,1 - Statewide,"1 Moonwalker Rd; Frederica, Delaware 19946",106,https://joblink.delaware.gov/search/warn_lookups/106
-"Centurion of Delaware, LLC","May 09, 2023",,WARN,Dover,19904,1 - Statewide,,107,https://joblink.delaware.gov/search/warn_lookups/107
-IKO Wilmington Plant,"Jan 12, 2021",67,WARN,Wilmington,19809,1 - Statewide,"120 Hay Rd.; Wilmington, Delaware 19809",100,https://joblink.delaware.gov/search/warn_lookups/100
-Wesley College,"Apr 15, 2021",62,WARN,Dover,19901,1 - Statewide,"120 North State Street; Dover, Delaware 19901",102,https://joblink.delaware.gov/search/warn_lookups/102
+JeniusBank,"Aug 10, 2026",106,WARN,New York,10172,1 - Statewide,"277 Park Ave; New York, New York 10172",112,https://joblink.delaware.gov/search/warn_lookups/112
+Zenith Home Corp.,"Dec 13, 2022",91,WARN,New Castle,19720,1 - Statewide,"499 Ships Landing Way. New Castle, DE 19720 ; New Castle, Delaware 19720",105,https://joblink.delaware.gov/search/warn_lookups/105
+IKO Wilmington Plant,"Jan 12, 2021",,WARN,Wilmington,19809,1 - Statewide,,100,https://joblink.delaware.gov/search/warn_lookups/100
+Wesley College,"Apr 15, 2021",,WARN,Dover,19901,1 - Statewide,,102,https://joblink.delaware.gov/search/warn_lookups/102
 Aramark Educational Services@DSU,"Jun 24, 2021",,WARN,Dover,19901,1 - Statewide,,103,https://joblink.delaware.gov/search/warn_lookups/103
-Thomson Reuters,"Dec 05, 2018",14,Non-WARN,,,1 - Statewide,,68,https://joblink.delaware.gov/search/warn_lookups/68
-PPG Architectural Coatings,"Jun 07, 2018",66,WARN,,,1 - Statewide,,60,https://joblink.delaware.gov/search/warn_lookups/60
-Sears Holdings Prices Corner,"Jan 04, 2018",,WARN,,,1 - Statewide,,62,https://joblink.delaware.gov/search/warn_lookups/62
-"Formosa Plastics Corp., USA","Jul 25, 2018",,WARN,,,1 - Statewide,,65,https://joblink.delaware.gov/search/warn_lookups/65
-Thomson Reuters,"Dec 05, 2018",15,Non-WARN,,,1 - Statewide,,66,https://joblink.delaware.gov/search/warn_lookups/66
-Hygience,"Aug 02, 2018",20,Non-WARN,,,1 - Statewide,,67,https://joblink.delaware.gov/search/warn_lookups/67
-"BFRich Co., Inc","Feb 07, 2017",,WARN,,,1 - Statewide,,55,https://joblink.delaware.gov/search/warn_lookups/55
-Burris Logistics,"Jan 30, 2017",,WARN,,,1 - Statewide,,56,https://joblink.delaware.gov/search/warn_lookups/56
+"BFRich Co., Inc","Feb 07, 2017",137,WARN,,,1 - Statewide,,55,https://joblink.delaware.gov/search/warn_lookups/55
+Burris Logistics,"Jan 30, 2017",68,WARN,,,1 - Statewide,,56,https://joblink.delaware.gov/search/warn_lookups/56
 CVS Health,"Oct 03, 2017",,WARN,,,1 - Statewide,,57,https://joblink.delaware.gov/search/warn_lookups/57
 Barclays Bank Delaware,"Apr 11, 2017",,WARN,,,1 - Statewide,,58,https://joblink.delaware.gov/search/warn_lookups/58
-UnitedHealth Group,"Nov 02, 2017",138,WARN,,,1 - Statewide,,59,https://joblink.delaware.gov/search/warn_lookups/59
-United Health Group,"Nov 02, 2017",138,WARN,,,1 - Statewide,,61,https://joblink.delaware.gov/search/warn_lookups/61
-"BF Rich Co., Inc.","Feb 13, 2017",137,WARN,,,1 - Statewide,,63,https://joblink.delaware.gov/search/warn_lookups/63
-AstraZeneca,"May 13, 2010",450,WARN,,,1 - Statewide,,30,https://joblink.delaware.gov/search/warn_lookups/30
-Conectiv Energy,"Apr 28, 2010",150,WARN,,,1 - Statewide,,31,https://joblink.delaware.gov/search/warn_lookups/31
+UnitedHealth Group,"Nov 02, 2017",,WARN,,,1 - Statewide,,59,https://joblink.delaware.gov/search/warn_lookups/59
+United Health Group,"Nov 02, 2017",,WARN,,,1 - Statewide,,61,https://joblink.delaware.gov/search/warn_lookups/61
+"BF Rich Co., Inc.","Feb 13, 2017",,WARN,,,1 - Statewide,,63,https://joblink.delaware.gov/search/warn_lookups/63
+"Color Box, LLC/Georgia Pacific","Oct 10, 2013",95,WARN,,,1 - Statewide,,43,https://joblink.delaware.gov/search/warn_lookups/43
+AstraZeneca,"May 31, 2013",1200,WARN,,,1 - Statewide,,41,https://joblink.delaware.gov/search/warn_lookups/41
+Evraz,"Oct 14, 2013",,WARN,,,1 - Statewide,,44,https://joblink.delaware.gov/search/warn_lookups/44
