@@ -151,7 +151,7 @@ CA,Blue Shield of California,2026-08-21,3,Blue Shield of California2026-08-21
 CA,Blue Shield of California,2026-08-21,2,Blue Shield of California2026-08-21
 CA,Blue Shield of California (Building C),2026-08-21,1,Blue Shield of California (Building C)2026-08-21
 NJ,Novartis Group,2026-08-21,76,Novartis Group2026-08-21
-AZ,Amentum,2026-08-21,75,Amentum2026-08-21
+AZ,Amentum,2026-08-21,N/A,Amentum2026-08-21
 WA,"Borton & Sons, Inc.",2026-08-21,N/A,"Borton & Sons, Inc.2026-08-21"
 IA,"Verschoor Meats, Inc",2026-08-21,N/A,"Verschoor Meats, Inc2026-08-21"
 WA,"Twin City Foods, Inc.",2026-08-21,N/A,"Twin City Foods, Inc.2026-08-21"
@@ -227,7 +227,7 @@ CA,EBALDC (989 Brush Street),2026-08-11,2,EBALDC (989 Brush Street)2026-08-11
 CA,EBALDC (1448 10th Street),2026-08-11,2,EBALDC (1448 10th Street)2026-08-11
 CA,Adventist Health Glendale,2026-08-11,7,Adventist Health Glendale2026-08-11
 VA,SMBC Manubank,2026-08-10,5,SMBC Manubank2026-08-10
-DE,JeniusBank,2026-08-10,106,JeniusBank2026-08-10
+DE,JeniusBank,2026-08-10,N/A,JeniusBank2026-08-10
 OR,JeniusBank,2026-08-10,N/A,JeniusBank2026-08-10
 OR,Oregon - Remote Employees,2026-08-10,N/A,Oregon - Remote Employees2026-08-10
 MO,Unknown,2026-08-10,119,Unknown2026-08-10
@@ -253,15 +253,15 @@ WA,Google,2026-08-05,N/A,Google2026-08-05
 CA,"Salesforce, Inc.",2026-08-05,74,"Salesforce, Inc.2026-08-05"
 WA,Zillow Group,2026-08-04,N/A,Zillow Group2026-08-04
 CA,"Nutanix, Inc.",2026-08-04,65,"Nutanix, Inc.2026-08-04"
-AZ,Essendant,2026-08-04,N/A,Essendant2026-08-04
+AZ,Essendant,2026-08-04,53,Essendant2026-08-04
 AL,FMC Corporation,2026-08-04,41,FMC Corporation2026-08-04
 TN,Wellpath,2026-08-04,N/A,Wellpath2026-08-04
 ME,"Host International, Inc.",2026-08-04,102,"Host International, Inc.2026-08-04"
 IA,Wells Fargo,2026-08-04,N/A,Wells Fargo2026-08-04
-AZ,Salad and Go,2026-08-04,N/A,Salad and Go2026-08-04
+AZ,Salad and Go,2026-08-04,25,Salad and Go2026-08-04
 AL,Biocryst Pharmaceuticals Inc,2026-08-04,47,Biocryst Pharmaceuticals Inc2026-08-04
 NY,Federal Express Corporation (Multiple Regions),2026-08-03,31,Federal Express Corporation (Multiple Regions)2026-08-03
-AZ,Infineon Technologies America Corp,2026-08-03,98,Infineon Technologies America Corp2026-08-03
+AZ,Infineon Technologies America Corp,2026-08-03,N/A,Infineon Technologies America Corp2026-08-03
 WA,"80 Acres Urban Agriculture, Inc.",2026-08-03,N/A,"80 Acres Urban Agriculture, Inc.2026-08-03"
 NJ,JP Morgan Chase,2026-08-03,51,JP Morgan Chase2026-08-03
 NY,Federal Express Corporation (Multiple Regions),2026-08-03,22,Federal Express Corporation (Multiple Regions)2026-08-03
@@ -397,7 +397,7 @@ UT,Provo Canyon School,2026-07-09,303,Provo Canyon School2026-07-09
 VA,Emerson,2026-07-09,139,Emerson2026-07-09
 CA,OnPoint Logistics LLC,2026-07-09,96,OnPoint Logistics LLC2026-07-09
 CA,Xpress Delivery LLC (DSJ9),2026-07-09,80,Xpress Delivery LLC (DSJ9)2026-07-09
-AZ,Select Medical Corporation,2026-07-09,N/A,Select Medical Corporation2026-07-09
+AZ,Select Medical Corporation,2026-07-09,99,Select Medical Corporation2026-07-09
 NJ,JP Morgan Chase,2026-07-08,173,JP Morgan Chase2026-07-08
 VA,Medical Faculty Associates Inc. (MFA),2026-07-08,2,Medical Faculty Associates Inc. (MFA)2026-07-08
 CA,Sentinel Restaurant & Hospitality Group LLC,2026-07-08,113,Sentinel Restaurant & Hospitality Group LLC2026-07-08
@@ -459,7 +459,7 @@ HI,Ali`i Health Center,2026-06-29,N/A,Ali`i Health Center2026-06-29
 CA,Dignity Health (Bakersfield Memorial Hospital),2026-06-29,57,Dignity Health (Bakersfield Memorial Hospital)2026-06-29
 WA,"Conduent Commercial Solutions, LLC",2026-06-29,N/A,"Conduent Commercial Solutions, LLC2026-06-29"
 CA,Dignity Health (California Hospital Medical Center),2026-06-29,82,Dignity Health (California Hospital Medical Center)2026-06-29
-AZ,"Conduent Commercial Solutions, LLC",2026-06-29,N/A,"Conduent Commercial Solutions, LLC2026-06-29"
+AZ,"Conduent Commercial Solutions, LLC",2026-06-29,3,"Conduent Commercial Solutions, LLC2026-06-29"
 VA,Times Fiber Communications (TFC),2026-06-29,78,Times Fiber Communications (TFC)2026-06-29
 CA,Ballast Point Brewing Company,2026-06-29,19,Ballast Point Brewing Company2026-06-29
 VA,Conduent Commercial Solutions LLC,2026-06-29,24,Conduent Commercial Solutions LLC2026-06-29
@@ -512,7 +512,7 @@ AZ,"Central Admixture Pharmacy Services, Inc.",2026-06-25,116,"Central Admixture
 CA,Adventist Health White Memorial Montebello,2026-06-25,2,Adventist Health White Memorial Montebello2026-06-25
 CA,Raytheon,2026-06-24,1,Raytheon2026-06-24
 OR,Adventist Health Columbia Gorge,2026-06-24,N/A,Adventist Health Columbia Gorge2026-06-24
-AZ,Ingram Micro Services LLC,2026-06-24,N/A,Ingram Micro Services LLC2026-06-24
+AZ,Ingram Micro Services LLC,2026-06-24,75,Ingram Micro Services LLC2026-06-24
 OR,Adventist Health Portland,2026-06-24,N/A,Adventist Health Portland2026-06-24
 TN,Stanley Black & Decker,2026-06-24,N/A,Stanley Black & Decker2026-06-24
 NY,"Sardi's Enterprises, Ltd.",2026-06-24,62,"Sardi's Enterprises, Ltd.2026-06-24"
@@ -529,7 +529,7 @@ NY,"Finger Lakes On Wheels, LLC.",2026-06-23,85,"Finger Lakes On Wheels, LLC.202
 CA,"Lucid Group, Inc.",2026-06-22,136,"Lucid Group, Inc.2026-06-22"
 TN,Hard Rock Cafe,2026-06-22,N/A,Hard Rock Cafe2026-06-22
 CA,"GXO Logistics Worldwide, LLC",2026-06-22,53,"GXO Logistics Worldwide, LLC2026-06-22"
-AZ,"Lucid USA, Inc.",2026-06-22,705,"Lucid USA, Inc.2026-06-22"
+AZ,"Lucid USA, Inc.",2026-06-22,N/A,"Lucid USA, Inc.2026-06-22"
 CA,Keywords International Limited Group,2026-06-22,128,Keywords International Limited Group2026-06-22
 CA,Frick Paper Company (Paper Mart),2026-06-22,78,Frick Paper Company (Paper Mart)2026-06-22
 CA,"Sangamo Therapeutics, Inc.",2026-06-22,4,"Sangamo Therapeutics, Inc.2026-06-22"
@@ -657,7 +657,7 @@ CA,"ServiceNow, Inc.",2026-06-10,54,"ServiceNow, Inc.2026-06-10"
 HI,Ben Bridge (Pearlridge Store),2026-06-09,N/A,Ben Bridge (Pearlridge Store)2026-06-09
 IA,Iowa Department of Management,2026-06-09,N/A,Iowa Department of Management2026-06-09
 VA,General Dynamics Information Technology ,2026-06-09,174,General Dynamics Information Technology 2026-06-09
-VT,University of Vermont Health,2026-06-09,142,University of Vermont Health2026-06-09
+VT,University of Vermont Health,2026-06-09,N/A,University of Vermont Health2026-06-09
 FL,"Sanitas Medical Centers 
 4980 E Irlo Bronson Memorial Hwy,
 
@@ -818,7 +818,7 @@ CA,"Off Duty Officers, Inc. (123 35th St.)",2026-06-02,2,"Off Duty Officers, Inc
 CA,"Off Duty Officers, Inc. (3333 National Ave.)",2026-06-02,2,"Off Duty Officers, Inc. (3333 National Ave.)2026-06-02"
 CA,"Off Duty Officers, Inc. (8725 Ariva Ct.)",2026-06-02,3,"Off Duty Officers, Inc. (8725 Ariva Ct.)2026-06-02"
 CA,"Off Duty Officers, Inc. (4058 Willows Rd.)",2026-06-02,1,"Off Duty Officers, Inc. (4058 Willows Rd.)2026-06-02"
-ME,SP+ Parking,2026-06-02,N/A,SP+ Parking2026-06-02
+ME,SP+ Parking,2026-06-02,100,SP+ Parking2026-06-02
 CA,"Off Duty Officers, Inc. (1250 Delevan Dr.)",2026-06-02,5,"Off Duty Officers, Inc. (1250 Delevan Dr.)2026-06-02"
 CA,"Off Duty Officers, Inc. (3477 E. Gage Ave.)",2026-06-02,2,"Off Duty Officers, Inc. (3477 E. Gage Ave.)2026-06-02"
 CA,"Off Duty Officers, Inc. (4873 Lone Tree Way)",2026-06-02,5,"Off Duty Officers, Inc. (4873 Lone Tree Way)2026-06-02"
@@ -881,7 +881,7 @@ MIAMI, FL, 33147",2026-05-29,56,"Maersk
 
 MIAMI, FL, 331472026-05-29"
 WA,Maverick Washington LLC Crazy Moose Mountlake Casino,2026-05-29,N/A,Maverick Washington LLC Crazy Moose Mountlake Casino2026-05-29
-VT,Franklin Foods,2026-05-28,99,Franklin Foods2026-05-28
+VT,Franklin Foods,2026-05-28,N/A,Franklin Foods2026-05-28
 CA,Acumen LLC & The SPHERE,2026-05-28,58,Acumen LLC & The SPHERE2026-05-28
 NY,"IPIC Theaters, LLC.",2026-05-28,58,"IPIC Theaters, LLC.2026-05-28"
 NJ,IPIC Theaters,2026-05-28,97,IPIC Theaters2026-05-28
@@ -895,7 +895,7 @@ NY,Morgan Stanley,2026-05-27,1,Morgan Stanley2026-05-27
 NY,Morgan Stanley,2026-05-27,7,Morgan Stanley2026-05-27
 CA,"Trifecta JLS, Inc./Plank",2026-05-27,70,"Trifecta JLS, Inc./Plank2026-05-27"
 PA,Lineage Logistics,2026-05-27,208,Lineage Logistics2026-05-27
-AZ,Honeywell AZ0Y,2026-05-27,60,Honeywell AZ0Y2026-05-27
+AZ,Honeywell AZ0Y,2026-05-27,N/A,Honeywell AZ0Y2026-05-27
 OR,PacificSource,2026-05-27,N/A,PacificSource2026-05-27
 OR,PacificSource - Bend,2026-05-27,N/A,PacificSource - Bend2026-05-27
 OR,PacificSource - Portland,2026-05-27,N/A,PacificSource - Portland2026-05-27
@@ -1010,7 +1010,7 @@ CA,"ACT Lighting, Inc.",2026-05-15,9,"ACT Lighting, Inc.2026-05-15"
 CA,LinkedIn Corporation,2026-05-15,352,LinkedIn Corporation2026-05-15
 NY,"Main Street Sports Group, LLC",2026-05-14,66,"Main Street Sports Group, LLC2026-05-14"
 NJ,Scudetto Logistics,2026-05-14,120,Scudetto Logistics2026-05-14
-AZ,"SDH Education West, LLC",2026-05-14,N/A,"SDH Education West, LLC2026-05-14"
+AZ,"SDH Education West, LLC",2026-05-14,489,"SDH Education West, LLC2026-05-14"
 TN,"Greenbean Ventures, LLC",2026-05-14,N/A,"Greenbean Ventures, LLC2026-05-14"
 TN,Tsubaki Nakashima,2026-05-14,N/A,Tsubaki Nakashima2026-05-14
 IA,UnityPoint Health ,2026-05-14,N/A,UnityPoint Health 2026-05-14
@@ -1151,9 +1151,9 @@ VA,KBR Wyle Services LLC,2026-05-01,118,KBR Wyle Services LLC2026-05-01
 CA,First Student,2026-05-01,170,First Student2026-05-01
 NJ,Walmart,2026-05-01,100,Walmart2026-05-01
 VA,Ideal US Talent Worker OpCo LLC,2026-05-01,776,Ideal US Talent Worker OpCo LLC2026-05-01
-AZ,Advanced Call Center Technologies (ACT),2026-05-01,232,Advanced Call Center Technologies (ACT)2026-05-01
+AZ,Advanced Call Center Technologies (ACT),2026-05-01,N/A,Advanced Call Center Technologies (ACT)2026-05-01
 IN,Cummins Inc,2026-05-01,59,Cummins Inc2026-05-01
-KS,First Student,2026-05-01,151,First Student2026-05-01
+KS,First Student,2026-05-01,N/A,First Student2026-05-01
 SC,"Parsec, LLC",2026-05-01,39,"Parsec, LLC2026-05-01"
 RI,Ideal US Talent Systems Worker OpCo LLC ,2026-05-01,98912,Ideal US Talent Systems Worker OpCo LLC 2026-05-01
 CA,"Bayless Manufacturing, LLC",2026-05-01,16,"Bayless Manufacturing, LLC2026-05-01"
@@ -1230,7 +1230,7 @@ TN,Yanfeng International Automotive Technology US I LLC,2026-04-29,N/A,Yanfeng I
 VA,AeroFarms Inc. - Rescinded,2026-04-29,133,AeroFarms Inc. - Rescinded2026-04-29
 CA,"Skyline Avatar House, LP",2026-04-29,49,"Skyline Avatar House, LP2026-04-29"
 VA,Milestone Technologies Inc,2026-04-29,50,Milestone Technologies Inc2026-04-29
-AZ,Northpoint Expeditionary Learning Academy,2026-04-29,N/A,Northpoint Expeditionary Learning Academy2026-04-29
+AZ,Northpoint Expeditionary Learning Academy,2026-04-29,21,Northpoint Expeditionary Learning Academy2026-04-29
 UT,Milestone Technologies Inc.,2026-04-29,50,Milestone Technologies Inc.2026-04-29
 OR,"Prineville, OR Facility",2026-04-29,N/A,"Prineville, OR Facility2026-04-29"
 CA,Transdev,2026-04-29,126,Transdev2026-04-29
@@ -1312,7 +1312,7 @@ CA,"Constellation Brands, Inc.",2026-04-24,7,"Constellation Brands, Inc.2026-04-
 UT,"Bright Planet Solar, Inc.",2026-04-24,60,"Bright Planet Solar, Inc.2026-04-24"
 CA,Blue Diamond Growers,2026-04-24,3,Blue Diamond Growers2026-04-24
 VA,Republic National Distributing Company LLC,2026-04-23,428,Republic National Distributing Company LLC2026-04-23
-AZ,"Republic National Distributing Company, LLC",2026-04-23,213,"Republic National Distributing Company, LLC2026-04-23"
+AZ,"Republic National Distributing Company, LLC",2026-04-23,N/A,"Republic National Distributing Company, LLC2026-04-23"
 CA,Epic Games Inc. (Remote Employees in San Francisco),2026-04-23,28,Epic Games Inc. (Remote Employees in San Francisco)2026-04-23
 CA,Epic Games Inc.,2026-04-23,28,Epic Games Inc.2026-04-23
 CA,Epic Games Inc.,2026-04-23,16,Epic Games Inc.2026-04-23
@@ -1421,7 +1421,7 @@ IA,UnityPoint Health ,2026-04-14,N/A,UnityPoint Health 2026-04-14
 IA,UnityPoint Health ,2026-04-14,N/A,UnityPoint Health 2026-04-14
 IA,UnityPoint Health ,2026-04-14,N/A,UnityPoint Health 2026-04-14
 IA,UnityPoint Health ,2026-04-14,N/A,UnityPoint Health 2026-04-14
-AZ,"The Tendit Group, LLC.",2026-04-14,143,"The Tendit Group, LLC.2026-04-14"
+AZ,"The Tendit Group, LLC.",2026-04-14,N/A,"The Tendit Group, LLC.2026-04-14"
 IA,UnityPoint Health ,2026-04-14,N/A,UnityPoint Health 2026-04-14
 IN,RESRG Automotive,2026-04-14,266,RESRG Automotive2026-04-14
 MO,Unknown,2026-04-14,25,Unknown2026-04-14
@@ -1483,7 +1483,7 @@ CA,"Aramark Campus, LLC",2026-04-10,49,"Aramark Campus, LLC2026-04-10"
 MO,Unknown,2026-04-10,143,Unknown2026-04-10
 SC,"Industrial Plastics Group, LLC",2026-04-10,74,"Industrial Plastics Group, LLC2026-04-10"
 CA,Sumisho Air Lease Corporation,2026-04-09,53,Sumisho Air Lease Corporation2026-04-09
-AZ,VisionQuest National LTD,2026-04-09,N/A,VisionQuest National LTD2026-04-09
+AZ,VisionQuest National LTD,2026-04-09,203,VisionQuest National LTD2026-04-09
 CA,Carnegie Science Institution of Washington,2026-04-09,27,Carnegie Science Institution of Washington2026-04-09
 AL,Legacy Supply Chain Operations,2026-04-09,6,Legacy Supply Chain Operations2026-04-09
 AZ,"Catholic Community Services of Southern Arizona, Inc.",2026-04-08,74,"Catholic Community Services of Southern Arizona, Inc.2026-04-08"
@@ -1643,13 +1643,13 @@ ORLANDO, FL, 32819",2026-03-27,120,"HCL America, Inc
 9002 San Marco Court
 
 ORLANDO, FL, 328192026-03-27"
-KS,Ashley Clinic/Southeast Kansas Mental Health Center,2026-03-27,116,Ashley Clinic/Southeast Kansas Mental Health Center2026-03-27
+KS,Ashley Clinic/Southeast Kansas Mental Health Center,2026-03-27,N/A,Ashley Clinic/Southeast Kansas Mental Health Center2026-03-27
 CA,Crittenton (100 E. Valley View),2026-03-27,81,Crittenton (100 E. Valley View)2026-03-27
 CA,Rb Wine Associates LLC dba Rack & Riddle,2026-03-27,32,Rb Wine Associates LLC dba Rack & Riddle2026-03-27
 CA,DASH Industries,2026-03-26,80,DASH Industries2026-03-26
 CA,"Kay and Associates, Inc.",2026-03-26,103,"Kay and Associates, Inc.2026-03-26"
 RI,"Allied Group, LLC",2026-03-26,154,"Allied Group, LLC2026-03-26"
-AZ,"Sinomax East, Inc.",2026-03-26,N/A,"Sinomax East, Inc.2026-03-26"
+AZ,"Sinomax East, Inc.",2026-03-26,89,"Sinomax East, Inc.2026-03-26"
 CA,Welcome Palm Springs LLC dba Riviera Resort & Spa Palm Springs,2026-03-26,233,Welcome Palm Springs LLC dba Riviera Resort & Spa Palm Springs2026-03-26
 OR,Horizon Air - Rogue Valley Internationa,2026-03-26,N/A,Horizon Air - Rogue Valley Internationa2026-03-26
 CA,"MAG Brand Group, LLC",2026-03-25,53,"MAG Brand Group, LLC2026-03-25"
@@ -2250,7 +2250,7 @@ TAMPA, FL, 33607",2026-02-05,102,"Liberty Dental Plan Corporation
 3109 W. Dr. Martin Luther King Jr. Blvd
 Suite 100
 TAMPA, FL, 336072026-02-05"
-AZ,Liberty Dental Plan,2026-02-05,1,Liberty Dental Plan2026-02-05
+AZ,Liberty Dental Plan,2026-02-05,N/A,Liberty Dental Plan2026-02-05
 CA,"Medtronic, Inc.",2026-02-05,81,"Medtronic, Inc.2026-02-05"
 AL,Tiffin Motorhomes Incorporated,2026-02-05,139,Tiffin Motorhomes Incorporated2026-02-05
 CA,"Liberty Dental Plan of California, Inc.",2026-02-05,22,"Liberty Dental Plan of California, Inc.2026-02-05"
@@ -2493,13 +2493,13 @@ MO,Unknown,2026-01-30,93,Unknown2026-01-30
 CA,"MINACT, Inc.",2026-01-30,118,"MINACT, Inc.2026-01-30"
 MO,Unknown,2026-01-30,213,Unknown2026-01-30
 CA,V2X - NASA Armstrong Flight Research Center MS 1714,2026-01-30,62,V2X - NASA Armstrong Flight Research Center MS 17142026-01-30
-AZ,"Automated Harvesting, LLC.",2026-01-30,N/A,"Automated Harvesting, LLC.2026-01-30"
+AZ,"Automated Harvesting, LLC.",2026-01-30,46,"Automated Harvesting, LLC.2026-01-30"
 OK,Bright Horizons,2026-01-30,N/A,Bright Horizons2026-01-30
 CA,Del Monte Foods Corporation II Inc. - Hughson,2026-01-30,11,Del Monte Foods Corporation II Inc. - Hughson2026-01-30
 CA,Del Monte Foods Corporation II Inc - Modesto,2026-01-30,765,Del Monte Foods Corporation II Inc - Modesto2026-01-30
 CA,"Mercury Systems, Inc.",2026-01-30,18,"Mercury Systems, Inc.2026-01-30"
 TN,DLH Solutions,2026-01-30,N/A,DLH Solutions2026-01-30
-KS,"Vornado Air, LLC.",2026-01-30,N/A,"Vornado Air, LLC.2026-01-30"
+KS,"Vornado Air, LLC.",2026-01-30,72,"Vornado Air, LLC.2026-01-30"
 CA,Medical Device Components LLC dba Lighteum Medical,2026-01-30,83,Medical Device Components LLC dba Lighteum Medical2026-01-30
 SC,Santee Print Works,2026-01-30,140,Santee Print Works2026-01-30
 IN,National Distribution Centers,2026-01-30,53,National Distribution Centers2026-01-30
@@ -2591,8 +2591,8 @@ WA,CHS Northwest,2026-01-28,N/A,CHS Northwest2026-01-28
 WA,Amazon,2026-01-28,N/A,Amazon2026-01-28
 CA,Amazon - MAF8,2026-01-28,196,Amazon - MAF82026-01-28
 CA,"Catholic Charities, Diocese of San Diego - MG Suite B",2026-01-27,11,"Catholic Charities, Diocese of San Diego - MG Suite B2026-01-27"
-ME,Gathr Outdoors dba Pride Manufacturing Co LLC,2026-01-27,6,Gathr Outdoors dba Pride Manufacturing Co LLC2026-01-27
-AZ,Benchmark,2026-01-27,65,Benchmark2026-01-27
+ME,Gathr Outdoors dba Pride Manufacturing Co LLC,2026-01-27,N/A,Gathr Outdoors dba Pride Manufacturing Co LLC2026-01-27
+AZ,Benchmark,2026-01-27,N/A,Benchmark2026-01-27
 CA,Thermo Fisher Scientific,2026-01-27,173,Thermo Fisher Scientific2026-01-27
 IA,American Contract Systems ,2026-01-27,N/A,American Contract Systems 2026-01-27
 CA,"Catholic Charities, Diocese of San Diego - San Diego Migrant Shelter",2026-01-27,7,"Catholic Charities, Diocese of San Diego - San Diego Migrant Shelter2026-01-27"
@@ -2827,10 +2827,10 @@ Miami
 MIAMI, FL, 331012026-01-08"
 UT,SMBC Manubank,2026-01-08,1,SMBC Manubank2026-01-08
 CA,Pomona Hospital Medical Center (1601),2026-01-07,1,Pomona Hospital Medical Center (1601)2026-01-07
-AZ,GNC Distribution Center,2026-01-07,66,GNC Distribution Center2026-01-07
+AZ,GNC Distribution Center,2026-01-07,N/A,GNC Distribution Center2026-01-07
 CA,Pomona Hospital Medical Center (1798),2026-01-07,108,Pomona Hospital Medical Center (1798)2026-01-07
 CA,Pomona Hospital Medical Center (300),2026-01-07,4,Pomona Hospital Medical Center (300)2026-01-07
-AZ,Avelo Airlines,2026-01-07,97,Avelo Airlines2026-01-07
+AZ,Avelo Airlines,2026-01-07,N/A,Avelo Airlines2026-01-07
 CO,Alan Ritchey,2026-01-06,729,Alan Ritchey2026-01-06
 CA,Alameda Health System - System Support Center,2026-01-06,18,Alameda Health System - System Support Center2026-01-06
 CA,Alameda Health System - Fairmont Rehabilitation and Wellness,2026-01-06,44,Alameda Health System - Fairmont Rehabilitation and Wellness2026-01-06
